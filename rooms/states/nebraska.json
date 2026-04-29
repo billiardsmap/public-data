@@ -1,0 +1,55 @@
+[
+  {
+    "id": "ne-1",
+    "business_name": "Big John's Billiards",
+    "slug": "big-johns-omaha",
+    "street_address": "9819 M St",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "zip": "68127",
+    "latitude": 41.2057,
+    "longitude": -96.0664,
+    "phone": "(402) 339-9599",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 30,
+    "table_types": {
+      "9-foot": 15,
+      "7-foot": 15,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "VNEA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 88,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "Massive pool hall in Omaha known for huge local leagues and a friendly atmosphere.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great local room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

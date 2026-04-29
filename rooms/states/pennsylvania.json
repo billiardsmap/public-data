@@ -1,0 +1,157 @@
+[
+  {
+    "id": "pa-1",
+    "business_name": "Fusco's The Spot",
+    "slug": "fuscos-the-spot-trevose",
+    "street_address": "4432 E Bristol Rd, Ste 6",
+    "city": "Feasterville-Trevose",
+    "state": "Pennsylvania",
+    "zip": "19053",
+    "latitude": 40.1345,
+    "longitude": -74.9818,
+    "phone": "(215) 357-1996",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 35,
+    "table_types": {
+      "9-foot": 20,
+      "7-foot": 15,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 1,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "TAP"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "BYOB & Snacks",
+    "handicap_accessible": true,
+    "room_description": "A well-known local pool hall often described as having an old-school vibe. Features a large number of tables, a heated billiards table, and a family-owned atmosphere.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great BYOB old school room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "pa-2",
+    "business_name": "Bluegrass Billiards",
+    "slug": "bluegrass-billiards-philadelphia",
+    "street_address": "9490 Blue Grass Rd",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "zip": "19114",
+    "latitude": 40.0664,
+    "longitude": -75.0118,
+    "phone": "(215) 677-1600",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 22,
+    "table_types": {
+      "9-foot": 15,
+      "7-foot": 7,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Wednesdays",
+    "verified_status": "verified",
+    "verification_score": 88,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "A large, popular venue in Northeast Philly with numerous 9-foot Brunswick tables, a full bar, and a very active league scene.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Busy league room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "pa-3",
+    "business_name": "Markley Billiards",
+    "slug": "markley-billiards-norristown",
+    "street_address": "1713 Markley St",
+    "city": "Norristown",
+    "state": "Pennsylvania",
+    "zip": "19401",
+    "latitude": 40.1287,
+    "longitude": -75.3409,
+    "phone": "(610) 279-8898",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "2:00 PM – 12:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 14,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 92,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "BYOB",
+    "handicap_accessible": true,
+    "room_description": "Frequently recommended by local players for its quality Diamond and Brunswick tables and quiet, serious-player environment. Smoke-free BYOB.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Top tier player room. Quiet and clean.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

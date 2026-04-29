@@ -1,0 +1,30 @@
+{
+  "tournament_id": "matchroom-mosconi-cup-2026",
+  "room_id": "tbd-florida-venue",
+  "director_id": "matchroom-pool",
+  "event_name": "Mosconi Cup 2026",
+  "flyer_image_url": "https://matchroompool.com/wp-content/uploads/2026-mosconi-cup.jpg",
+  "structured_data": {
+    "game_type": "9-Ball",
+    "format": "Team",
+    "elimination_type": "Round Robin",
+    "race_to": "5",
+    "entry_fee_amount": 0,
+    "green_fee_amount": 0,
+    "added_money_amount": 0,
+    "prize_pool_guaranteed": true,
+    "start_datetime": "2026-11-27T10:00:00Z"
+  },
+  "recurrence_mapping": {
+    "is_recurring": true,
+    "frequency": "Annual",
+    "day_of_week": ""
+  },
+  "historical_data": {
+    "field_size_cap": 10,
+    "actual_entrants": 10,
+    "first_place_payout": 40000,
+    "calcutta_total": 0
+  },
+  "verification_status": "verified"
+}

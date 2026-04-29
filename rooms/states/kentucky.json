@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ky-1",
+    "business_name": "Billiards Club of Louisville",
+    "slug": "billiards-club-of-louisville",
+    "street_address": "5404 Bardstown Rd",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "zip": "40291",
+    "latitude": 38.1691,
+    "longitude": -85.6022,
+    "phone": "(502) 231-5002",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Saturdays",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Beer & Snacks",
+    "handicap_accessible": true,
+    "room_description": "A dedicated pool hall for enthusiasts to play in a non-restaurant-focused environment. Features regulation tables and hosts strong pool leagues.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Dedicated serious pool room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ky-2",
+    "business_name": "Diamond Pub & Billiards",
+    "slug": "diamond-pub-billiards-highlands",
+    "street_address": "630 Barret Ave",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "zip": "40204",
+    "latitude": 38.2435,
+    "longitude": -85.7314,
+    "phone": "(502) 690-7040",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 4:00 AM"
+    },
+    "table_count": 20,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 20,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 75,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Street parking / Lot",
+    "alcohol_food_availability": "Full Bar & Pub Food",
+    "handicap_accessible": true,
+    "room_description": "A massive pub/restaurant venue in the Highlands area that offers a large number of pool tables for patrons, alongside live music and sports.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Huge pub with tons of tables. Very social.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

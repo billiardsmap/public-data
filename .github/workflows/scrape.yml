@@ -1,0 +1,45 @@
+name: Scrape & Validate Billiards Data
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        run: npm install
+        working-directory: ./scripts
+
+      - name: Run Room Scrapers
+        run: node scripts/scraper-googlemaps.js
+        
+      - name: Run League Scrapers
+        run: node scripts/scraper-apa.js
+
+      - name: Validate & Dedupe
+        run: node scripts/validator.js
+
+      - name: Geocode Missing Entries
+        run: node scripts/geocoder.js
+
+      - name: Generate Health Report
+        run: node scripts/health-reporter.js
+
+      - name: Create Pull Request if Updates Exist
+        uses: peter-evans/create-pull-request@v5
+        with:
+          title: 'Automated Data Ingestion Update'
+          branch: 'auto-ingest-update'
+          commit-message: 'chore(data): automated verification and ingestion run'
+          body: 'This PR contains automated updates from the 6-hour scrape cycle.'

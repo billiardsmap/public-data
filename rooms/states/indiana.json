@@ -1,0 +1,213 @@
+[
+  {
+    "id": "in-1",
+    "business_name": "Brickyard Billiards",
+    "slug": "brickyard-billiards-indianapolis",
+    "street_address": "6425 W Washington St",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "zip": "46241",
+    "latitude": 39.7431,
+    "longitude": -86.2731,
+    "phone": "(317) 244-6725",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 3:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 6,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Often highlighted as a dedicated pool hall on the Westside rather than just a bar, providing a more focused environment for serious play.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Dedicated pool hall, strong players.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "in-2",
+    "business_name": "John Wayne's Pub",
+    "slug": "john-waynes-pub-indianapolis",
+    "street_address": "6911 S Harding St",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "zip": "46217",
+    "latitude": 39.6645,
+    "longitude": -86.186,
+    "phone": "(317) 787-8797",
+    "website": "https://www.johnwaynespub.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 3:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Wednesdays",
+    "verified_status": "verified",
+    "verification_score": 88,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "A popular Southside pub featuring excellent Diamond tables and hosting regular leagues and tournaments.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great tables in a pub setting.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "in-3",
+    "business_name": "Kip's Pub",
+    "slug": "kips-pub-indianapolis",
+    "street_address": "9342 Allisonville Rd",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "zip": "46250",
+    "latitude": 39.9238,
+    "longitude": -86.0699,
+    "phone": "(317) 577-0466",
+    "website": "https://www.kipspubindy.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 3:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 12,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Tuesdays",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Highly recommended Northside spot for its high-quality Diamond tables. Relaxed environment perfect for league play.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Excellent Diamond bar boxes.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "in-4",
+    "business_name": "Bluetip Billiards",
+    "slug": "bluetip-billiards-bloomington",
+    "street_address": "426 S Washington St",
+    "city": "Bloomington",
+    "state": "Indiana",
+    "zip": "47401",
+    "latitude": 39.1627,
+    "longitude": -86.531,
+    "phone": "(812) 332-1598",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "2:00 PM – 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 75,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-9ball.jpg"
+    ],
+    "primary_hero_image": "/images/feature-9ball.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Beer & Snacks",
+    "handicap_accessible": true,
+    "room_description": "Recognized as a premier spot in Bloomington, known for a relaxed, blue-collar atmosphere, affordable food/drinks, and billiard supplies.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great college town pool hall.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

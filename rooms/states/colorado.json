@@ -1,0 +1,210 @@
+[
+  {
+    "id": "co-1",
+    "business_name": "Mile High Billiards",
+    "slug": "mile-high-billiards-arvada",
+    "street_address": "11651 W 64th Ave",
+    "city": "Arvada",
+    "state": "Colorado",
+    "zip": "80004",
+    "latitude": 39.8138,
+    "longitude": -105.1294,
+    "phone": "(303) 424-2139",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 22,
+    "table_types": {
+      "9-foot": 15,
+      "7-foot": 6,
+      "8-foot": 0,
+      "snooker": 1,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Wednesdays & Saturdays",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "player_verified"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Often cited as having some of the highest-quality, best-maintained tables in the Colorado area. Catering to a serious crowd with bank tables and snooker.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "A true player's room. Excellent conditions.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "co-2",
+    "business_name": "Gerard's Pool Hall",
+    "slug": "gerards-pool-hall-denver",
+    "street_address": "1305 26th St",
+    "city": "Denver",
+    "state": "Colorado",
+    "zip": "80205",
+    "latitude": 39.7571,
+    "longitude": -104.9841,
+    "phone": "(303) 296-1010",
+    "website": "https://www.gerardspoolhall.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "4:00 PM – 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 92,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Craft Cocktails & Beer",
+    "handicap_accessible": false,
+    "room_description": "Located in Five Points, known for having impeccably maintained 9-foot tables in a classy, speakeasy-style environment.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "High-end aesthetic but highly respected by serious players.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "co-3",
+    "business_name": "Felt Billiards",
+    "slug": "felt-billiards-englewood",
+    "street_address": "3201 S Broadway",
+    "city": "Englewood",
+    "state": "Colorado",
+    "zip": "80113",
+    "latitude": 39.6582,
+    "longitude": -104.9877,
+    "phone": "(720) 266-6190",
+    "website": "http://feltbar.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 25,
+    "table_types": {
+      "9-foot": 10,
+      "7-foot": 15,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Thursdays & Sundays",
+    "verified_status": "verified",
+    "verification_score": 88,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "A highly regarded spot for competitive play. Frequently mentioned for hosting regular pool tournaments and massive league nights.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Very busy, large tournaments.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "co-4",
+    "business_name": "Zanzibar Billiards Club",
+    "slug": "zanzibar-billiards-denver",
+    "street_address": "2046 Larimer St",
+    "city": "Denver",
+    "state": "Colorado",
+    "zip": "80205",
+    "latitude": 39.7533,
+    "longitude": -104.9922,
+    "phone": "(303) 308-9999",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Worn",
+    "league_types": [],
+    "tournament_frequency": "None",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 75,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-9ball.jpg"
+    ],
+    "primary_hero_image": "/images/feature-9ball.jpg",
+    "parking_info": "Paid street/lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "A popular dive-style bar in downtown Denver (LoDo). Known for eccentric atmosphere and free pool specials.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Casual crowd, tables are rough but fun vibe.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

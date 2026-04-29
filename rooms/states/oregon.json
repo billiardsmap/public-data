@@ -1,0 +1,106 @@
+[
+  {
+    "id": "or-1",
+    "business_name": "Sam's Hollywood Billiards",
+    "slug": "sams-hollywood-billiards-portland",
+    "street_address": "1845 NE 41st Ave",
+    "city": "Portland",
+    "state": "Oregon",
+    "zip": "97212",
+    "latitude": 45.5368,
+    "longitude": -122.6198,
+    "phone": "(503) 282-8266",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 15,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 1,
+      "carom": 2,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Sundays",
+    "verified_status": "verified",
+    "verification_score": 92,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Full Bar & Diner",
+    "handicap_accessible": true,
+    "room_description": "A true Portland classic. Legendary old-school pool hall in the Hollywood district featuring well-maintained 9-foot tables, snooker, and carom.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Portland's best pool hall.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "or-2",
+    "business_name": "Classic Billiards",
+    "slug": "classic-billiards-portland",
+    "street_address": "3636 SE 122nd Ave",
+    "city": "Portland",
+    "state": "Oregon",
+    "zip": "97236",
+    "latitude": 45.4947,
+    "longitude": -122.5376,
+    "phone": "(503) 761-2621",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "10:00 AM – 1:00 AM"
+    },
+    "table_count": 20,
+    "table_types": {
+      "9-foot": 10,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Spacious, relaxed billiards room with excellent tables in SE Portland.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great player's room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

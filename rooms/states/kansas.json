@@ -1,0 +1,160 @@
+[
+  {
+    "id": "ks-1",
+    "business_name": "Shooters",
+    "slug": "shooters-olathe",
+    "street_address": "1001 E Santa Fe St",
+    "city": "Olathe",
+    "state": "Kansas",
+    "zip": "66061",
+    "latitude": 38.8814,
+    "longitude": -94.8055,
+    "phone": "(913) 780-5740",
+    "website": "https://shootersolathe.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 25,
+    "table_types": {
+      "9-foot": 10,
+      "7-foot": 15,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Saturdays",
+    "verified_status": "verified",
+    "verification_score": 95,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Snacks",
+    "handicap_accessible": true,
+    "room_description": "Premier destination for serious players in the Kansas City metro area. Known for frequent tournaments and high-quality 9-foot Diamond tables. Non-smoking private club.",
+    "membership_info": "Membership required",
+    "local_reputation_notes": "Best competitive room in the KC metro area.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ks-2",
+    "business_name": "Southrock Billiards & Sports Bar",
+    "slug": "southrock-billiards-wichita",
+    "street_address": "2020 S Rock Rd",
+    "city": "Wichita",
+    "state": "Kansas",
+    "zip": "67207",
+    "latitude": 37.6521,
+    "longitude": -97.2435,
+    "phone": "(316) 684-2583",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 14,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Wednesdays",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Pizza",
+    "handicap_accessible": true,
+    "room_description": "A popular local hub for pool enthusiasts in Wichita, featuring multiple tables and hosting large league play.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Good sports bar with strong leagues.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ks-3",
+    "business_name": "Side Pockets",
+    "slug": "side-pockets-lenexa",
+    "street_address": "13320 W 87th St Pkwy",
+    "city": "Lenexa",
+    "state": "Kansas",
+    "zip": "66215",
+    "latitude": 38.971,
+    "longitude": -94.7391,
+    "phone": "(913) 894-0100",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 22,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 22,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Sundays",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Sports Grill",
+    "handicap_accessible": true,
+    "room_description": "Known for having a large number of tables and a casual, sports-bar setting. Part of a regional franchise.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Large, clean, commercial sports bar with pool.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "tournament_id": "griffs-vegas-weekly-9ball",
+  "room_id": "nv-1",
+  "director_id": "griffs-management",
+  "event_name": "Griff's Weekly 9-Ball Open",
+  "flyer_image_url": "/images/griffs-weekly.jpg",
+  "structured_data": {
+    "game_type": "9-Ball",
+    "format": "Singles",
+    "elimination_type": "Double",
+    "race_to": "Race to 5/4",
+    "entry_fee_amount": 25,
+    "green_fee_amount": 5,
+    "added_money_amount": 250,
+    "prize_pool_guaranteed": false,
+    "start_datetime": "2026-05-01T19:00:00Z"
+  },
+  "recurrence_mapping": {
+    "is_recurring": true,
+    "frequency": "Weekly",
+    "day_of_week": "Friday"
+  },
+  "historical_data": {
+    "field_size_cap": 64,
+    "actual_entrants": 45,
+    "first_place_payout": 400,
+    "calcutta_total": 0
+  },
+  "verification_status": "verified"
+}

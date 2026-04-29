@@ -1,0 +1,83 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "BilliardsMap Chalk Scout Profile",
+  "description": "Schema for tracking user gamification, points, and contribution levels.",
+  "type": "object",
+  "properties": {
+    "user_id": {
+      "type": "string",
+      "description": "Unique identifier linked to Auth provider (e.g., Clerk ID)"
+    },
+    "username": {
+      "type": "string",
+      "description": "Public display name for leaderboards"
+    },
+    "total_points": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Total accumulated points across all verified contributions"
+    },
+    "current_level": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 10,
+      "description": "User's current level (1-10) calculated dynamically from total_points"
+    },
+    "current_badge": {
+      "type": "string",
+      "enum": [
+        "Railbird",
+        "Novice Scout",
+        "Local Regular",
+        "Room Fixture",
+        "Action Junkie",
+        "Road Player",
+        "Regional Champ",
+        "Shortstop",
+        "Touring Pro",
+        "Hall of Famer"
+      ],
+      "description": "The title associated with the user's current_level"
+    },
+    "trust_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Internal trust score (0.0 to 1.0). High trust allows auto-approval of submissions."
+    },
+    "contributions": {
+      "type": "object",
+      "properties": {
+        "photos_uploaded": { "type": "integer", "default": 0 },
+        "tournaments_added": { "type": "integer", "default": 0 },
+        "rooms_verified": { "type": "integer", "default": 0 },
+        "table_counts_confirmed": { "type": "integer", "default": 0 },
+        "corrections_made": { "type": "integer", "default": 0 }
+      },
+      "required": [
+        "photos_uploaded",
+        "tournaments_added",
+        "rooms_verified",
+        "table_counts_confirmed",
+        "corrections_made"
+      ]
+    },
+    "join_date": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "last_active": {
+      "type": "string",
+      "format": "date-time"
+    }
+  },
+  "required": [
+    "user_id",
+    "username",
+    "total_points",
+    "current_level",
+    "current_badge",
+    "trust_score",
+    "contributions"
+  ]
+}

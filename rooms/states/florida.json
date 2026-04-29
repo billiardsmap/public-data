@@ -1,0 +1,201 @@
+[
+  {
+    "id": "fl-1",
+    "business_name": "Stroker's Billiards",
+    "slug": "strokers-billiards-palm-harbor",
+    "street_address": "30901 US Hwy 19 N",
+    "city": "Palm Harbor",
+    "state": "Florida",
+    "zip": "34684",
+    "latitude": 28.0519,
+    "longitude": -82.7383,
+    "phone": "(727) 786-6683",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 22,
+    "table_types": {
+      "9-foot": 12,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Tuesdays",
+    "verified_status": "verified",
+    "verification_score": 95,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "human_correction"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Tampa Bay area heavyweight room featuring excellent tables and strong action.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Highly regarded in the Tampa area.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "fl-2",
+    "business_name": "Park Avenue Billiards",
+    "slug": "park-avenue-billiards-orange-park",
+    "street_address": "714 Park Ave",
+    "city": "Orange Park",
+    "state": "Florida",
+    "zip": "32073",
+    "latitude": 30.1691,
+    "longitude": -81.7067,
+    "phone": "(904) 215-1557",
+    "website": "https://parkavenuebilliards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "10:00 AM – 2:00 AM"
+    },
+    "table_count": 36,
+    "table_types": {
+      "9-foot": 18,
+      "7-foot": 18
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA",
+      "TAP"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Weekends",
+    "verified_status": "verified",
+    "verification_score": 98,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-9ball.jpg"
+    ],
+    "primary_hero_image": "/images/feature-9ball.jpg",
+    "parking_info": "Large lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "Massive North Florida institution with 36 tables, hosting huge events and leagues.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Massive room, very active.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "fl-3",
+    "business_name": "Capone's Billiards",
+    "slug": "capones-billiards-spring-hill",
+    "street_address": "10463 County Line Rd",
+    "city": "Spring Hill",
+    "state": "Florida",
+    "zip": "34609",
+    "latitude": 28.4357,
+    "longitude": -82.5539,
+    "phone": "(352) 688-9965",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 14
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Thursdays",
+    "verified_status": "strong_confidence",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "azbilliards_forums"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Bar",
+    "handicap_accessible": true,
+    "room_description": "Known for tough action and excellent equipment, a key stop in central Florida.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Strong player room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "fl-4",
+    "business_name": "Brewlands Bar & Billiards",
+    "slug": "brewlands-billiards-lakeland",
+    "street_address": "5161 US Hwy 98 S",
+    "city": "Lakeland",
+    "state": "Florida",
+    "zip": "33812",
+    "latitude": 27.9715,
+    "longitude": -81.9332,
+    "phone": "(863) 646-2600",
+    "website": "https://brewlandsbilliards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 24,
+    "table_types": {
+      "9-foot": 10,
+      "7-foot": 14
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 95,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Upscale Bar & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "Modern, upscale billiard lounge with high-end Diamond tables and a massive craft beer selection.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Very clean, highly popular.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

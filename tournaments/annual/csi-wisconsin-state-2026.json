@@ -1,0 +1,30 @@
+{
+  "tournament_id": "csi-wisconsin-state-2026",
+  "room_id": "tbd-wi-venue",
+  "director_id": "csi-bcapl",
+  "event_name": "2026 CSI Leagues Wisconsin State Championships",
+  "flyer_image_url": "https://playcsipool.com/uploads/wi-state-2026.jpg",
+  "structured_data": {
+    "game_type": "8-Ball",
+    "format": "Singles",
+    "elimination_type": "Double",
+    "race_to": "Varies by Fargo",
+    "entry_fee_amount": 100,
+    "green_fee_amount": 25,
+    "added_money_amount": 10000,
+    "prize_pool_guaranteed": true,
+    "start_datetime": "2026-08-01T09:00:00Z"
+  },
+  "recurrence_mapping": {
+    "is_recurring": true,
+    "frequency": "Annual",
+    "day_of_week": ""
+  },
+  "historical_data": {
+    "field_size_cap": 500,
+    "actual_entrants": 0,
+    "first_place_payout": 0,
+    "calcutta_total": 0
+  },
+  "verification_status": "verified"
+}

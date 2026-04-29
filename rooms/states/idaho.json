@@ -1,0 +1,54 @@
+[
+  {
+    "id": "id-1",
+    "business_name": "Pocket's Inc",
+    "slug": "pockets-boise",
+    "street_address": "1025 W Main St",
+    "city": "Boise",
+    "state": "Idaho",
+    "zip": "83702",
+    "latitude": 43.615,
+    "longitude": -116.2023,
+    "phone": "Unknown",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 5,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 75,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "manual_review"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Downtown Boise spot for billiards and drinks.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Good local action.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

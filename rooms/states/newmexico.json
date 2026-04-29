@@ -1,0 +1,54 @@
+[
+  {
+    "id": "nm-1",
+    "business_name": "Anodyne",
+    "slug": "anodyne-albuquerque",
+    "street_address": "409 Central Ave NW",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "zip": "87102",
+    "latitude": 35.0844,
+    "longitude": -106.6504,
+    "phone": "(505) 244-1820",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "4:00 PM – 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 12,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 75,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "manual_review"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "A very popular downtown Albuquerque billiards bar.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great local bar with pool.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

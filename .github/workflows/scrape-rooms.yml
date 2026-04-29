@@ -1,0 +1,51 @@
+name: Autonomous Room Scraper (10 States/Day)
+
+on:
+  schedule:
+    # Run at 02:00 UTC every day
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      force_states:
+        description: 'Comma-separated list of states to force scan (e.g., texas,nevada)'
+        required: false
+        type: string
+
+jobs:
+  scrape-rooms:
+    name: Scrape Pool Halls
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: |
+          # Stub for installing scraper dependencies (e.g., puppeteer, cheerio)
+          # npm install
+          echo "Dependencies installed."
+
+      - name: Execute Daily State Rotation Scraper
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          YELP_API_KEY: ${{ secrets.YELP_API_KEY }}
+        run: |
+          echo "Starting daily rotation..."
+          echo "Logic: Read state tracking file, pick next 10 states."
+          echo "If workflow_dispatch.inputs.force_states is provided, scan those instead."
+          node scripts/scrape-rooms.js
+          echo "Scraping complete for today's 10 states."
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "BilliardsMap Bot"
+          git config --global user.email "bot@billiardsmap.com"
+          git add rooms/states/*.json
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(data): auto-update pool hall intelligence [skip ci]" && git push)

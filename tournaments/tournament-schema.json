@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Tournament Flyer & Event Identity",
+  "type": "object",
+  "properties": {
+    "tournament_id": { "type": "string", "description": "Canonical ID of the tournament event" },
+    "room_id": { "type": "string", "description": "Canonical ID of the host venue" },
+    "director_id": { "type": "string", "description": "Canonical ID of the tournament director" },
+    "event_name": { "type": "string" },
+    "flyer_image_url": { "type": "string" },
+    "ocr_extraction": {
+      "type": "object",
+      "properties": {
+        "raw_text": { "type": "string" },
+        "confidence_score": { "type": "number" },
+        "extracted_date": { "type": "string" },
+        "extracted_time": { "type": "string" },
+        "extracted_entry_fee": { "type": "string" }
+      }
+    },
+    "structured_data": {
+      "type": "object",
+      "properties": {
+        "game_type": { "type": "string", "enum": ["8-Ball", "9-Ball", "10-Ball", "One Pocket", "Straight Pool", "Banks"] },
+        "format": { "type": "string", "enum": ["Singles", "Doubles", "Team", "Scotch Doubles"] },
+        "elimination_type": { "type": "string", "enum": ["Single", "Double", "Round Robin", "Modified Single"] },
+        "race_to": { "type": "string" },
+        "entry_fee_amount": { "type": "number" },
+        "green_fee_amount": { "type": "number" },
+        "added_money_amount": { "type": "number" },
+        "prize_pool_guaranteed": { "type": "boolean" },
+        "start_datetime": { "type": "string", "format": "date-time" }
+      }
+    },
+    "recurrence_mapping": {
+      "type": "object",
+      "properties": {
+        "is_recurring": { "type": "boolean" },
+        "frequency": { "type": "string", "enum": ["Weekly", "Monthly", "Annual", "One-Off"] },
+        "day_of_week": { "type": "string" }
+      }
+    },
+    "historical_data": {
+      "type": "object",
+      "properties": {
+        "field_size_cap": { "type": "integer" },
+        "actual_entrants": { "type": "integer" },
+        "first_place_payout": { "type": "number" },
+        "calcutta_total": { "type": "number" }
+      }
+    },
+    "verification_status": { "type": "string", "enum": ["verified", "user_submitted", "ocr_auto_parsed"] }
+  },
+  "required": ["tournament_id", "room_id", "event_name", "flyer_image_url"]
+}

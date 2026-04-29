@@ -1,0 +1,43 @@
+name: Data Verification & Scoring Engine
+
+on:
+  workflow_run:
+    workflows: ["Autonomous Room Scraper", "Autonomous Tournament Scraper"]
+    types:
+      - completed
+  workflow_dispatch:
+
+jobs:
+  verify-data:
+    name: Verify Places & Tables
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: |
+          # Stub for installing validation dependencies (e.g., ajv)
+          echo "Dependencies installed."
+
+      - name: Run Schema Validation & Table Verification
+        run: |
+          echo "Cross-referencing room data against validation sources..."
+          echo "Calculating 'verification_score' based on confidence algorithms..."
+          echo "Checking for duplicate entries and closed businesses..."
+          node scripts/verify-data.js
+          echo "Verification complete. Scores updated."
+
+      - name: Commit and Push Verified Data
+        run: |
+          git config --global user.name "BilliardsMap Bot"
+          git config --global user.email "bot@billiardsmap.com"
+          git add rooms/states/*.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(data): recalculate verification scores [skip ci]" && git push)

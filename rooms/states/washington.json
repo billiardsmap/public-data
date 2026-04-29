@@ -1,0 +1,107 @@
+[
+  {
+    "id": "wa-1",
+    "business_name": "Malarkey's Pool & Brew",
+    "slug": "malarkeys-tacoma",
+    "street_address": "455 Tacoma Ave S",
+    "city": "Tacoma",
+    "state": "Washington",
+    "zip": "98402",
+    "latitude": 47.2576,
+    "longitude": -122.4431,
+    "phone": "(253) 383-3301",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 12,
+      "7-foot": 6,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "A staple of the Pacific Northwest pool scene. Known for strong tournament action and heavily attended BCA/APA leagues.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great action in Tacoma.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "wa-2",
+    "business_name": "Golden Fleece Billiards",
+    "slug": "golden-fleece-everett",
+    "street_address": "2929 Colby Ave",
+    "city": "Everett",
+    "state": "Washington",
+    "zip": "98201",
+    "latitude": 47.9782,
+    "longitude": -122.2078,
+    "phone": "(425) 259-2511",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 10,
+      "7-foot": 5,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "A historic, classic room north of Seattle with a dedicated group of regulars.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Classic old school room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

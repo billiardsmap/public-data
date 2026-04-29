@@ -1,0 +1,159 @@
+[
+  {
+    "id": "mo-1",
+    "business_name": "Gerard's Pool Hall",
+    "slug": "gerards-pool-hall-kansas-city",
+    "street_address": "1532 Grand Blvd",
+    "city": "Kansas City",
+    "state": "Missouri",
+    "zip": "64108",
+    "latitude": 39.0945,
+    "longitude": -94.5815,
+    "phone": "(816) 471-1532",
+    "website": "https://gerardspoolhall.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "4:00 PM – 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Craft Cocktails & Food",
+    "handicap_accessible": true,
+    "room_description": "A premier billiards venue featuring a vintage 1970s theme with 9-foot Brunswick Gold Crown tables and a high-end cocktail bar.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Upscale downtown pool hall.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "mo-2",
+    "business_name": "Teacher's Billiards",
+    "slug": "teachers-billiards-st-peters",
+    "street_address": "3611 N St Peters Pkwy",
+    "city": "St Peters",
+    "state": "Missouri",
+    "zip": "63376",
+    "latitude": 38.7758,
+    "longitude": -90.5898,
+    "phone": "(636) 441-3990",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 1:00 AM"
+    },
+    "table_count": 25,
+    "table_types": {
+      "9-foot": 10,
+      "7-foot": 15,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "A well-known, large pool hall often cited by St. Louis area players. Frequently hosts tournaments and strong league play.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great tables, strong local tournaments.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "mo-3",
+    "business_name": "Billiards of Springfield",
+    "slug": "billiards-of-springfield",
+    "street_address": "541 E St Louis St",
+    "city": "Springfield",
+    "state": "Missouri",
+    "zip": "65806",
+    "latitude": 37.2091,
+    "longitude": -93.2878,
+    "phone": "(417) 866-4319",
+    "website": "https://www.billiardsofspringfield.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 1:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 14,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Tuesdays",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Full Bar & Famous Burgers",
+    "handicap_accessible": true,
+    "room_description": "A premier destination in Springfield featuring top-notch tables, a full bar, and famously good food.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Famous for their burgers and great 9ft tables.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

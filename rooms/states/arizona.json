@@ -1,0 +1,252 @@
+[
+  {
+    "id": "az-1",
+    "business_name": "Bull Shooters",
+    "slug": "bull-shooters-phoenix",
+    "street_address": "3337 W Peoria Ave",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "zip": "85029",
+    "latitude": 33.5822,
+    "longitude": -112.1325,
+    "phone": "(602) 441-2447",
+    "website": "https://www.bullshooters-az.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 40,
+    "table_types": {
+      "9-foot": 15,
+      "7-foot": 25,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Multiple Days",
+    "verified_status": "verified",
+    "verification_score": 98,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website",
+      "player_verified"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "One of the largest and best-known pool halls in the region featuring over 40 tables, including Diamond and Gold Crown models. Also features a pro shop.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "A massive staple in Phoenix pool. Strong action and massive leagues.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "az-2",
+    "business_name": "Metro Sportz Bar & Billiards",
+    "slug": "metro-sportz-bar-billiards-phoenix",
+    "street_address": "10054 N 43rd Ave",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "zip": "85051",
+    "latitude": 33.5786,
+    "longitude": -112.1504,
+    "phone": "(623) 934-8032",
+    "website": "https://metrosportzbar.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "10:00 AM – 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Thursdays & Saturdays",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "A long-standing staple in the Phoenix billiards community with professional-grade tables and a welcoming environment.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great tables and strong league participation.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "az-3",
+    "business_name": "Main Street Billiards",
+    "slug": "main-street-billiards-mesa",
+    "street_address": "1749 W Main St",
+    "city": "Mesa",
+    "state": "Arizona",
+    "zip": "85201",
+    "latitude": 33.4152,
+    "longitude": -111.8705,
+    "phone": "(480) 962-4211",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Sundays",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Snacks",
+    "handicap_accessible": true,
+    "room_description": "Popular on the east side of Phoenix in Mesa, known for its clean environment and high-quality equipment.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Well maintained tables and friendly staff.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "az-4",
+    "business_name": "Jester's Billiards",
+    "slug": "jesters-billiards-gilbert",
+    "street_address": "80 W Warner Rd",
+    "city": "Gilbert",
+    "state": "Arizona",
+    "zip": "85233",
+    "latitude": 33.3341,
+    "longitude": -111.7915,
+    "phone": "(480) 926-1314",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "10:00 AM – 2:00 AM"
+    },
+    "table_count": 27,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 27,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Mondays",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-9ball.jpg"
+    ],
+    "primary_hero_image": "/images/feature-9ball.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "Versatile spot functioning as family-friendly during the day and adults-only evening. Also features dart boards.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great spot for both casuals and league play.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "osm-810094645",
+    "business_name": "Prestige Billards",
+    "slug": "prestige-billards-mesa-az",
+    "street_address": "1455 South Stapley Drive",
+    "city": "Mesa",
+    "state": "Arizona",
+    "zip": "85204",
+    "latitude": 33.388962,
+    "longitude": -111.8046222,
+    "phone": "Unknown",
+    "website": "",
+    "table_count": 6,
+    "verified_status": "needs_review",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "Unknown",
+    "hours": {},
+    "table_types": {
+      "7-foot": 6
+    },
+    "cloth_type": "Standard",
+    "league_types": [],
+    "tournament_frequency": "",
+    "weekly_tournament_schedule": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap.",
+    "verification_score": 35,
+    "review_required": true,
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Unknown",
+    "handicap_accessible": true,
+    "membership_info": "Open to public",
+    "local_reputation_notes": ""
+  }
+]

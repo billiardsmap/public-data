@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Secrets & Configs
+.env
+.env.*
+!.env.example
+.dev.vars
+credentials.json
+client_secret.json
+*.pem
+*.key
+*.cert
+
+# macOS / OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Cloudflare Wrangler
+.wrangler/
+workers/**/.wrangler/
+
+# Build outputs
+dist/
+out/
+build/
+coverage/
+
+# Moderation / PII
+# Ignore pending user submissions to protect PII before approval
+submissions/pending-review.json
+submissions/pending/
+
+# Scripts
+# Ignore local testing scripts or keys for scrapers
+scripts/config.json
+scripts/secrets.json

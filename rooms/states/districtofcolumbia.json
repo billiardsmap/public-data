@@ -1,0 +1,104 @@
+[
+  {
+    "id": "dc-1",
+    "business_name": "Bedrock Billiards",
+    "slug": "bedrock-billiards-dc",
+    "street_address": "1841 Columbia Rd NW",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "zip": "20009",
+    "latitude": 38.9221,
+    "longitude": -77.0425,
+    "phone": "(202) 667-7665",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "4:00 PM – 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Beer & Snacks",
+    "handicap_accessible": false,
+    "room_description": "A retro-style basement bar known for a cozy, neighborhood hangout vibe. Features 7 Brunswick Gold Crown pool tables in Adams Morgan.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great neighborhood spot.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "dc-2",
+    "business_name": "Atomic Billiards",
+    "slug": "atomic-billiards-dc",
+    "street_address": "3427 Connecticut Ave NW",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "zip": "20008",
+    "latitude": 38.9348,
+    "longitude": -77.0583,
+    "phone": "(202) 363-7665",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "4:00 PM – 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 5,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Full Bar & BYOF",
+    "handicap_accessible": false,
+    "room_description": "A subterranean dive bar with a mid-century, space-age aesthetic in Cleveland Park. Five pool tables and a great beer selection.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Fun casual dive bar.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

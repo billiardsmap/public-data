@@ -1,0 +1,109 @@
+[
+  {
+    "id": "md-1",
+    "business_name": "Center Pocket Sports Bar & Billiards",
+    "slug": "center-pocket-bowie",
+    "street_address": "4931 Tesla Dr, Unit H",
+    "city": "Bowie",
+    "state": "Maryland",
+    "zip": "20715",
+    "latitude": 38.9669,
+    "longitude": -76.7118,
+    "phone": "(410) 721-3000",
+    "website": "https://www.centerpocketlc.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 6,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Thursdays",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "A well-known sports bar and billiards room serving the Bowie area. A popular venue for strong APA league play.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great tables, good sports bar.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "md-2",
+    "business_name": "The New Green Room Billiards",
+    "slug": "new-green-room-dundalk",
+    "street_address": "2401G North Point Blvd",
+    "city": "Dundalk",
+    "state": "Maryland",
+    "zip": "21229",
+    "latitude": 39.2618,
+    "longitude": -76.4951,
+    "phone": "(410) 284-8900",
+    "website": "https://thenewgreenroombilliards.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 10,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "The New Green Room is a classic pool hall serving the Dundalk area with a mix of 7ft and 9ft tables.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Classic old school room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

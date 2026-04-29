@@ -1,0 +1,218 @@
+[
+  {
+    "id": "ca-1",
+    "business_name": "California Billiards",
+    "slug": "california-billiards-fremont",
+    "street_address": "40510 Albrae St",
+    "city": "Fremont",
+    "state": "California",
+    "zip": "94538",
+    "latitude": 37.5255,
+    "longitude": -121.9863,
+    "phone": "(510) 668-1670",
+    "website": "https://californiabilliards.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 35,
+    "table_types": {
+      "9-foot": 20,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 3,
+      "carom": 2,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA",
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Multiple Days",
+    "verified_status": "verified",
+    "verification_score": 98,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website",
+      "player_verified"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Restaurant",
+    "handicap_accessible": true,
+    "room_description": "Widely considered one of the premier pool halls in Northern California. Features a massive layout with Diamond and Gold Crown tables, plus snooker and carom.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "A massive hub for serious competitive pool in the Bay Area.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ca-2",
+    "business_name": "Family Billiards",
+    "slug": "family-billiards-sf",
+    "street_address": "2807 Geary Blvd",
+    "city": "San Francisco",
+    "state": "California",
+    "zip": "94118",
+    "latitude": 37.7828,
+    "longitude": -122.4485,
+    "phone": "(415) 931-1115",
+    "website": "https://familybilliards-sf.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 16,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA",
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Tuesdays & Sundays",
+    "verified_status": "verified",
+    "verification_score": 95,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Beer & Snacks",
+    "handicap_accessible": true,
+    "room_description": "The oldest, continuously running pool room in San Francisco. A beloved classic with perfectly maintained Gold Crowns.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "A true player's room. Nostalgic, clean, and competitive.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ca-3",
+    "business_name": "Hard Times Billiards",
+    "slug": "hard-times-billiards-sacramento",
+    "street_address": "5536 Garfield Ave",
+    "city": "Sacramento",
+    "state": "California",
+    "zip": "95841",
+    "latitude": 38.6653,
+    "longitude": -121.3411,
+    "phone": "(916) 332-8796",
+    "website": "Unknown",
+    "owner_operator": "Oscar Dominguez",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 28,
+    "table_types": {
+      "9-foot": 18,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 1,
+      "carom": 1,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 92,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "player_verified"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Beer, Wine & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "Owned by professional player Oscar Dominguez. Maintains a strong reputation for a welcoming, nostalgic pool hall environment with serious tournament play.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Carries the legendary Hard Times name. Very strong action and leagues.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ca-4",
+    "business_name": "Aloha Billiards",
+    "slug": "aloha-billiards-buena-park",
+    "street_address": "7311 Orangethorpe Ave",
+    "city": "Buena Park",
+    "state": "California",
+    "zip": "90621",
+    "latitude": 33.8596,
+    "longitude": -118.0076,
+    "phone": "(714) 670-6582",
+    "website": "https://alohafamilybilliards.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 20,
+    "table_types": {
+      "9-foot": 15,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 5,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Thursdays",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-9ball.jpg"
+    ],
+    "primary_hero_image": "/images/feature-9ball.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Beer & Soju",
+    "handicap_accessible": true,
+    "room_description": "Highly recommended in Southern California for its high-quality equipment, featuring numerous Brunswick and Diamond tables plus a strong Carom presence.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Vibrant and inclusive. Strong 3-cushion scene.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

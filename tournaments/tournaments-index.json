@@ -1,0 +1,76 @@
+[
+  {
+    "tournament_id": "tx-open-9ball-2024",
+    "room_id": "skinny-bobs-austin-tx",
+    "director_id": "dir-kim-john",
+    "event_name": "51st Annual Texas Open 9-Ball Championship",
+    "flyer_image_url": "/images/flyers/texas-open-2024.jpg",
+    "ocr_extraction": {
+      "raw_text": "51st Annual Texas Open 9-Ball Championship Sept 1-4 $10,000 Added Skinny Bobs Round Rock TX Entry $150",
+      "confidence_score": 0.98,
+      "extracted_date": "2024-09-01",
+      "extracted_time": "10:00 AM",
+      "extracted_entry_fee": "$150"
+    },
+    "structured_data": {
+      "game_type": "9-Ball",
+      "format": "Singles",
+      "elimination_type": "Double",
+      "race_to": "9/7",
+      "entry_fee_amount": 150,
+      "green_fee_amount": 20,
+      "added_money_amount": 10000,
+      "prize_pool_guaranteed": true,
+      "start_datetime": "2024-09-01T10:00:00Z"
+    },
+    "recurrence_mapping": {
+      "is_recurring": true,
+      "frequency": "Annual",
+      "day_of_week": ""
+    },
+    "historical_data": {
+      "field_size_cap": 128,
+      "actual_entrants": 128,
+      "first_place_payout": 6000,
+      "calcutta_total": 45000
+    },
+    "verification_status": "verified"
+  },
+  {
+    "tournament_id": "griffs-weekly-9ball",
+    "room_id": "griffs-las-vegas",
+    "director_id": "dir-mark-griffin",
+    "event_name": "Griff's Weekly Wednesday 9-Ball",
+    "flyer_image_url": "/images/flyers/griffs-wed-9ball.jpg",
+    "ocr_extraction": {
+      "raw_text": "Wednesday Night 9-Ball Handicap $25 Entry Starts at 7PM Sharp",
+      "confidence_score": 0.95,
+      "extracted_date": "Weekly",
+      "extracted_time": "07:00 PM",
+      "extracted_entry_fee": "$25"
+    },
+    "structured_data": {
+      "game_type": "9-Ball",
+      "format": "Singles",
+      "elimination_type": "Modified Single",
+      "race_to": "Handicap",
+      "entry_fee_amount": 25,
+      "green_fee_amount": 5,
+      "added_money_amount": 250,
+      "prize_pool_guaranteed": false,
+      "start_datetime": "2024-10-18T19:00:00Z"
+    },
+    "recurrence_mapping": {
+      "is_recurring": true,
+      "frequency": "Weekly",
+      "day_of_week": "Wednesday"
+    },
+    "historical_data": {
+      "field_size_cap": 64,
+      "actual_entrants": 42,
+      "first_place_payout": 300,
+      "calcutta_total": 0
+    },
+    "verification_status": "verified"
+  }
+]

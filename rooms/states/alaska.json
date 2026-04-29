@@ -1,0 +1,348 @@
+[
+  {
+    "id": "ak-1",
+    "business_name": "Anchorage Billiard Palace",
+    "slug": "anchorage-billiard-palace",
+    "street_address": "903 W Northern Lights Blvd",
+    "city": "Anchorage",
+    "state": "Alaska",
+    "zip": "99503",
+    "latitude": 61.1953,
+    "longitude": -149.8974,
+    "phone": "(907) 258-2837",
+    "website": "https://www.facebook.com/billiardpalace/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:30 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays & Saturdays",
+    "verified_status": "verified",
+    "verification_score": 95,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "facebook_active",
+      "player_verified"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking in rear",
+    "alcohol_food_availability": "Full Bar & Pub Food",
+    "handicap_accessible": true,
+    "room_description": "The premier dedicated pool hall in Anchorage featuring Diamond tables, a full bar, and frequent competitive action. Widely regarded as the best spot for serious players in the state.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Best 9-foot tables in the state. Strong action scene.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ak-2",
+    "business_name": "Blue Fox Cocktail Lounge",
+    "slug": "blue-fox-anchorage",
+    "street_address": "3461 E Tudor Rd",
+    "city": "Anchorage",
+    "state": "Alaska",
+    "zip": "99507",
+    "latitude": 61.1812,
+    "longitude": -149.8164,
+    "phone": "(907) 561-1271",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "10:00 AM – 2:30 AM"
+    },
+    "table_count": 1,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 1,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 1
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Monthly",
+    "weekly_tournament_schedule": "None",
+    "verified_status": "strong_confidence",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "apa_listing",
+      "human_correction"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "A classic local dive bar with exactly one pool table, popular for casual games.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Single table dive bar.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ak-3",
+    "business_name": "The Oasis Restaurant & Lounge",
+    "slug": "oasis-lounge-fairbanks",
+    "street_address": "1225 University Ave",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "zip": "99709",
+    "latitude": 64.8378,
+    "longitude": -147.817,
+    "phone": "(907) 479-7323",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 2,
+    "table_types": {
+      "7-foot": 2,
+      "bar_tables": 2
+    },
+    "cloth_type": "Standard",
+    "league_types": [],
+    "tournament_frequency": "",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 65,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "human_correction"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Restaurant",
+    "handicap_accessible": true,
+    "room_description": "Popular spot in Fairbanks for food, drinks, and casual pool.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Casual bar box play.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ak-4",
+    "business_name": "The Crystal Saloon",
+    "slug": "crystal-saloon-juneau",
+    "street_address": "218 Front St",
+    "city": "Juneau",
+    "state": "Alaska",
+    "zip": "99801",
+    "latitude": 58.2995,
+    "longitude": -134.4042,
+    "phone": "(907) 586-2244",
+    "website": "https://crystalsaloon.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 1,
+    "table_types": {
+      "7-foot": 1,
+      "bar_tables": 1
+    },
+    "cloth_type": "Standard",
+    "league_types": [],
+    "tournament_frequency": "",
+    "weekly_tournament_schedule": "",
+    "verified_status": "strong_confidence",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": false,
+    "room_description": "Historic downtown Juneau bar featuring an upstairs area with a pool table and pinball.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Fun historic vibe, single table upstairs.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ak-5",
+    "business_name": "Salty Dawg Saloon",
+    "slug": "salty-dawg-saloon-homer",
+    "street_address": "3481 Homer Spit Rd",
+    "city": "Homer",
+    "state": "Alaska",
+    "zip": "99603",
+    "latitude": 59.601,
+    "longitude": -151.4255,
+    "phone": "(907) 235-5590",
+    "website": "https://saltydawgsaloon.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "10:00 AM – 2:00 AM"
+    },
+    "table_count": 1,
+    "table_types": {
+      "7-foot": 1,
+      "bar_tables": 1
+    },
+    "cloth_type": "Worn",
+    "league_types": [],
+    "tournament_frequency": "",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 95,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website",
+      "human_correction"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Cash Only Bar",
+    "handicap_accessible": true,
+    "room_description": "World-famous iconic dive bar on the Homer Spit. Known for dollar bills on the walls and a single pool table.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Extremely famous tourist and local spot. Single bar box.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ak-6",
+    "business_name": "Mug-Shot Saloon",
+    "slug": "mug-shot-saloon-wasilla",
+    "street_address": "251 W Parks Hwy",
+    "city": "Wasilla",
+    "state": "Alaska",
+    "zip": "99654",
+    "latitude": 61.5828,
+    "longitude": -149.4411,
+    "phone": "(907) 376-5830",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "10:00 AM – 2:30 AM"
+    },
+    "table_count": 3,
+    "table_types": {
+      "7-foot": 3,
+      "bar_tables": 3
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Tuesdays",
+    "verified_status": "strong_confidence",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "apa_listing"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-9ball.jpg"
+    ],
+    "primary_hero_image": "/images/feature-9ball.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Popular Wasilla dive bar with active league play and three bar boxes.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Valley hub for pool players.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ak-7",
+    "business_name": "The Duck Inn",
+    "slug": "duck-inn-soldotna",
+    "street_address": "32750 Kalifornsky Beach Rd",
+    "city": "Soldotna",
+    "state": "Alaska",
+    "zip": "99669",
+    "latitude": 60.4856,
+    "longitude": -151.1353,
+    "phone": "(907) 262-1849",
+    "website": "https://duckinnalaska.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 2,
+    "table_types": {
+      "7-foot": 2,
+      "bar_tables": 2
+    },
+    "cloth_type": "Standard",
+    "league_types": [],
+    "tournament_frequency": "",
+    "weekly_tournament_schedule": "",
+    "verified_status": "strong_confidence",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "Soldotna local favorite featuring food, drinks, and casual pool tables.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Good local spot on the Kenai Peninsula.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

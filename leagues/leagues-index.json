@@ -1,0 +1,52 @@
+[
+  {
+    "league_id": "apa",
+    "name": "American Poolplayers Association",
+    "acronym": "APA",
+    "description": "The largest amateur pool league organization in the United States, utilizing the Equalizer handicap system.",
+    "website": "https://poolplayers.com/",
+    "governing_body": "APA",
+    "formats": ["8-Ball", "9-Ball", "Scotch Doubles"],
+    "championship_location": "Westgate Las Vegas Resort & Casino"
+  },
+  {
+    "league_id": "bcapl",
+    "name": "BCA Pool League",
+    "acronym": "BCAPL",
+    "description": "Operated by CueSports International (CSI), utilizing the FargoRate handicap system for 8-ball, 9-ball, and 10-ball.",
+    "website": "https://www.playcsipool.com/bcapl.html",
+    "governing_body": "CueSports International",
+    "formats": ["8-Ball", "9-Ball", "10-Ball"],
+    "championship_location": "Rio All-Suite Hotel & Casino, Las Vegas"
+  },
+  {
+    "league_id": "vnea",
+    "name": "Valley National 8-Ball League Association",
+    "acronym": "VNEA",
+    "description": "One of the world's largest amateur pool leagues, heavily associated with Valley bar tables and coin-operated amusement operators.",
+    "website": "https://www.vnea.com/",
+    "governing_body": "VNEA",
+    "formats": ["8-Ball", "9-Ball"],
+    "championship_location": "Westgate Las Vegas Resort & Casino"
+  },
+  {
+    "league_id": "tap",
+    "name": "Association of Pool Players",
+    "acronym": "TAP",
+    "description": "An amateur league system focusing on strict rules and a proprietary handicap system.",
+    "website": "https://www.tapleague.com/",
+    "governing_body": "TAP",
+    "formats": ["8-Ball", "9-Ball"],
+    "championship_location": "Rotating (National Event)"
+  },
+  {
+    "league_id": "napa",
+    "name": "North American Poolshooters Association",
+    "acronym": "NAPA",
+    "description": "A player-focused league offering cash payouts, no annual dues, and a proprietary Elo rating system.",
+    "website": "https://poolshooters.com/",
+    "governing_body": "NAPA",
+    "formats": ["8-Ball", "9-Ball", "10-Ball", "Lagger's Choice"],
+    "championship_location": "Rotating (National Event)"
+  }
+]

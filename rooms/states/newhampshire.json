@@ -1,0 +1,55 @@
+[
+  {
+    "id": "nh-1",
+    "business_name": "Boston Billiard Club & Casino",
+    "slug": "boston-billiard-club-nashua",
+    "street_address": "55 Northeastern Blvd",
+    "city": "Nashua",
+    "state": "New Hampshire",
+    "zip": "03062",
+    "latitude": 42.7303,
+    "longitude": -71.455,
+    "phone": "(603) 880-4904",
+    "website": "https://bostonbilliardclubcasino.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 1:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 18,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar, Restaurant, Casino",
+    "handicap_accessible": true,
+    "room_description": "Despite the name, located in NH. A massive entertainment complex featuring pristine 9-foot pool tables, a casino, and full dining.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Huge high-end facility.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "tn-1",
+    "business_name": "JOB Billiards Club",
+    "slug": "job-billiards-madison",
+    "street_address": "900 Gallatin Pike S",
+    "city": "Madison",
+    "state": "Tennessee",
+    "zip": "37115",
+    "latitude": 36.2559,
+    "longitude": -86.7143,
+    "phone": "(615) 868-4270",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "10:00 AM – 3:00 AM"
+    },
+    "table_count": 30,
+    "table_types": {
+      "9-foot": 15,
+      "7-foot": 15,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 92,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "Legendary Nashville-area room known for high-stakes action and massive local tournaments.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "The spot for action in TN.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "tn-2",
+    "business_name": "Chattanooga Billiard Club",
+    "slug": "chattanooga-billiard-club",
+    "street_address": "110 Jordan Dr",
+    "city": "Chattanooga",
+    "state": "Tennessee",
+    "zip": "37421",
+    "latitude": 35.0326,
+    "longitude": -85.1633,
+    "phone": "(423) 499-3883",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 3:00 AM"
+    },
+    "table_count": 22,
+    "table_types": {
+      "9-foot": 10,
+      "7-foot": 12,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Cigar Lounge",
+    "handicap_accessible": true,
+    "room_description": "Upscale billiards club in East Brainerd featuring a cigar lounge, full menu, and great tables.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Upscale and clean.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

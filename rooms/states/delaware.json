@@ -1,0 +1,54 @@
+[
+  {
+    "id": "de-1",
+    "business_name": "First State Billiards",
+    "slug": "first-state-billiards-wilmington",
+    "street_address": "Missing Address",
+    "city": "Wilmington",
+    "state": "Delaware",
+    "zip": "19801",
+    "latitude": 39.7391,
+    "longitude": -75.5398,
+    "phone": "Unknown",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 70,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "manual_review"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Unknown",
+    "handicap_accessible": true,
+    "room_description": "Local billiards room in Delaware.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Good local action.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

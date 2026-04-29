@@ -1,0 +1,107 @@
+[
+  {
+    "id": "mi-1",
+    "business_name": "Hall of Fame Billiards",
+    "slug": "hall-of-fame-billiards-warren",
+    "street_address": "5775 E 13 Mile Rd",
+    "city": "Warren",
+    "state": "Michigan",
+    "zip": "48092",
+    "latitude": 42.5186,
+    "longitude": -83.0381,
+    "phone": "(586) 939-5100",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 35,
+    "table_types": {
+      "9-foot": 15,
+      "7-foot": 20,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 92,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "Often cited as one of the largest pool halls in Michigan, featuring an expansive space with 35 tables. A dedicated venue for billiards players of all skill levels.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Massive room, lots of action.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "mi-2",
+    "business_name": "The Rack Billiards & Bar",
+    "slug": "the-rack-livonia",
+    "street_address": "28410 Joy Rd",
+    "city": "Livonia",
+    "state": "Michigan",
+    "zip": "48150",
+    "latitude": 42.3553,
+    "longitude": -83.3323,
+    "phone": "(734) 422-7225",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "A modern establishment in Livonia known for having well-maintained tables and offering pool, leagues, and food.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Good clean room for serious players.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

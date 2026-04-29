@@ -1,0 +1,14 @@
+{
+  "name": "billiardsmap-public-data",
+  "version": "1.0.0",
+  "description": "National Truth Engine data repository and OPENCLAW workers",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape:rooms": "node scripts/scrape-rooms.js",
+    "scrape:tournaments": "node scripts/scrape-tournaments.js",
+    "verify:data": "node scripts/verify-data.js"
+  },
+  "author": "BilliardsMap",
+  "license": "ISC"
+}

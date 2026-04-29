@@ -1,0 +1,52 @@
+[
+  {
+    "id": "la-1",
+    "business_name": "Buffalo's Billiards",
+    "slug": "buffalos-billiards-metairie",
+    "street_address": "3441 11th St",
+    "city": "Metairie",
+    "state": "Louisiana",
+    "zip": "70002",
+    "latitude": 30.0125,
+    "longitude": -90.1528,
+    "phone": "(504) 835-0885",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "Open 24 Hours"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 18,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Monthly",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 98,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "Legendary New Orleans area pool hall. Famous worldwide as the epicenter of high-stakes One Pocket action. A must-visit authority room for serious players.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Legendary action room. World famous for One Pocket.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

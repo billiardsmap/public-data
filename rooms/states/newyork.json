@@ -1,0 +1,163 @@
+[
+  {
+    "id": "ny-1",
+    "business_name": "Amsterdam Billiards",
+    "slug": "amsterdam-billiards-nyc",
+    "street_address": "110 E 11th St",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10003",
+    "latitude": 40.7323,
+    "longitude": -73.9897,
+    "phone": "(212) 995-0333",
+    "website": "https://amsterdambilliards.com/",
+    "owner_operator": "Greg Hunt",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 3:00 AM"
+    },
+    "table_count": 25,
+    "table_types": {
+      "9-foot": 25,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA",
+      "APA",
+      "NAPL"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Multiple Days",
+    "verified_status": "verified",
+    "verification_score": 99,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Street parking / Paid Garage",
+    "alcohol_food_availability": "Full Bar & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "NYC's original upscale billiard club. Legendary room featuring 25 Brunswick pool tables, ping pong, and a massive league community. Essential authority room.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Legendary NYC room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ny-2",
+    "business_name": "Steinway Billiards",
+    "slug": "steinway-billiards-astoria",
+    "street_address": "3525 Steinway St",
+    "city": "Astoria",
+    "state": "New York",
+    "zip": "11101",
+    "latitude": 40.7562,
+    "longitude": -73.9213,
+    "phone": "(718) 472-2124",
+    "website": "Unknown",
+    "owner_operator": "Manny Stamatakis",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 4:00 AM"
+    },
+    "table_count": 28,
+    "table_types": {
+      "9-foot": 24,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "Tri-State Tour"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Saturdays",
+    "verified_status": "verified",
+    "verification_score": 98,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Full Bar & Greek Cafe",
+    "handicap_accessible": true,
+    "room_description": "A historic and competitive room in Astoria. Famous for hosting major regional and national tournaments, including the Predator Pro Billiard Series.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Incredible action and tournament room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ny-3",
+    "business_name": "Society Billiards + Bar",
+    "slug": "society-billiards-nyc",
+    "street_address": "10 E 21st St",
+    "city": "New York",
+    "state": "New York",
+    "zip": "10010",
+    "latitude": 40.7397,
+    "longitude": -73.9881,
+    "phone": "(212) 420-1000",
+    "website": "https://societybilliards.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "4:00 PM – 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 19,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "NAPL"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 95,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Paid Garage",
+    "alcohol_food_availability": "Craft Bar",
+    "handicap_accessible": false,
+    "room_description": "An upscale, subterranean billiards lounge in the Flatiron District featuring pristine Diamond tables and a sophisticated vibe.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Beautiful modern upscale room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ok-1",
+    "business_name": "Magoo's Billiards",
+    "slug": "magoos-billiards-tulsa",
+    "street_address": "5002 S Memorial Dr",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "zip": "74145",
+    "latitude": 36.0911,
+    "longitude": -95.8859,
+    "phone": "(918) 663-3364",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 30,
+    "table_types": {
+      "9-foot": 15,
+      "7-foot": 15,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Thursdays",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "Huge pool hall in Tulsa offering tons of tables, food, and massive local league play.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Biggest room in Tulsa.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ok-2",
+    "business_name": "Jamaica Joe's",
+    "slug": "jamaica-joes-midwest-city",
+    "street_address": "5920 SE 15th St",
+    "city": "Midwest City",
+    "state": "Oklahoma",
+    "zip": "73110",
+    "latitude": 35.4328,
+    "longitude": -97.4116,
+    "phone": "(405) 732-2376",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "2:00 PM – 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 75,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Popular sports bar and pool hall in the OKC metro area.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Good local action.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

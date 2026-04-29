@@ -1,0 +1,30 @@
+{
+  "tournament_id": "qmaster-va-weekly-8ball",
+  "room_id": "va-1",
+  "director_id": "qmaster-management",
+  "event_name": "Q-Master Friday Night 8-Ball",
+  "flyer_image_url": "/images/qmaster-weekly.jpg",
+  "structured_data": {
+    "game_type": "8-Ball",
+    "format": "Singles",
+    "elimination_type": "Double",
+    "race_to": "Race to 4",
+    "entry_fee_amount": 20,
+    "green_fee_amount": 0,
+    "added_money_amount": 100,
+    "prize_pool_guaranteed": false,
+    "start_datetime": "2026-05-01T20:00:00Z"
+  },
+  "recurrence_mapping": {
+    "is_recurring": true,
+    "frequency": "Weekly",
+    "day_of_week": "Friday"
+  },
+  "historical_data": {
+    "field_size_cap": 128,
+    "actual_entrants": 80,
+    "first_place_payout": 300,
+    "calcutta_total": 0
+  },
+  "verification_status": "verified"
+}

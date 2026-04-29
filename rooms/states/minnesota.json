@@ -1,0 +1,162 @@
+[
+  {
+    "id": "mn-1",
+    "business_name": "Two Stooges Sports Bar & Grill",
+    "slug": "two-stooges-fridley",
+    "street_address": "7178 University Ave NE",
+    "city": "Fridley",
+    "state": "Minnesota",
+    "zip": "55432",
+    "latitude": 45.0883,
+    "longitude": -93.2568,
+    "phone": "(763) 574-1380",
+    "website": "https://twostooges.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 43,
+    "table_types": {
+      "9-foot": 30,
+      "7-foot": 13,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Sundays",
+    "verified_status": "verified",
+    "verification_score": 98,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Restaurant",
+    "handicap_accessible": true,
+    "room_description": "A world-class room featuring 43 Gabriels and Diamond pool tables, a pro shop, and massive league play. Frequently named a Top Ten Billiard Room in North America.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "One of the best rooms in the country.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "mn-2",
+    "business_name": "Shooters Billiard Club & Café",
+    "slug": "shooters-billiards-burnsville",
+    "street_address": "1934 MN-13",
+    "city": "Burnsville",
+    "state": "Minnesota",
+    "zip": "55337",
+    "latitude": 44.7891,
+    "longitude": -93.2662,
+    "phone": "(952) 894-1100",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "10:00 AM – 3:00 AM"
+    },
+    "table_count": 60,
+    "table_types": {
+      "9-foot": 30,
+      "7-foot": 30,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "A massive, locally owned pool hall featuring over 60 pool tables, an arcade, and huge event space. Great for large tournaments.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Huge facility, great action.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "mn-3",
+    "business_name": "Jimmy's Pro Billiards",
+    "slug": "jimmys-pro-billiards-columbia-heights",
+    "street_address": "4040 Central Ave NE",
+    "city": "Columbia Heights",
+    "state": "Minnesota",
+    "zip": "55421",
+    "latitude": 45.0354,
+    "longitude": -93.2471,
+    "phone": "(763) 706-1904",
+    "website": "https://www.jimmys-pro-billiards.com/",
+    "owner_operator": "Jimmy Wetch",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 1:00 AM"
+    },
+    "table_count": 22,
+    "table_types": {
+      "9-foot": 10,
+      "7-foot": 11,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 1,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Tuesdays",
+    "verified_status": "verified",
+    "verification_score": 95,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Beer & Craft Burgers",
+    "handicap_accessible": true,
+    "room_description": "Owned by former professional player Jimmy Wetch. Known for its '22 Pool Tables – 22 Burgers – 22 Beers' concept and perfectly maintained Diamond and Brunswick tables.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Player-owned, great food and tables.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

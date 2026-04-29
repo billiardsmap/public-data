@@ -1,0 +1,58 @@
+[
+  {
+    "id": "TX",
+    "name": "Texas",
+    "room_count": 85,
+    "featured_rooms": ["skinny-bobs-austin-tx", "big-tyme-billiards-spring-tx"],
+    "active_tournaments": 12,
+    "source_attribution": ["BCA", "APA", "Google Maps"]
+  },
+  {
+    "id": "NV",
+    "name": "Nevada",
+    "room_count": 42,
+    "featured_rooms": ["griffs-las-vegas"],
+    "active_tournaments": 15,
+    "source_attribution": ["CSI", "Google Maps"]
+  },
+  {
+    "id": "NY",
+    "name": "New York",
+    "room_count": 64,
+    "featured_rooms": ["amsterdam-billiards-nyc", "society-billiards-nyc"],
+    "active_tournaments": 8,
+    "source_attribution": ["Google Maps"]
+  },
+  {
+    "id": "AZ",
+    "name": "Arizona",
+    "room_count": 31,
+    "featured_rooms": ["bull-shooters-phoenix-az"],
+    "active_tournaments": 5,
+    "source_attribution": ["Google Maps"]
+  },
+  {
+    "id": "VA",
+    "name": "Virginia",
+    "room_count": 28,
+    "featured_rooms": ["q-master-billiards-virginia-beach-va"],
+    "active_tournaments": 6,
+    "source_attribution": ["Google Maps"]
+  },
+  {
+    "id": "LA",
+    "name": "Louisiana",
+    "room_count": 18,
+    "featured_rooms": ["buffalos-billiards-jefferson-la"],
+    "active_tournaments": 2,
+    "source_attribution": ["Google Maps", "OnePocket.org"]
+  },
+  {
+    "id": "IL",
+    "name": "Illinois",
+    "room_count": 55,
+    "featured_rooms": ["red-shoes-billiards-alsip-il"],
+    "active_tournaments": 7,
+    "source_attribution": ["Google Maps"]
+  }
+]

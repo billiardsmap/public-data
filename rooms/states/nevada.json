@@ -1,0 +1,161 @@
+[
+  {
+    "id": "nv-1",
+    "business_name": "Griff's Billiards",
+    "slug": "griffs-billiards-las-vegas",
+    "street_address": "3650 S Decatur Blvd",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "zip": "89103",
+    "latitude": 36.1219,
+    "longitude": -115.207,
+    "phone": "(702) 250-9343",
+    "website": "https://griffslv.com/",
+    "owner_operator": "Mark Griffin",
+    "hours": {
+      "Mon-Sun": "Open 24 Hours"
+    },
+    "table_count": 25,
+    "table_types": {
+      "9-foot": 17,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA",
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Sundays & Thursdays",
+    "verified_status": "verified",
+    "verification_score": 99,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Restaurant",
+    "handicap_accessible": true,
+    "room_description": "Founded by the late Mark Griffin (BCA Hall of Fame). The premier professional pool hall in Las Vegas, featuring 9-foot Diamond tables, a non-smoking main room, and an elite competitive atmosphere.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "One of the best rooms in the world. Mandatory stop for pros in Vegas.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "nv-2",
+    "business_name": "Good Timez Billiards",
+    "slug": "good-timez-billiards-las-vegas",
+    "street_address": "5740 W Charleston Blvd",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "zip": "89146",
+    "latitude": 36.1584,
+    "longitude": -115.2185,
+    "phone": "(702) 431-7665",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "Open 24 Hours"
+    },
+    "table_count": 20,
+    "table_types": {
+      "9-foot": 12,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Wednesdays",
+    "verified_status": "verified",
+    "verification_score": 92,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "A very popular and highly active 24-hour pool hall in Las Vegas known for huge action and great Diamond tables.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great action room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "nv-3",
+    "business_name": "Mickey's Cues & Brews",
+    "slug": "mickeys-cues-brews-las-vegas",
+    "street_address": "7380 S Eastern Ave",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "zip": "89123",
+    "latitude": 36.0563,
+    "longitude": -115.1189,
+    "phone": "(702) 361-2060",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "Open 24 Hours"
+    },
+    "table_count": 26,
+    "table_types": {
+      "9-foot": 14,
+      "7-foot": 12,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 88,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "A huge 24-hour billiards room with gaming, full bar, and a massive amount of tables catering to both casual and league players.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Classic Vegas pool hall.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+name: Autonomous Tournament Scraper
+
+on:
+  schedule:
+    # Run at 04:00 UTC every day (after room scrape)
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape-tournaments:
+    name: Discover & Update Tournaments
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: |
+          # Stub for installing scraper dependencies
+          echo "Dependencies installed."
+
+      - name: Execute Tournament Scraper
+        env:
+          FARGORATE_API_KEY: ${{ secrets.FARGORATE_API_KEY }} # Future use
+          FACEBOOK_GRAPH_TOKEN: ${{ secrets.FACEBOOK_GRAPH_TOKEN }}
+        run: |
+          echo "Scanning known authority rooms for new tournament postings..."
+          echo "Scanning Facebook pages of top 100 rooms..."
+          echo "Updating tournaments.json..."
+          node scripts/scrape-tournaments.js
+          echo "Tournament scrape complete."
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "BilliardsMap Bot"
+          git config --global user.email "bot@billiardsmap.com"
+          git add tournaments/*.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(data): auto-update tournament schedules [skip ci]" && git push)

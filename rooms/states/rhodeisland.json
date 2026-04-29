@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ri-1",
+    "business_name": "Snookers Sports Billiards Bar & Grill",
+    "slug": "snookers-providence",
+    "street_address": "53 Ashburton St",
+    "city": "Providence",
+    "state": "Rhode Island",
+    "zip": "02904",
+    "latitude": 41.8344,
+    "longitude": -71.4124,
+    "phone": "(401) 351-7665",
+    "website": "https://www.snookersri.com/",
+    "owner_operator": "Stephen and Regina Goulding",
+    "hours": {
+      "Mon-Sun": "11:30 AM – 1:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 15,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "New England 9-Ball Tour"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Tuesdays",
+    "verified_status": "verified",
+    "verification_score": 95,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Excellent Restaurant",
+    "handicap_accessible": true,
+    "room_description": "The premier pool hall in Rhode Island, featuring 15 pristine Brunswick Gold Crown tables, three massive bars, and highly rated food. Regular stop for regional pro-am tours.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Legendary New England room. Very high quality.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

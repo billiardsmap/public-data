@@ -1,0 +1,54 @@
+[
+  {
+    "id": "wy-1",
+    "business_name": "Gillette Billiards",
+    "slug": "gillette-billiards",
+    "street_address": "Unknown",
+    "city": "Gillette",
+    "state": "Wyoming",
+    "zip": "82716",
+    "latitude": 44.2911,
+    "longitude": -105.5022,
+    "phone": "Unknown",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "VNEA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 60,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "manual_review"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Bar",
+    "handicap_accessible": true,
+    "room_description": "Local WY pool hall with bar boxes.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Local action.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

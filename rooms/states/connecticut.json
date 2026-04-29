@@ -1,0 +1,213 @@
+[
+  {
+    "id": "ct-1",
+    "business_name": "US 1 Billiards",
+    "slug": "us-1-billiards-west-haven",
+    "street_address": "111 Boston Post Rd",
+    "city": "West Haven",
+    "state": "Connecticut",
+    "zip": "06516",
+    "latitude": 41.2721,
+    "longitude": -72.9568,
+    "phone": "(203) 937-1234",
+    "website": "https://www.us1billiardsct.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 1:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 6,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Wednesdays",
+    "verified_status": "verified",
+    "verification_score": 92,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Korean Fusion Menu",
+    "handicap_accessible": true,
+    "room_description": "Highly regarded for top-of-the-line equipment, including Rasson Acurra tables and Simonis cloth, alongside a unique Korean fusion food menu.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great tables and great food.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ct-2",
+    "business_name": "Yale Billiards",
+    "slug": "yale-billiards-wallingford",
+    "street_address": "169 N Plains Industrial Rd",
+    "city": "Wallingford",
+    "state": "Connecticut",
+    "zip": "06492",
+    "latitude": 41.4728,
+    "longitude": -72.8251,
+    "phone": "(203) 294-9591",
+    "website": "https://www.yalebilliards.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "2:00 PM – 1:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Sundays",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "A popular spot featuring 15 pool tables, a full bar, darts, massive leagues, and private event space.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Huge league venue in CT.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ct-3",
+    "business_name": "Racks Billiards & Bar",
+    "slug": "racks-billiards-bar-vernon",
+    "street_address": "220 Talcottville Rd",
+    "city": "Vernon",
+    "state": "Connecticut",
+    "zip": "06066",
+    "latitude": 41.8491,
+    "longitude": -72.4839,
+    "phone": "(860) 872-3510",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "4:00 PM – 1:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "Known for having 16 high-quality tables, a full bar, and a kitchen. Great environment for all skill levels.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Good mix of tables, fun bar environment.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ct-4",
+    "business_name": "Snaps Billiards & Bar",
+    "slug": "snaps-billiards-east-windsor",
+    "street_address": "122 Prospect Hill Rd",
+    "city": "East Windsor",
+    "state": "Connecticut",
+    "zip": "06088",
+    "latitude": 41.9056,
+    "longitude": -72.6074,
+    "phone": "(860) 370-5205",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 12:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 6,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-9ball.jpg"
+    ],
+    "primary_hero_image": "/images/feature-9ball.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Beer & Food",
+    "handicap_accessible": true,
+    "room_description": "A family-oriented, non-smoking establishment offering a clean, friendly environment with food, drinks, and APA leagues.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Non-smoking room, clean and friendly.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

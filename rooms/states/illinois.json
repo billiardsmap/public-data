@@ -1,0 +1,212 @@
+[
+  {
+    "id": "il-1",
+    "business_name": "Red Shoes Billiards",
+    "slug": "red-shoes-billiards-alsip",
+    "street_address": "12009 S Pulaski Rd",
+    "city": "Alsip",
+    "state": "Illinois",
+    "zip": "60803",
+    "latitude": 41.6756,
+    "longitude": -87.7226,
+    "phone": "(708) 388-3700",
+    "website": "https://www.redshoesbilliards.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "10:00 AM – 2:00 AM"
+    },
+    "table_count": 30,
+    "table_types": {
+      "9-foot": 20,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 1,
+      "carom": 1,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA",
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Saturdays",
+    "verified_status": "verified",
+    "verification_score": 96,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Food Menu",
+    "handicap_accessible": true,
+    "room_description": "A premier destination in the Chicagoland area for pool enthusiasts. A BCA-certified teaching facility hosting numerous local and nationally recognized tournaments.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "One of the most competitive rooms in the Midwest.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "il-2",
+    "business_name": "Chris's Billiards",
+    "slug": "chriss-billiards-chicago",
+    "street_address": "4637 N Milwaukee Ave",
+    "city": "Chicago",
+    "state": "Illinois",
+    "zip": "60630",
+    "latitude": 41.9658,
+    "longitude": -87.7562,
+    "phone": "(773) 286-4714",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "9:00 AM – 2:00 AM"
+    },
+    "table_count": 40,
+    "table_types": {
+      "9-foot": 30,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 4,
+      "carom": 6,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 92,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "BYOB (21+)",
+    "handicap_accessible": false,
+    "room_description": "A historic Chicago pool hall famous for its association with the film *The Color of Money*. Spacious, old-school atmosphere with over 40 tables including snooker and carom.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Legendary historic room. Cash only.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "il-3",
+    "business_name": "City Pool Hall",
+    "slug": "city-pool-hall-chicago",
+    "street_address": "640 W Hubbard St",
+    "city": "Chicago",
+    "state": "Illinois",
+    "zip": "60654",
+    "latitude": 41.8898,
+    "longitude": -87.6453,
+    "phone": "(312) 491-9690",
+    "website": "https://www.citypoolhallchicago.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "3:00 PM – 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 9,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "None",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-9ball.jpg"
+    ],
+    "primary_hero_image": "/images/feature-9ball.jpg",
+    "parking_info": "Paid lot / Street",
+    "alcohol_food_availability": "Full Bar & Restaurant",
+    "handicap_accessible": true,
+    "room_description": "Located in the West Loop, offering a modern, upscale sports bar atmosphere with nine Brunswick Gold Crown IV tables.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Upscale downtown vibe.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "il-4",
+    "business_name": "Chicago Billiard Cafe",
+    "slug": "chicago-billiard-cafe",
+    "street_address": "5935 W Irving Park Rd",
+    "city": "Chicago",
+    "state": "Illinois",
+    "zip": "60634",
+    "latitude": 41.9538,
+    "longitude": -87.7749,
+    "phone": "(773) 282-6100",
+    "website": "https://thechicagobilliardcafe.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 16,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Thursdays",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Full Bar & Pinball Lounge",
+    "handicap_accessible": true,
+    "room_description": "Features 16 professional-grade pool tables, a pinball lounge, full bar service, and food on the northwest side.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great neighborhood spot.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

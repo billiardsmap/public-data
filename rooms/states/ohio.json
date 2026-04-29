@@ -1,0 +1,107 @@
+[
+  {
+    "id": "oh-1",
+    "business_name": "Michael's Billiards",
+    "slug": "michaels-billiards-fairfield",
+    "street_address": "6625 Dixie Hwy",
+    "city": "Fairfield",
+    "state": "Ohio",
+    "zip": "45014",
+    "latitude": 39.3491,
+    "longitude": -84.5264,
+    "phone": "(513) 860-0044",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 28,
+    "table_types": {
+      "9-foot": 18,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA",
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "Premier room in the Cincinnati area featuring excellent Diamond tables and heavily competitive tournament/league action.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great tables.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "oh-2",
+    "business_name": "Felson's Billiards",
+    "slug": "felsons-billiards-columbus",
+    "street_address": "1530 Bethel Rd",
+    "city": "Columbus",
+    "state": "Ohio",
+    "zip": "43220",
+    "latitude": 40.0658,
+    "longitude": -83.0562,
+    "phone": "(614) 459-7665",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:30 AM"
+    },
+    "table_count": 22,
+    "table_types": {
+      "9-foot": 14,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Popular Columbus room catering to serious pool players and league teams.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Good Columbus pool hall.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

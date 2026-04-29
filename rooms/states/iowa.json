@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ia-1",
+    "business_name": "Big Dog Billiards",
+    "slug": "big-dog-billiards-des-moines",
+    "street_address": "4510 NE 14th St",
+    "city": "Des Moines",
+    "state": "Iowa",
+    "zip": "50313",
+    "latitude": 41.6427,
+    "longitude": -93.5962,
+    "phone": "(515) 266-6100",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 28,
+    "table_types": {
+      "9-foot": 12,
+      "7-foot": 16,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Saturdays",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "Des Moines' premier pool room featuring a huge open floor plan with dozens of well-maintained tables.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Best tables in central Iowa.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ia-2",
+    "business_name": "Sharky's Billiards",
+    "slug": "sharkys-billiards-davenport",
+    "street_address": "2902 E Kimberly Rd",
+    "city": "Davenport",
+    "state": "Iowa",
+    "zip": "52807",
+    "latitude": 41.5583,
+    "longitude": -90.5239,
+    "phone": "(563) 359-7109",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 75,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Popular spot in the Quad Cities area for league play and casual hanging out.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Good spot for bar box play.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

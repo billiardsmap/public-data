@@ -1,0 +1,125 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Room",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "business_name": { "type": "string" },
+    "slug": { "type": "string" },
+    "street_address": { "type": "string" },
+    "city": { "type": "string" },
+    "state": { "type": "string" },
+    "zip": { "type": "string" },
+    "latitude": { "type": "number" },
+    "longitude": { "type": "number" },
+    "phone": { "type": "string" },
+    "website": { "type": "string" },
+    "owner_operator": { "type": "string" },
+    "hours": { "type": "object" },
+    "table_count": { "type": "integer" },
+    "table_types": {
+      "description": "Inventory of table sizes",
+      "type": "object",
+      "properties": {
+        "9-foot": { "type": "integer" },
+        "7-foot": { "type": "integer" },
+        "8-foot": { "type": "integer" },
+        "snooker": { "type": "integer" },
+        "carom": { "type": "integer" },
+        "bar_tables": { "type": "integer" }
+      }
+    },
+    "table_quality_index": {
+      "description": "Detailed metrics for serious players evaluating table condition (Sprint 17)",
+      "type": "object",
+      "properties": {
+        "primary_brand": { "type": "string", "enum": ["Diamond", "Brunswick", "Predator", "Valley", "Mixed", "Unknown"] },
+        "cloth_condition": { "type": "string", "enum": ["New", "Good", "Worn", "Needs Replacement", "Unknown"] },
+        "roll_quality": { "type": "string", "enum": ["True", "Slight Roll", "Heavy Roll", "Unknown"] },
+        "rail_speed": { "type": "string", "enum": ["Fast", "Standard", "Dead", "Unknown"] },
+        "pocket_difficulty": { "type": "string", "enum": ["Pro Cut (4.25in)", "Standard (4.5in)", "Bucket (4.75in+)", "Unknown"] },
+        "lighting_quality": { "type": "string", "enum": ["LED Diamonds", "Fluorescent", "Dim", "Unknown"] },
+        "climate_control": { "type": "string", "description": "Notes on humidity and temperature issues" },
+        "maintenance_score": { "type": "integer", "minimum": 0, "maximum": 100, "description": "Overall aggregate maintenance score (0-100)" }
+      }
+    },
+    "cloth_type": { "type": "string" },
+    "table_pricing": {
+      "type": "object",
+      "properties": {
+        "cost_per_game": { "type": "string" },
+        "cost_per_hour": { "type": "string" },
+        "is_coin_op": { "type": "boolean" },
+        "accepts_digital_pay": { "type": "boolean" }
+      }
+    },
+    "crowdsourced_metadata": {
+      "type": "object",
+      "properties": {
+        "house_cues_quality": { "type": "string", "enum": ["terrible", "poor", "average", "good", "excellent"] },
+        "bring_your_own_cue_recommended": { "type": "boolean" },
+        "table_levelness": { "type": "string", "enum": ["frequently_unlevel", "mostly_level", "perfectly_leveled"] },
+        "table_spacing": { "type": "string", "enum": ["cramped", "adequate", "spacious"] },
+        "cloth_speed": { "type": "string", "enum": ["slow", "medium", "fast", "simonis_fast"] },
+        "cloth_condition": { "type": "string", "enum": ["torn", "worn", "good", "new"] },
+        "rail_cushion_bounce": { "type": "string", "enum": ["dead", "inconsistent", "good", "diamond_quality"] },
+        "pocket_tightness": { "type": "string", "enum": ["buckets", "standard", "pro_cut", "shimmed_tight"] },
+        "chalk_provided": { "type": "boolean" },
+        "house_chalk_brand": { "type": "string" },
+        "lighting_quality": { "type": "string", "enum": ["dim", "adequate", "professional_shadowless"] },
+        "smoke_environment": { "type": "string", "enum": ["heavy_smoke", "light_smoke", "smoke_free", "patio_only"] },
+        "noise_level": { "type": "string", "enum": ["loud_music", "moderate", "quiet_focus"] },
+        "climate_control": { "type": "string", "enum": ["poor", "good", "excellent"] },
+        "food_quality": { "type": "string", "enum": ["snacks_only", "bar_food", "restaurant_quality"] },
+        "drink_prices": { "type": "string", "enum": ["cheap", "average", "expensive"] },
+        "wait_time_friday_night": { "type": "string" },
+        "overall_vibe": { "type": "string", "enum": ["dive_bar", "family_friendly", "serious_players", "luxury_lounge"] }
+      }
+    },
+    "league_types": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "tournament_frequency": { "type": "string" },
+    "weekly_tournament_schedule": { "type": "string" },
+    "verified_status": {
+      "type": "string",
+      "enum": ["verified", "strong_confidence", "partial_verified", "needs_review", "unverified"]
+    },
+    "verification_score": { "type": "integer" },
+    "last_verified": { "type": "string" },
+    "review_required": { "type": "boolean" },
+    "verification_sources": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "photo_gallery": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "primary_hero_image": { "type": "string" },
+    "parking_info": { "type": "string" },
+    "alcohol_food_availability": { "type": "string" },
+    "handicap_accessible": { "type": "boolean" },
+    "room_description": { "type": "string" },
+    "membership_info": { "type": "string" },
+    "local_reputation_notes": { "type": "string" },
+    "road_player_mode": {
+      "description": "Critical logistics for traveling players (Sprint 18)",
+      "type": "object",
+      "properties": {
+        "rv_trailer_parking": { "type": "boolean" },
+        "late_night_action": { "type": "boolean" },
+        "cash_game_reputation": { "type": "string", "enum": ["High", "Medium", "Low", "None", "Unknown"] },
+        "best_food_nearby": { "type": "string" },
+        "closest_hotel": { "type": "string" },
+        "practice_friendly": { "type": "boolean" }
+      }
+    },
+    "source_attribution": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["id", "business_name", "slug", "city", "state", "verified_status", "source_attribution"]
+}

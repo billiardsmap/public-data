@@ -1,0 +1,213 @@
+[
+  {
+    "id": "al-1",
+    "business_name": "Bumpers Billiards",
+    "slug": "bumpers-billiards-huntsville",
+    "street_address": "4925 University Dr NW #188",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "zip": "35816",
+    "latitude": 34.7397,
+    "longitude": -86.6416,
+    "phone": "(256) 721-1495",
+    "website": "https://www.bumpershuntsville.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "3:00 PM – 2:00 AM"
+    },
+    "table_count": 24,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 16,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Wednesdays & Saturdays",
+    "verified_status": "verified",
+    "verification_score": 98,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website",
+      "player_verified"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Beer, Liquor & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "Upscale pool hall in Huntsville featuring 24 Diamond blue label tables. Includes a full bar, food menu, and an in-house pro shop for cue repair.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Best Diamond tables in North Alabama. Strong league presence.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "al-2",
+    "business_name": "Good Timez Billiards",
+    "slug": "good-timez-billiards-huntsville",
+    "street_address": "6241 University Drive NW",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "zip": "35806",
+    "latitude": 34.7435651,
+    "longitude": -86.6794388,
+    "phone": "(256) 270-7279",
+    "website": "https://www.facebook.com/goodtimezbilliardshuntsville/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Thursdays",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "facebook_active"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "A popular local spot in Huntsville with a mix of tables, cold drinks, and a fun atmosphere.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great casual spot, active APA leagues.",
+    "source_attribution": [
+      "Manual Intel",
+      "OpenStreetMap"
+    ]
+  },
+  {
+    "id": "al-3",
+    "business_name": "Shots On 11",
+    "slug": "shots-on-11-springville",
+    "street_address": "15180 US Hwy 11",
+    "city": "Springville",
+    "state": "Alabama",
+    "zip": "35146",
+    "latitude": 33.8371362,
+    "longitude": -86.3561428,
+    "phone": "Unknown",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "4:00 PM – 12:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 4
+    },
+    "cloth_type": "Standard",
+    "league_types": [],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 60,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "osm_data"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Beer & Drinks",
+    "handicap_accessible": false,
+    "room_description": "Local dive and pool bar off Highway 11.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Casual bar box play.",
+    "source_attribution": [
+      "OpenStreetMap"
+    ]
+  },
+  {
+    "id": "al-4",
+    "business_name": "Tennessee Street Billiards & Grill",
+    "slug": "tennessee-street-billiards-grill-florence",
+    "street_address": "118 E Tennessee St",
+    "city": "Florence",
+    "state": "Alabama",
+    "zip": "35630",
+    "latitude": 34.8002256,
+    "longitude": -87.6749494,
+    "phone": "Unknown",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 75,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "osm_data"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-9ball.jpg"
+    ],
+    "primary_hero_image": "/images/feature-9ball.jpg",
+    "parking_info": "Street parking",
+    "alcohol_food_availability": "Full Grill & Bar",
+    "handicap_accessible": true,
+    "room_description": "Downtown Florence spot for pool, burgers, and beer.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Good food and fun atmosphere.",
+    "source_attribution": [
+      "OpenStreetMap"
+    ]
+  }
+]

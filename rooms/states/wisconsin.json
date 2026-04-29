@@ -1,0 +1,57 @@
+[
+  {
+    "id": "wi-1",
+    "business_name": "Romine's High Pockets",
+    "slug": "romines-high-pockets-milwaukee",
+    "street_address": "6125 S 27th St",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "zip": "53221",
+    "latitude": 42.9298,
+    "longitude": -87.9482,
+    "phone": "(414) 281-2212",
+    "website": "https://www.romineshp.com/",
+    "owner_operator": "Romine Family",
+    "hours": {
+      "Mon-Sun": "10:00 AM – 2:00 AM"
+    },
+    "table_count": 48,
+    "table_types": {
+      "9-foot": 36,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 2,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA",
+      "APA",
+      "VNEA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Sundays",
+    "verified_status": "verified",
+    "verification_score": 98,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Famous Mexican Food",
+    "handicap_accessible": true,
+    "room_description": "A legendary 40,000 sq ft pool hall in Milwaukee. Famous for hosting huge national tournaments, maintaining pristine tables, and serving incredible authentic Mexican food.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "One of the largest and best rooms in the world. Legendary status.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

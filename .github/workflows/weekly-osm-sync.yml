@@ -1,0 +1,37 @@
+name: Weekly OSM Data Sync
+
+on:
+  schedule:
+    # Run at 00:00 every Sunday
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allow manual triggering from the GitHub UI
+
+jobs:
+  sync-osm:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run OpenStreetMap Scraper
+        run: node scripts/scraper-osm.js
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and Push Changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --global user.name "BilliardsMap Bot"
+          git config --global user.email "bot@billiardsmap.com"
+          git add rooms/states/*.json
+          git commit -m "chore(data): auto-sync weekly openstreetmap billiards data"
+          git push

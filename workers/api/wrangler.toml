@@ -1,0 +1,16 @@
+name = "billiardsmap-api"
+main = "src/index.ts"
+compatibility_date = "2024-04-29"
+
+# Link this worker to api.billiardsmap.com (once deployed)
+# route = { pattern = "api.billiardsmap.com/*", zone_name = "billiardsmap.com" }
+
+[vars]
+GITHUB_REPO = "billiardsmap/national-data"
+GITHUB_BRANCH = "main"
+# GITHUB_TOKEN = "configured via wrangler secret put GITHUB_TOKEN"
+
+# For KV caching (reduces GitHub API hits)
+# [[kv_namespaces]]
+# binding = "CACHE_KV"
+# id = "..."

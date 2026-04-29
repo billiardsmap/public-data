@@ -1,0 +1,107 @@
+[
+  {
+    "id": "nj-1",
+    "business_name": "Sandcastle Billiards",
+    "slug": "sandcastle-billiards-edison",
+    "street_address": "101 US-1",
+    "city": "Edison",
+    "state": "New Jersey",
+    "zip": "08817",
+    "latitude": 40.5284,
+    "longitude": -74.341,
+    "phone": "(732) 632-9277",
+    "website": "Unknown",
+    "owner_operator": "Ed Liddawi",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 25,
+    "table_types": {
+      "9-foot": 25,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "Tri-State"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Saturdays",
+    "verified_status": "verified",
+    "verification_score": 98,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Juice Bar & Snacks",
+    "handicap_accessible": true,
+    "room_description": "Famous for hosting the Accu-Stats 'Make It Happen' events. A pure player's room equipped with perfect tables and stadium seating for TV matches.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Legendary tournament room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "nj-2",
+    "business_name": "Castle Billiards Lounge",
+    "slug": "castle-billiards-east-rutherford",
+    "street_address": "349 Rte 17",
+    "city": "East Rutherford",
+    "state": "New Jersey",
+    "zip": "07073",
+    "latitude": 40.8358,
+    "longitude": -74.0954,
+    "phone": "(201) 933-6007",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 3:00 AM"
+    },
+    "table_count": 22,
+    "table_types": {
+      "9-foot": 20,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 2,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Thursdays",
+    "verified_status": "verified",
+    "verification_score": 88,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "A very active 9-ball and carom room right off Route 17 in NJ.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Classic North Jersey pool hall.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

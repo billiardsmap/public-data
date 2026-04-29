@@ -1,0 +1,107 @@
+[
+  {
+    "id": "nc-1",
+    "business_name": "Brown's Billiards",
+    "slug": "browns-billiards-raleigh",
+    "street_address": "5500 Atlantic Springs Rd",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "zip": "27616",
+    "latitude": 35.8643,
+    "longitude": -78.5872,
+    "phone": "(919) 878-9092",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA",
+      "TAP"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Saturdays",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Beer & Food",
+    "handicap_accessible": true,
+    "room_description": "A classic Raleigh pool room that caters heavily to the local league scene.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great local room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "nc-2",
+    "business_name": "High House Billiards",
+    "slug": "high-house-billiards-cary",
+    "street_address": "1223 NW Maynard Rd",
+    "city": "Cary",
+    "state": "North Carolina",
+    "zip": "27513",
+    "latitude": 35.7925,
+    "longitude": -78.8051,
+    "phone": "(919) 462-8005",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "2:00 PM – 12:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 6,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "Upscale sports bar and billiards room in Cary with an active playing community.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Upscale suburban room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

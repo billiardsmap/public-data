@@ -1,0 +1,30 @@
+{
+  "tournament_id": "super-billiards-expo-2026",
+  "room_id": "greater-philly-expo",
+  "director_id": "allen-hopkins-productions",
+  "event_name": "32nd Annual Super Billiards Expo",
+  "flyer_image_url": "https://superbilliardsexpo.com/wp-content/uploads/sbe-2026.jpg",
+  "structured_data": {
+    "game_type": "9-Ball",
+    "format": "Singles",
+    "elimination_type": "Double",
+    "race_to": "Varies by Division",
+    "entry_fee_amount": 150,
+    "green_fee_amount": 0,
+    "added_money_amount": 50000,
+    "prize_pool_guaranteed": true,
+    "start_datetime": "2026-04-09T08:00:00Z"
+  },
+  "recurrence_mapping": {
+    "is_recurring": true,
+    "frequency": "Annual",
+    "day_of_week": ""
+  },
+  "historical_data": {
+    "field_size_cap": 2000,
+    "actual_entrants": 0,
+    "first_place_payout": 10000,
+    "calcutta_total": 0
+  },
+  "verification_status": "verified"
+}

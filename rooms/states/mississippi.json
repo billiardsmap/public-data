@@ -1,0 +1,55 @@
+[
+  {
+    "id": "ms-1",
+    "business_name": "High Pockets",
+    "slug": "high-pockets-southaven",
+    "street_address": "5099 E Goodman Rd",
+    "city": "Southaven",
+    "state": "Mississippi",
+    "zip": "38671",
+    "latitude": 34.9669,
+    "longitude": -89.967,
+    "phone": "(662) 349-4148",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 22,
+    "table_types": {
+      "9-foot": 16,
+      "7-foot": 6,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "A very popular and competitive pool hall located just across the border from Memphis in Southaven. Hosts large regional tournaments.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Best action in the mid-south area.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

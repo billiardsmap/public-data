@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ut-1",
+    "business_name": "Big Willie's",
+    "slug": "big-willies-salt-lake-city",
+    "street_address": "1717 S Main St",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "zip": "84115",
+    "latitude": 40.7329,
+    "longitude": -111.891,
+    "phone": "(801) 463-4996",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "Massive sports bar and billiards room in SLC.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great local bar with pool.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

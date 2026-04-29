@@ -1,0 +1,108 @@
+[
+  {
+    "id": "ma-1",
+    "business_name": "Amazin Billiards",
+    "slug": "amazin-billiards-malden",
+    "street_address": "40 Faulkner St",
+    "city": "Malden",
+    "state": "Massachusetts",
+    "zip": "02148",
+    "latitude": 42.4255,
+    "longitude": -71.0592,
+    "phone": "(781) 605-2389",
+    "website": "https://amazinbilliards.com/",
+    "owner_operator": "Mazin Shooni",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 12:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 14,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 1,
+      "carom": 4,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "USBA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Sundays",
+    "verified_status": "verified",
+    "verification_score": 98,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "None (Purist Room)",
+    "handicap_accessible": true,
+    "room_description": "The premier destination for serious players in the Boston area. A purist pool hall with no music, food, or alcohol, focusing strictly on professional-grade equipment including heated carom tables and a 12-foot snooker table.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "One of the best carom/pool rooms in the country.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ma-2",
+    "business_name": "Flat Top Johnny's",
+    "slug": "flat-top-johnnys-cambridge",
+    "street_address": "238 Main St",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "zip": "02142",
+    "latitude": 42.3626,
+    "longitude": -71.0838,
+    "phone": "(617) 494-9565",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "3:00 PM – 12:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 12,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Paid lot / Street",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "A long-standing, popular venue in Kendall Square known for its vibrant, social atmosphere. A staple of the local pool scene.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great social pool room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

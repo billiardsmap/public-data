@@ -1,0 +1,44 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Tournament",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "slug": { "type": "string" },
+    "tournament_name": { "type": "string" },
+    "recurring_or_one_time": {
+      "type": "string",
+      "enum": ["recurring", "one-time"]
+    },
+    "room_id": { "type": "string" },
+    "roomSlug": { "type": "string" },
+    "room": { "type": "string" },
+    "city": { "type": "string" },
+    "state": { "type": "string" },
+    "tournament_director": { "type": "string" },
+    "entry_fee": { "type": "string" },
+    "added_money": { "type": "string" },
+    "payout_structure": { "type": "string" },
+    "race_format": { "type": "string" },
+    "discipline": { "type": "string" },
+    "fargo_cap": { "type": "string" },
+    "handicap_rules": { "type": "string" },
+    "break_rules": { "type": "string" },
+    "alternate_break": { "type": "boolean" },
+    "start_time": { "type": "string" },
+    "registration_deadline": { "type": "string" },
+    "weekly_recurring_day": { "type": "string" },
+    "monthly_special_flags": { "type": "boolean" },
+    "flyer_image": { "type": "string" },
+    "registration_link": { "type": "string" },
+    "contact_info": { "type": "string" },
+    "player_capacity": { "type": "integer" },
+    "bracket_system_used": { "type": "string" },
+    "livestream_link": { "type": "string" },
+    "source_attribution": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["id", "slug", "tournament_name", "room_id", "discipline", "source_attribution"]
+}

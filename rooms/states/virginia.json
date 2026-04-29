@@ -1,0 +1,109 @@
+[
+  {
+    "id": "va-1",
+    "business_name": "Q-Master Billiards",
+    "slug": "q-master-billiards-norfolk",
+    "street_address": "5612 Princess Anne Rd",
+    "city": "Norfolk",
+    "state": "Virginia",
+    "zip": "23502",
+    "latitude": 36.8524,
+    "longitude": -76.1956,
+    "phone": "(757) 461-1402",
+    "website": "https://qmasterbilliards.com/",
+    "owner_operator": "Barry Behrman (Family)",
+    "hours": {
+      "Mon-Sun": "Open 24 Hours"
+    },
+    "table_count": 72,
+    "table_types": {
+      "9-foot": 40,
+      "7-foot": 30,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 2,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA",
+      "APA",
+      "TAP"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Multiple Days",
+    "verified_status": "verified",
+    "verification_score": 99,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Restaurant",
+    "handicap_accessible": true,
+    "room_description": "The largest pool room in the United States and home to the US Open 9-Ball Championships for decades. An absolute authority room boasting 72 tables, multiple bars, and a legendary pro shop.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "The biggest and arguably most famous room in America.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "va-2",
+    "business_name": "Diamond Billiards",
+    "slug": "diamond-billiards-midlothian",
+    "street_address": "13184 Midlothian Tpke",
+    "city": "Midlothian",
+    "state": "Virginia",
+    "zip": "23113",
+    "latitude": 37.5028,
+    "longitude": -77.6496,
+    "phone": "(804) 794-8787",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 25,
+    "table_types": {
+      "9-foot": 15,
+      "7-foot": 10,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Saturdays",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "A very active tournament and league room in the Richmond area featuring excellent Diamond tables.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great tables, strong local tournaments.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

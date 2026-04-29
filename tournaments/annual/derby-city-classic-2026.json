@@ -1,0 +1,30 @@
+{
+  "tournament_id": "derby-city-classic-2026",
+  "room_id": "caesars-southern-indiana",
+  "director_id": "diamond-billiard-products",
+  "event_name": "28th Annual Derby City Classic",
+  "flyer_image_url": "https://derbycityclassic.com/wp-content/uploads/dcc-2026.jpg",
+  "structured_data": {
+    "game_type": "Multiple",
+    "format": "Singles",
+    "elimination_type": "Buy-back",
+    "race_to": "Varies",
+    "entry_fee_amount": 350,
+    "green_fee_amount": 0,
+    "added_money_amount": 100000,
+    "prize_pool_guaranteed": true,
+    "start_datetime": "2026-01-23T12:00:00Z"
+  },
+  "recurrence_mapping": {
+    "is_recurring": true,
+    "frequency": "Annual",
+    "day_of_week": ""
+  },
+  "historical_data": {
+    "field_size_cap": 500,
+    "actual_entrants": 450,
+    "first_place_payout": 16000,
+    "calcutta_total": 0
+  },
+  "verification_status": "verified"
+}

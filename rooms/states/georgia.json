@@ -1,0 +1,210 @@
+[
+  {
+    "id": "ga-1",
+    "business_name": "Mr. Cues II Billiards",
+    "slug": "mr-cues-ii-tucker",
+    "street_address": "3541 Lawrenceville Hwy",
+    "city": "Tucker",
+    "state": "Georgia",
+    "zip": "30084",
+    "latitude": 33.8542,
+    "longitude": -84.2173,
+    "phone": "(770) 493-6811",
+    "website": "https://www.mrcues2.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 3:00 AM"
+    },
+    "table_count": 38,
+    "table_types": {
+      "9-foot": 15,
+      "7-foot": 23,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Tuesdays & Saturdays",
+    "verified_status": "verified",
+    "verification_score": 95,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "Widely recognized as a premier destination for pool in the Atlanta area. Features a massive number of tables, pro shop, and strong league play.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "A massive hub for serious competitive pool in Georgia.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ga-2",
+    "business_name": "The Independent",
+    "slug": "the-independent-atlanta",
+    "street_address": "931 Monroe Dr NE #205",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "zip": "30308",
+    "latitude": 33.7816,
+    "longitude": -84.3688,
+    "phone": "(404) 249-9869",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "5:00 PM – 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 0,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "A popular spot located in Midtown near the BeltLine. A casual, social environment that still caters to players with several 9ft tables.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Great vibe, good tables.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ga-3",
+    "business_name": "Kennesaw Billiards",
+    "slug": "kennesaw-billiards-kennesaw",
+    "street_address": "3600 Cherokee St NW",
+    "city": "Kennesaw",
+    "state": "Georgia",
+    "zip": "30144",
+    "latitude": 34.0234,
+    "longitude": -84.6155,
+    "phone": "(770) 424-6999",
+    "website": "Unknown",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM – 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 8,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 80,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Frequently recommended for those in the northern suburbs looking for good equipment and a solid atmosphere.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Strong local pool hall.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "ga-4",
+    "business_name": "The Pool Turtle",
+    "slug": "pool-turtle-avondale-estates",
+    "street_address": "2823 E College Ave",
+    "city": "Avondale Estates",
+    "state": "Georgia",
+    "zip": "30002",
+    "latitude": 33.7715,
+    "longitude": -84.267,
+    "phone": "Unknown",
+    "website": "https://www.thepoolturtle.com/",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "2:00 PM – 12:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 3,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [],
+    "tournament_frequency": "Occasional",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 85,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-9ball.jpg"
+    ],
+    "primary_hero_image": "/images/feature-9ball.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Bar & Snacks",
+    "handicap_accessible": true,
+    "room_description": "A newer, community-focused bar and game cove featuring a mix of 7ft and 9ft Diamond pool tables, alongside darts and cornhole.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Clean new tables.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

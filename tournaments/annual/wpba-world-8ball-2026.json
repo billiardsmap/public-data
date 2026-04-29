@@ -1,0 +1,30 @@
+{
+  "tournament_id": "wpba-world-8ball-2026",
+  "room_id": "oneida-casino-wi",
+  "director_id": "wpba",
+  "event_name": "WPBA Oneida WPA Women's 8-Ball World Championship",
+  "flyer_image_url": "https://wpba.com/wp-content/uploads/world-8-ball.jpg",
+  "structured_data": {
+    "game_type": "8-Ball",
+    "format": "Singles",
+    "elimination_type": "Double",
+    "race_to": "Varies",
+    "entry_fee_amount": 500,
+    "green_fee_amount": 0,
+    "added_money_amount": 50000,
+    "prize_pool_guaranteed": true,
+    "start_datetime": "2026-07-22T09:00:00Z"
+  },
+  "recurrence_mapping": {
+    "is_recurring": true,
+    "frequency": "Annual",
+    "day_of_week": ""
+  },
+  "historical_data": {
+    "field_size_cap": 64,
+    "actual_entrants": 64,
+    "first_place_payout": 15000,
+    "calcutta_total": 0
+  },
+  "verification_status": "verified"
+}

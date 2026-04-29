@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Mark Griffin",
+    "role": "Founder, CSI / Griff's",
+    "region": "National / Las Vegas",
+    "verified": true,
+    "contact": "Contact via CSI/Griff's",
+    "source_attribution": ["Official website"]
+  },
+  {
+    "id": "2",
+    "name": "Kim & John",
+    "role": "Owners / Directors, Skinny Bob's",
+    "region": "Texas",
+    "verified": true,
+    "contact": "(512) 733-1111",
+    "source_attribution": ["Official website"]
+  },
+  {
+    "id": "3",
+    "name": "Greg Hunt",
+    "role": "Owner, Amsterdam Billiards",
+    "region": "New York",
+    "verified": true,
+    "contact": "(212) 995-0333",
+    "source_attribution": ["Official website"]
+  },
+  {
+    "id": "4",
+    "name": "Pat Fleming",
+    "role": "Accu-Stats / Derby City Classic",
+    "region": "National",
+    "verified": true,
+    "contact": "pat@accu-stats.com",
+    "source_attribution": ["Accu-Stats"]
+  }
+]

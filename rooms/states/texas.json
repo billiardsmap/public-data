@@ -1,0 +1,306 @@
+[
+  {
+    "id": "3",
+    "business_name": "Skinny Bob's Billiards",
+    "slug": "skinny-bobs-austin-tx",
+    "street_address": "300 Hesters Crossing Rd A-1",
+    "city": "Round Rock",
+    "state": "Texas",
+    "zip": "78681",
+    "latitude": 30.4854,
+    "longitude": -97.6896,
+    "phone": "(512) 733-1111",
+    "website": "https://www.skinnybobs.com",
+    "owner_operator": "Kim & John",
+    "hours": {
+      "Mon-Wed": "11:00 AM – 12:00 AM",
+      "Thu": "11:00 AM – 1:00 AM",
+      "Fri-Sat": "11:00 AM – 2:00 AM",
+      "Sun": "12:00 PM – 12:00 AM"
+    },
+    "table_count": 22,
+    "table_types": {
+      "9-foot": 18,
+      "7-foot": 2,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 2,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Wed: 9-Ball Open",
+    "verified_status": "partial_verified",
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "Skinny Bob's is a legendary Texas room, home of the Texas Open 9-Ball Championship. Offering pristine tables, a massive bar, and non-stop action.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Epicenter of Texas pool, hosts the annual Texas Open.",
+    "source_attribution": [
+      "Official website",
+      "Google Maps"
+    ],
+    "verification_score": 50
+  },
+  {
+    "id": "6",
+    "business_name": "Big Tyme Billiards",
+    "slug": "big-tyme-billiards-spring-tx",
+    "street_address": "100 Cypresswood Dr, Ste G",
+    "city": "Spring",
+    "state": "Texas",
+    "zip": "77388",
+    "latitude": 30.0768,
+    "longitude": -95.432,
+    "phone": "(281) 288-0800",
+    "website": "https://bigtymebilliards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Sun-Wed": "12:00 PM – 12:00 AM",
+      "Thu-Sat": "12:00 PM – 2:30 AM"
+    },
+    "table_count": 30,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 24,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA",
+      "ACS"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Sun: 8-Ball, Wed: 9-Ball",
+    "verified_status": "partial_verified",
+    "photo_gallery": [
+      "/images/feature-9ball.jpg"
+    ],
+    "primary_hero_image": "/images/feature-9ball.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "Houston area's premier pool hall featuring 30 Diamond and Gold Crown tables. Hosts numerous regional and state championships.",
+    "membership_info": "No membership required",
+    "local_reputation_notes": "Very active tournament room in the Houston region.",
+    "source_attribution": [
+      "Official website",
+      "Google Maps"
+    ],
+    "verification_score": 50
+  },
+  {
+    "id": "tx-4",
+    "business_name": "Stixx and Stones Billiards",
+    "slug": "stixx-and-stones-lewisville",
+    "street_address": "1004 W Main St",
+    "city": "Lewisville",
+    "state": "Texas",
+    "zip": "75067",
+    "latitude": 33.045,
+    "longitude": -97.0175,
+    "phone": "(972) 221-7243",
+    "website": "https://stixxandstones.club",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 8,
+      "7-foot": 10,
+      "bar_tables": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA",
+      "TAP",
+      "NAPA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "verified",
+    "verification_score": 95,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website",
+      "league_rosters"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-room.jpg"
+    ],
+    "primary_hero_image": "/images/feature-room.jpg",
+    "parking_info": "Free lot parking",
+    "alcohol_food_availability": "Full Bar & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "Dedicated, family-friendly hall known for high-quality Diamond tables and extremely active multi-league play.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Highly regarded by serious players in DFW.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "tx-5",
+    "business_name": "Bogies Billiards West",
+    "slug": "bogies-billiards-west-houston",
+    "street_address": "3040 FM 1960",
+    "city": "Houston",
+    "state": "Texas",
+    "zip": "77068",
+    "latitude": 29.982,
+    "longitude": -95.4832,
+    "phone": "(281) 880-9900",
+    "website": "https://bogiesbilliard.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 24,
+    "table_types": {
+      "9-foot": 12,
+      "7-foot": 12,
+      "bar_tables": 12
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Weekends",
+    "verified_status": "verified",
+    "verification_score": 98,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-9ball.jpg"
+    ],
+    "primary_hero_image": "/images/feature-9ball.jpg",
+    "parking_info": "Large lot parking",
+    "alcohol_food_availability": "Full Bar & Food",
+    "handicap_accessible": true,
+    "room_description": "Top destination in Houston boasting high-quality equipment, massive floor space, and huge league presence.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Houston heavyweight room.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "tx-6",
+    "business_name": "Rusty's Billiards",
+    "slug": "rustys-billiards-arlington",
+    "street_address": "3151 S Cooper St",
+    "city": "Arlington",
+    "state": "Texas",
+    "zip": "76015",
+    "latitude": 32.6953,
+    "longitude": -97.113,
+    "phone": "(817) 465-9851",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "24 Hours"
+    },
+    "table_count": 22,
+    "table_types": {
+      "9-foot": 12,
+      "8-foot": 10
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Tuesdays",
+    "verified_status": "strong_confidence",
+    "verification_score": 88,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "azbilliards_forums"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Bar & Grill",
+    "handicap_accessible": true,
+    "room_description": "A 24/7 DFW institution featuring a mix of 9-foot Diamonds and Gold Crowns. The legendary late-night action spot.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Famous for late night action.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  },
+  {
+    "id": "tx-7",
+    "business_name": "Woody's Hideaway",
+    "slug": "woodys-hideaway-houston",
+    "street_address": "10905 Katy Fwy",
+    "city": "Houston",
+    "state": "Texas",
+    "zip": "77079",
+    "latitude": 29.7845,
+    "longitude": -95.5684,
+    "phone": "(713) 464-9445",
+    "website": "https://woodyshideaway.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM – 2:00 AM"
+    },
+    "table_count": 21,
+    "table_types": {
+      "7-foot": 21,
+      "bar_tables": 21
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Monthly",
+    "weekly_tournament_schedule": "",
+    "verified_status": "verified",
+    "verification_score": 92,
+    "last_verified": "2026-04-28",
+    "verification_sources": [
+      "google_maps",
+      "official_website"
+    ],
+    "review_required": false,
+    "photo_gallery": [
+      "/images/feature-player.jpg"
+    ],
+    "primary_hero_image": "/images/feature-player.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Upscale Bar & Kitchen",
+    "handicap_accessible": true,
+    "room_description": "Premier venue in the Energy Corridor featuring 21 top-of-the-line Diamond tables, golf simulators, and darts.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Modern, upscale environment.",
+    "source_attribution": [
+      "Manual Intel"
+    ]
+  }
+]

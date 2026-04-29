@@ -1,0 +1,82 @@
+[
+  {
+    "rank": 1,
+    "player_name": "Fedor Gorst",
+    "country": "USA",
+    "fargorate": 842,
+    "wnt_points": 115000,
+    "recent_titles": ["World Pool Masters", "US Open Pool Championship"]
+  },
+  {
+    "rank": 2,
+    "player_name": "Carlo Biado",
+    "country": "Philippines",
+    "fargorate": 834,
+    "wnt_points": 95000,
+    "recent_titles": ["WPA World Tenball Championship"]
+  },
+  {
+    "rank": 3,
+    "player_name": "Aloysius Yapp",
+    "country": "Singapore",
+    "fargorate": 831,
+    "wnt_points": 88000,
+    "recent_titles": ["Michigan Open"]
+  },
+  {
+    "rank": 4,
+    "player_name": "Johann Chua",
+    "country": "Philippines",
+    "fargorate": 828,
+    "wnt_points": 82000,
+    "recent_titles": ["World Cup of Pool"]
+  },
+  {
+    "rank": 5,
+    "player_name": "Eklent Kaçi",
+    "country": "Albania",
+    "fargorate": 833,
+    "wnt_points": 79000,
+    "recent_titles": ["UK Open"]
+  },
+  {
+    "rank": 6,
+    "player_name": "Moritz Neuhausen",
+    "country": "Germany",
+    "fargorate": 820,
+    "wnt_points": 75000,
+    "recent_titles": ["European Open Pool Championship"]
+  },
+  {
+    "rank": 7,
+    "player_name": "Joshua Filler",
+    "country": "Germany",
+    "fargorate": 845,
+    "wnt_points": 73000,
+    "recent_titles": ["Derby City Classic Master of the Table"]
+  },
+  {
+    "rank": 8,
+    "player_name": "Ko Pin Yi",
+    "country": "Chinese Taipei",
+    "fargorate": 835,
+    "wnt_points": 71000,
+    "recent_titles": ["Asian Open Pool Championship"]
+  },
+  {
+    "rank": 9,
+    "player_name": "Francisco Sánchez Ruíz",
+    "country": "Spain",
+    "fargorate": 838,
+    "wnt_points": 69000,
+    "recent_titles": ["World Nineball Championship"]
+  },
+  {
+    "rank": 10,
+    "player_name": "Shane Van Boening",
+    "country": "USA",
+    "fargorate": 832,
+    "wnt_points": 65000,
+    "recent_titles": ["World Pool Championship"]
+  }
+]
