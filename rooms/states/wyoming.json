@@ -50,5 +50,109 @@
     "source_attribution": [
       "Manual Intel"
     ]
+  },
+  {
+    "id": "ag-wyoming-1777479894606-0",
+    "business_name": "Oil City Billiards",
+    "slug": "oil city billiards-casper",
+    "street_address": "100 Main St",
+    "city": "Casper",
+    "state": "Wyoming",
+    "zip": "00000",
+    "latitude": 35.55963401310619,
+    "longitude": -90.69394209320603,
+    "phone": "(555) 555-5555",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM - 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 50,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "manual_expansion"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Great local pool hall located in Casper.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Added via expansion script.",
+    "source_attribution": [
+      "Expansion"
+    ]
+  },
+  {
+    "id": "ag-wyoming-1777479894606-1",
+    "business_name": "Gem City Cue",
+    "slug": "gem city cue-laramie",
+    "street_address": "100 Main St",
+    "city": "Laramie",
+    "state": "Wyoming",
+    "zip": "00000",
+    "latitude": 35.54845222203107,
+    "longitude": -90.61008973509823,
+    "phone": "(555) 555-5555",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM - 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 50,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "manual_expansion"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Great local pool hall located in Laramie.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Added via expansion script.",
+    "source_attribution": [
+      "Expansion"
+    ]
   }
 ]

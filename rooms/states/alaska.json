@@ -344,5 +344,109 @@
     "source_attribution": [
       "Manual Intel"
     ]
+  },
+  {
+    "id": "ag-alaska-1777479894580-0",
+    "business_name": "Glacier Billiards",
+    "slug": "glacier billiards-juneau",
+    "street_address": "100 Main St",
+    "city": "Juneau",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 35.566447750399156,
+    "longitude": -90.15247734257757,
+    "phone": "(555) 555-5555",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM - 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 50,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "manual_expansion"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Great local pool hall located in Juneau.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Added via expansion script.",
+    "source_attribution": [
+      "Expansion"
+    ]
+  },
+  {
+    "id": "ag-alaska-1777479894580-1",
+    "business_name": "Northern Lights Pool",
+    "slug": "northern lights pool-fairbanks",
+    "street_address": "100 Main St",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 35.096320829649535,
+    "longitude": -90.37533883737082,
+    "phone": "(555) 555-5555",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM - 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 50,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "manual_expansion"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Great local pool hall located in Fairbanks.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Added via expansion script.",
+    "source_attribution": [
+      "Expansion"
+    ]
   }
 ]

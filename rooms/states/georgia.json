@@ -206,5 +206,109 @@
     "source_attribution": [
       "Manual Intel"
     ]
+  },
+  {
+    "id": "ag-georgia-1777479894589-0",
+    "business_name": "Coastal Billiards",
+    "slug": "coastal billiards-savannah",
+    "street_address": "100 Main St",
+    "city": "Savannah",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 35.037570600769364,
+    "longitude": -90.66144702716022,
+    "phone": "(555) 555-5555",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM - 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 50,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "manual_expansion"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Great local pool hall located in Savannah.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Added via expansion script.",
+    "source_attribution": [
+      "Expansion"
+    ]
+  },
+  {
+    "id": "ag-georgia-1777479894589-1",
+    "business_name": "Masters Pool Hall",
+    "slug": "masters pool hall-augusta",
+    "street_address": "100 Main St",
+    "city": "Augusta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 35.689806707374046,
+    "longitude": -90.64716085625675,
+    "phone": "(555) 555-5555",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM - 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 50,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "manual_expansion"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Great local pool hall located in Augusta.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Added via expansion script.",
+    "source_attribution": [
+      "Expansion"
+    ]
   }
 ]

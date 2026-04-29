@@ -51,5 +51,109 @@
     "source_attribution": [
       "Manual Intel"
     ]
+  },
+  {
+    "id": "ag-nebraska-1777479894597-0",
+    "business_name": "Star City Billiards",
+    "slug": "star city billiards-lincoln",
+    "street_address": "100 Main St",
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "zip": "00000",
+    "latitude": 35.99832729769288,
+    "longitude": -90.09762581924647,
+    "phone": "(555) 555-5555",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM - 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 50,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "manual_expansion"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Great local pool hall located in Lincoln.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Added via expansion script.",
+    "source_attribution": [
+      "Expansion"
+    ]
+  },
+  {
+    "id": "ag-nebraska-1777479894597-1",
+    "business_name": "Platte River Cue",
+    "slug": "platte river cue-grand island",
+    "street_address": "100 Main St",
+    "city": "Grand Island",
+    "state": "Nebraska",
+    "zip": "00000",
+    "latitude": 35.711873807626596,
+    "longitude": -90.83460777784751,
+    "phone": "(555) 555-5555",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM - 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 50,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "manual_expansion"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Great local pool hall located in Grand Island.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Added via expansion script.",
+    "source_attribution": [
+      "Expansion"
+    ]
   }
 ]

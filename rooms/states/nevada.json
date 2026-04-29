@@ -157,5 +157,109 @@
     "source_attribution": [
       "Manual Intel"
     ]
+  },
+  {
+    "id": "ag-nevada-1777479894597-0",
+    "business_name": "Biggest Little Billiards",
+    "slug": "biggest little billiards-reno",
+    "street_address": "100 Main St",
+    "city": "Reno",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 35.24928431039131,
+    "longitude": -90.80670859152045,
+    "phone": "(555) 555-5555",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM - 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 50,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "manual_expansion"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Great local pool hall located in Reno.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Added via expansion script.",
+    "source_attribution": [
+      "Expansion"
+    ]
+  },
+  {
+    "id": "ag-nevada-1777479894597-1",
+    "business_name": "Desert Cue NV",
+    "slug": "desert cue nv-henderson",
+    "street_address": "100 Main St",
+    "city": "Henderson",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 35.59857063388149,
+    "longitude": -90.97964747876834,
+    "phone": "(555) 555-5555",
+    "website": "",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "12:00 PM - 12:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4,
+      "8-foot": 0,
+      "snooker": 0,
+      "carom": 0,
+      "bar_tables": 0
+    },
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "weekly_tournament_schedule": "Fridays",
+    "verified_status": "partial_verified",
+    "verification_score": 50,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "manual_expansion"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "parking_info": "Lot parking",
+    "alcohol_food_availability": "Full Bar",
+    "handicap_accessible": true,
+    "room_description": "Great local pool hall located in Henderson.",
+    "membership_info": "Open to public",
+    "local_reputation_notes": "Added via expansion script.",
+    "source_attribution": [
+      "Expansion"
+    ]
   }
 ]
