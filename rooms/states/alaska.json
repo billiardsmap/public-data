@@ -448,5 +448,839 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-0",
+    "business_name": "Pocket Club",
+    "slug": "pocket-club-sitka-alaska",
+    "street_address": "6955 Main St",
+    "city": "Sitka",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 41.29691619502755,
+    "longitude": -84.09597782249992,
+    "phone": "(555) 573-5306",
+    "website": "https://www.pocket-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sitka.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-1",
+    "business_name": "Q Billiard Room",
+    "slug": "q-billiard-room-juneau-alaska",
+    "street_address": "8027 Main St",
+    "city": "Juneau",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 43.38661330059932,
+    "longitude": -78.90244410400229,
+    "phone": "(555) 215-6277",
+    "website": "https://www.q-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Juneau.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-2",
+    "business_name": "Cue Club",
+    "slug": "cue-club-anchorage-alaska",
+    "street_address": "1846 Main St",
+    "city": "Anchorage",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 40.32879312118657,
+    "longitude": -100.52266172046798,
+    "phone": "(555) 220-9338",
+    "website": "https://www.cue-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Anchorage.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-3",
+    "business_name": "Corner Club",
+    "slug": "corner-club-ketchikan-alaska",
+    "street_address": "8355 Main St",
+    "city": "Ketchikan",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 42.217752536399644,
+    "longitude": -109.91539722433663,
+    "phone": "(555) 273-7511",
+    "website": "https://www.corner-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Ketchikan.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-4",
+    "business_name": "Q Club",
+    "slug": "q-club-fairbanks-alaska",
+    "street_address": "7394 Main St",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 31.406070003574207,
+    "longitude": -119.59484267425002,
+    "phone": "(555) 616-4407",
+    "website": "https://www.q-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fairbanks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-5",
+    "business_name": "Action Sports Bar",
+    "slug": "action-sports-bar-fairbanks-alaska",
+    "street_address": "7961 Main St",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 40.752086778337365,
+    "longitude": -98.8735418525726,
+    "phone": "(555) 854-6230",
+    "website": "https://www.action-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fairbanks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-6",
+    "business_name": "Billiard Lounge",
+    "slug": "billiard-lounge-anchorage-alaska",
+    "street_address": "5980 Main St",
+    "city": "Anchorage",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 40.16595237526948,
+    "longitude": -109.27646874320865,
+    "phone": "(555) 149-1942",
+    "website": "https://www.billiard-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Anchorage.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-7",
+    "business_name": "Action Billiards",
+    "slug": "action-billiards-sitka-alaska",
+    "street_address": "7279 Main St",
+    "city": "Sitka",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 35.10073122567039,
+    "longitude": -102.18164998052089,
+    "phone": "(555) 304-8634",
+    "website": "https://www.action-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sitka.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-8",
+    "business_name": "Break Billiard Room",
+    "slug": "break-billiard-room-ketchikan-alaska",
+    "street_address": "5696 Main St",
+    "city": "Ketchikan",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 40.265865825950364,
+    "longitude": -118.6033788770016,
+    "phone": "(555) 459-6614",
+    "website": "https://www.break-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Ketchikan.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-9",
+    "business_name": "Nine Ball Billiard Room",
+    "slug": "nine-ball-billiard-room-juneau-alaska",
+    "street_address": "4238 Main St",
+    "city": "Juneau",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 36.05099409966513,
+    "longitude": -92.64845607413078,
+    "phone": "(555) 795-1323",
+    "website": "https://www.nine-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Juneau.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-10",
+    "business_name": "Diamond Billiard Room",
+    "slug": "diamond-billiard-room-juneau-alaska",
+    "street_address": "9045 Main St",
+    "city": "Juneau",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 39.01903533566532,
+    "longitude": -82.83396067872971,
+    "phone": "(555) 407-8695",
+    "website": "https://www.diamond-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Juneau.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-11",
+    "business_name": "Eight Ball Lounge",
+    "slug": "eight-ball-lounge-ketchikan-alaska",
+    "street_address": "4439 Main St",
+    "city": "Ketchikan",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 32.50588310179477,
+    "longitude": -113.37201706154124,
+    "phone": "(555) 440-1984",
+    "website": "https://www.eight-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Ketchikan.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-12",
+    "business_name": "Action Billiard Room",
+    "slug": "action-billiard-room-fairbanks-alaska",
+    "street_address": "3325 Main St",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 44.45936621172194,
+    "longitude": -111.11191870058659,
+    "phone": "(555) 108-2820",
+    "website": "https://www.action-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fairbanks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-13",
+    "business_name": "Felt Bar & Billiards",
+    "slug": "felt-bar-billiards-ketchikan-alaska",
+    "street_address": "8471 Main St",
+    "city": "Ketchikan",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 43.89264953608173,
+    "longitude": -91.38721220851531,
+    "phone": "(555) 291-5726",
+    "website": "https://www.felt-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Ketchikan.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-14",
+    "business_name": "Rack Billiards",
+    "slug": "rack-billiards-fairbanks-alaska",
+    "street_address": "2280 Main St",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 39.35097606149998,
+    "longitude": -100.5046374966969,
+    "phone": "(555) 512-6183",
+    "website": "https://www.rack-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fairbanks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-15",
+    "business_name": "Nine Ball Club",
+    "slug": "nine-ball-club-fairbanks-alaska",
+    "street_address": "667 Main St",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 35.69490792280252,
+    "longitude": -80.76052998528397,
+    "phone": "(555) 953-8494",
+    "website": "https://www.nine-ball-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fairbanks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-16",
+    "business_name": "Billiard Sports Bar",
+    "slug": "billiard-sports-bar-ketchikan-alaska",
+    "street_address": "8738 Main St",
+    "city": "Ketchikan",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 31.078304279486865,
+    "longitude": -100.26534930845177,
+    "phone": "(555) 626-6036",
+    "website": "https://www.billiard-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Ketchikan.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-17",
+    "business_name": "Diamond Club",
+    "slug": "diamond-club-sitka-alaska",
+    "street_address": "4587 Main St",
+    "city": "Sitka",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 32.219708459928185,
+    "longitude": -101.92169337122068,
+    "phone": "(555) 849-5222",
+    "website": "https://www.diamond-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sitka.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-18",
+    "business_name": "Felt Sports Bar",
+    "slug": "felt-sports-bar-fairbanks-alaska",
+    "street_address": "8271 Main St",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 38.44596573233874,
+    "longitude": -96.37757614118775,
+    "phone": "(555) 737-7442",
+    "website": "https://www.felt-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fairbanks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alaska-1777480707839-19",
+    "business_name": "Billiard Billiard Room",
+    "slug": "billiard-billiard-room-fairbanks-alaska",
+    "street_address": "665 Main St",
+    "city": "Fairbanks",
+    "state": "Alaska",
+    "zip": "00000",
+    "latitude": 34.312964339964,
+    "longitude": -87.55871805185662,
+    "phone": "(555) 635-2948",
+    "website": "https://www.billiard-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fairbanks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

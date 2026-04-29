@@ -154,5 +154,833 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-0",
+    "business_name": "Action Pub & Pool",
+    "slug": "action-pub-pool-smyrna-delaware",
+    "street_address": "7316 Main St",
+    "city": "Smyrna",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 44.47081151122065,
+    "longitude": -111.08990238680846,
+    "phone": "(555) 800-1433",
+    "website": "https://www.action-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Smyrna.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-1",
+    "business_name": "Corner Bar & Billiards",
+    "slug": "corner-bar-billiards-dover-delaware",
+    "street_address": "7294 Main St",
+    "city": "Dover",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 39.86717582815358,
+    "longitude": -83.60107653833451,
+    "phone": "(555) 539-5056",
+    "website": "https://www.corner-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dover.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-2",
+    "business_name": "Nine Ball Billiards",
+    "slug": "nine-ball-billiards-wilmington-delaware",
+    "street_address": "5606 Main St",
+    "city": "Wilmington",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 34.0537453454869,
+    "longitude": -91.49523148581524,
+    "phone": "(555) 525-1404",
+    "website": "https://www.nine-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Wilmington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-3",
+    "business_name": "Shooters Billiard Room",
+    "slug": "shooters-billiard-room-newark-delaware",
+    "street_address": "3867 Main St",
+    "city": "Newark",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 34.64878887442299,
+    "longitude": -90.63508287753724,
+    "phone": "(555) 384-4231",
+    "website": "https://www.shooters-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newark.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-4",
+    "business_name": "Diamond Billiard Room",
+    "slug": "diamond-billiard-room-smyrna-delaware",
+    "street_address": "4063 Main St",
+    "city": "Smyrna",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 34.878982786013445,
+    "longitude": -95.46363257475082,
+    "phone": "(555) 903-7335",
+    "website": "https://www.diamond-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Smyrna.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-5",
+    "business_name": "Cue Sports Bar",
+    "slug": "cue-sports-bar-smyrna-delaware",
+    "street_address": "879 Main St",
+    "city": "Smyrna",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 37.91297051016437,
+    "longitude": -79.61425993426437,
+    "phone": "(555) 956-7082",
+    "website": "https://www.cue-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Smyrna.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-6",
+    "business_name": "Break Bar & Billiards",
+    "slug": "break-bar-billiards-wilmington-delaware",
+    "street_address": "2794 Main St",
+    "city": "Wilmington",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 32.40875620857788,
+    "longitude": -112.68810251425836,
+    "phone": "(555) 521-7475",
+    "website": "https://www.break-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Wilmington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-7",
+    "business_name": "Q Pool Hall",
+    "slug": "q-pool-hall-smyrna-delaware",
+    "street_address": "6053 Main St",
+    "city": "Smyrna",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 39.91202673387743,
+    "longitude": -96.4634549088114,
+    "phone": "(555) 325-3645",
+    "website": "https://www.q-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Smyrna.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-8",
+    "business_name": "Cue Billiard Room",
+    "slug": "cue-billiard-room-smyrna-delaware",
+    "street_address": "4084 Main St",
+    "city": "Smyrna",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 44.59586083050245,
+    "longitude": -119.37569271003176,
+    "phone": "(555) 444-9559",
+    "website": "https://www.cue-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Smyrna.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-9",
+    "business_name": "Cue Billiard Room",
+    "slug": "cue-billiard-room-newark-delaware",
+    "street_address": "7297 Main St",
+    "city": "Newark",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 43.02933602690423,
+    "longitude": -78.11128942279126,
+    "phone": "(555) 903-2788",
+    "website": "https://www.cue-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newark.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-10",
+    "business_name": "Action Lounge",
+    "slug": "action-lounge-newark-delaware",
+    "street_address": "6298 Main St",
+    "city": "Newark",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 44.03725963229867,
+    "longitude": -113.43415452864866,
+    "phone": "(555) 927-6549",
+    "website": "https://www.action-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newark.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-11",
+    "business_name": "Action Bar & Billiards",
+    "slug": "action-bar-billiards-wilmington-delaware",
+    "street_address": "2116 Main St",
+    "city": "Wilmington",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 39.353819658419305,
+    "longitude": -85.7272794599117,
+    "phone": "(555) 911-5599",
+    "website": "https://www.action-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Wilmington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-12",
+    "business_name": "Pocket Pool Hall",
+    "slug": "pocket-pool-hall-newark-delaware",
+    "street_address": "5662 Main St",
+    "city": "Newark",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 42.93004199824312,
+    "longitude": -94.1228927648728,
+    "phone": "(555) 621-9385",
+    "website": "https://www.pocket-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newark.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-13",
+    "business_name": "Pocket Club",
+    "slug": "pocket-club-smyrna-delaware",
+    "street_address": "6634 Main St",
+    "city": "Smyrna",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 34.880112584612256,
+    "longitude": -94.96116007419059,
+    "phone": "(555) 847-5159",
+    "website": "https://www.pocket-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Smyrna.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-14",
+    "business_name": "Chalk Pub & Pool",
+    "slug": "chalk-pub-pool-newark-delaware",
+    "street_address": "6605 Main St",
+    "city": "Newark",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 35.878771122854765,
+    "longitude": -86.15574750961237,
+    "phone": "(555) 698-8393",
+    "website": "https://www.chalk-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newark.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-15",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-smyrna-delaware",
+    "street_address": "8326 Main St",
+    "city": "Smyrna",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 31.93012840101428,
+    "longitude": -112.32013748170318,
+    "phone": "(555) 163-7682",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Smyrna.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-16",
+    "business_name": "Eight Ball Lounge",
+    "slug": "eight-ball-lounge-wilmington-delaware",
+    "street_address": "5834 Main St",
+    "city": "Wilmington",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 44.67332599456363,
+    "longitude": -103.02663202098108,
+    "phone": "(555) 298-8203",
+    "website": "https://www.eight-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Wilmington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-17",
+    "business_name": "Q Bar & Billiards",
+    "slug": "q-bar-billiards-newark-delaware",
+    "street_address": "3175 Main St",
+    "city": "Newark",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 42.32161232898105,
+    "longitude": -98.03532694450969,
+    "phone": "(555) 160-3433",
+    "website": "https://www.q-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newark.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-18",
+    "business_name": "Eight Ball Club",
+    "slug": "eight-ball-club-wilmington-delaware",
+    "street_address": "4481 Main St",
+    "city": "Wilmington",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 38.41672106704228,
+    "longitude": -100.10734210355665,
+    "phone": "(555) 643-9538",
+    "website": "https://www.eight-ball-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Wilmington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-delaware-1777480707845-19",
+    "business_name": "Q Bar & Billiards",
+    "slug": "q-bar-billiards-dover-delaware",
+    "street_address": "4041 Main St",
+    "city": "Dover",
+    "state": "Delaware",
+    "zip": "00000",
+    "latitude": 42.238717983488684,
+    "longitude": -111.10651104211877,
+    "phone": "(555) 549-2961",
+    "website": "https://www.q-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dover.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

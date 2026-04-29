@@ -207,5 +207,841 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-0",
+    "business_name": "Eight Ball Billiard Room",
+    "slug": "eight-ball-billiard-room-bowling-green-kentucky",
+    "street_address": "6750 Main St",
+    "city": "Bowling Green",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 43.5408578362278,
+    "longitude": -94.46887410893983,
+    "phone": "(555) 884-1342",
+    "website": "https://www.eight-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bowling Green.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-1",
+    "business_name": "Q Club",
+    "slug": "q-club-covington-kentucky",
+    "street_address": "3948 Main St",
+    "city": "Covington",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 40.850770922379056,
+    "longitude": -79.52079031226256,
+    "phone": "(555) 339-1861",
+    "website": "https://www.q-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Covington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-2",
+    "business_name": "Pocket Sports Bar",
+    "slug": "pocket-sports-bar-louisville-kentucky",
+    "street_address": "7461 Main St",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 31.654516498873654,
+    "longitude": -96.92546853164723,
+    "phone": "(555) 119-5600",
+    "website": "https://www.pocket-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Louisville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-3",
+    "business_name": "Rack Billiards",
+    "slug": "rack-billiards-louisville-kentucky",
+    "street_address": "8182 Main St",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 35.54433546426673,
+    "longitude": -79.33395227360324,
+    "phone": "(555) 915-9484",
+    "website": "https://www.rack-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Louisville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-4",
+    "business_name": "Billiard Bar & Billiards",
+    "slug": "billiard-bar-billiards-bowling-green-kentucky",
+    "street_address": "5642 Main St",
+    "city": "Bowling Green",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 31.392178962942324,
+    "longitude": -86.04074115450561,
+    "phone": "(555) 200-1029",
+    "website": "https://www.billiard-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bowling Green.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-5",
+    "business_name": "Billiard Club",
+    "slug": "billiard-club-covington-kentucky",
+    "street_address": "6801 Main St",
+    "city": "Covington",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 35.47811351679164,
+    "longitude": -76.87178259336059,
+    "phone": "(555) 753-8835",
+    "website": "https://www.billiard-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Covington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-6",
+    "business_name": "Break Bar & Billiards",
+    "slug": "break-bar-billiards-owensboro-kentucky",
+    "street_address": "2928 Main St",
+    "city": "Owensboro",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 43.326787635636876,
+    "longitude": -117.44802005873291,
+    "phone": "(555) 460-1453",
+    "website": "https://www.break-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Owensboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-7",
+    "business_name": "Action Billiards",
+    "slug": "action-billiards-lexington-kentucky",
+    "street_address": "6501 Main St",
+    "city": "Lexington",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 44.46876170734037,
+    "longitude": -81.40772139641024,
+    "phone": "(555) 977-8264",
+    "website": "https://www.action-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lexington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-8",
+    "business_name": "Pocket Pool Hall",
+    "slug": "pocket-pool-hall-louisville-kentucky",
+    "street_address": "6565 Main St",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 44.91915032867592,
+    "longitude": -92.31641471037629,
+    "phone": "(555) 633-6299",
+    "website": "https://www.pocket-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Louisville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-9",
+    "business_name": "Action Sports Bar",
+    "slug": "action-sports-bar-louisville-kentucky",
+    "street_address": "8286 Main St",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 33.66145351300697,
+    "longitude": -75.14762241388792,
+    "phone": "(555) 218-4014",
+    "website": "https://www.action-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Louisville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-10",
+    "business_name": "Diamond Billiards",
+    "slug": "diamond-billiards-louisville-kentucky",
+    "street_address": "7470 Main St",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 34.70378346577959,
+    "longitude": -80.9422326473981,
+    "phone": "(555) 178-5135",
+    "website": "https://www.diamond-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Louisville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-11",
+    "business_name": "Chalk Billiards",
+    "slug": "chalk-billiards-owensboro-kentucky",
+    "street_address": "3367 Main St",
+    "city": "Owensboro",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 43.217421515684876,
+    "longitude": -101.6194406817395,
+    "phone": "(555) 390-8432",
+    "website": "https://www.chalk-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Owensboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-12",
+    "business_name": "Billiard Club",
+    "slug": "billiard-club-covington-kentucky",
+    "street_address": "5873 Main St",
+    "city": "Covington",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 36.25922659213164,
+    "longitude": -91.19900780770388,
+    "phone": "(555) 782-8357",
+    "website": "https://www.billiard-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Covington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-13",
+    "business_name": "Pocket Bar & Billiards",
+    "slug": "pocket-bar-billiards-covington-kentucky",
+    "street_address": "6108 Main St",
+    "city": "Covington",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 31.419135648945534,
+    "longitude": -110.34651374186679,
+    "phone": "(555) 612-4045",
+    "website": "https://www.pocket-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Covington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-14",
+    "business_name": "Break Billiard Room",
+    "slug": "break-billiard-room-louisville-kentucky",
+    "street_address": "561 Main St",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 41.45832922439337,
+    "longitude": -101.27782151761696,
+    "phone": "(555) 715-9594",
+    "website": "https://www.break-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Louisville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-15",
+    "business_name": "Pocket Sports Bar",
+    "slug": "pocket-sports-bar-bowling-green-kentucky",
+    "street_address": "2366 Main St",
+    "city": "Bowling Green",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 37.055902929850205,
+    "longitude": -77.926159009095,
+    "phone": "(555) 121-6405",
+    "website": "https://www.pocket-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bowling Green.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-16",
+    "business_name": "Felt Pub & Pool",
+    "slug": "felt-pub-pool-owensboro-kentucky",
+    "street_address": "5214 Main St",
+    "city": "Owensboro",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 41.656550651339366,
+    "longitude": -90.81757564295177,
+    "phone": "(555) 223-3988",
+    "website": "https://www.felt-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Owensboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-17",
+    "business_name": "Shooters Sports Bar",
+    "slug": "shooters-sports-bar-covington-kentucky",
+    "street_address": "5948 Main St",
+    "city": "Covington",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 33.0638695778224,
+    "longitude": -78.3485923545603,
+    "phone": "(555) 616-9766",
+    "website": "https://www.shooters-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Covington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-18",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-owensboro-kentucky",
+    "street_address": "2228 Main St",
+    "city": "Owensboro",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 30.37138717109016,
+    "longitude": -109.42467567934563,
+    "phone": "(555) 721-9784",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Owensboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kentucky-1777480707851-19",
+    "business_name": "Nine Ball Billiards",
+    "slug": "nine-ball-billiards-lexington-kentucky",
+    "street_address": "7532 Main St",
+    "city": "Lexington",
+    "state": "Kentucky",
+    "zip": "00000",
+    "latitude": 38.12767698556931,
+    "longitude": -76.4458474830187,
+    "phone": "(555) 815-8034",
+    "website": "https://www.nine-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lexington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

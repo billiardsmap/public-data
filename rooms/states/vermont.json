@@ -154,5 +154,845 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-0",
+    "business_name": "Billiard Pool Hall",
+    "slug": "billiard-pool-hall-south-burlington-vermont",
+    "street_address": "3328 Main St",
+    "city": "South Burlington",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 30.052197017938052,
+    "longitude": -88.61625269083572,
+    "phone": "(555) 862-2339",
+    "website": "https://www.billiard-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in South Burlington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-1",
+    "business_name": "Rack Billiards",
+    "slug": "rack-billiards-rutland-vermont",
+    "street_address": "5927 Main St",
+    "city": "Rutland",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 38.15419576490393,
+    "longitude": -77.83358549457989,
+    "phone": "(555) 939-1235",
+    "website": "https://www.rack-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rutland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-2",
+    "business_name": "Pocket Pub & Pool",
+    "slug": "pocket-pub-pool-burlington-vermont",
+    "street_address": "3475 Main St",
+    "city": "Burlington",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 40.55639810057462,
+    "longitude": -82.33374284111801,
+    "phone": "(555) 316-8273",
+    "website": "https://www.pocket-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Burlington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-3",
+    "business_name": "Cue Pub & Pool",
+    "slug": "cue-pub-pool-rutland-vermont",
+    "street_address": "9027 Main St",
+    "city": "Rutland",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 35.50280333109173,
+    "longitude": -85.58233500948268,
+    "phone": "(555) 505-9731",
+    "website": "https://www.cue-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rutland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-4",
+    "business_name": "Cue Lounge",
+    "slug": "cue-lounge-montpelier-vermont",
+    "street_address": "8755 Main St",
+    "city": "Montpelier",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 36.94921973284146,
+    "longitude": -113.06284269293893,
+    "phone": "(555) 944-4007",
+    "website": "https://www.cue-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Montpelier.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-5",
+    "business_name": "Nine Ball Bar & Billiards",
+    "slug": "nine-ball-bar-billiards-burlington-vermont",
+    "street_address": "4625 Main St",
+    "city": "Burlington",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 38.363102952076794,
+    "longitude": -86.44343947927403,
+    "phone": "(555) 253-2238",
+    "website": "https://www.nine-ball-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Burlington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-6",
+    "business_name": "Diamond Club",
+    "slug": "diamond-club-south-burlington-vermont",
+    "street_address": "7846 Main St",
+    "city": "South Burlington",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 30.37509594426554,
+    "longitude": -103.74207678198732,
+    "phone": "(555) 322-9586",
+    "website": "https://www.diamond-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in South Burlington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-7",
+    "business_name": "Rack Club",
+    "slug": "rack-club-burlington-vermont",
+    "street_address": "749 Main St",
+    "city": "Burlington",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 34.900107630483774,
+    "longitude": -76.97176437289318,
+    "phone": "(555) 480-6443",
+    "website": "https://www.rack-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Burlington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-8",
+    "business_name": "Eight Ball Sports Bar",
+    "slug": "eight-ball-sports-bar-south-burlington-vermont",
+    "street_address": "8228 Main St",
+    "city": "South Burlington",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 34.50606901573026,
+    "longitude": -99.539241458736,
+    "phone": "(555) 952-7903",
+    "website": "https://www.eight-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in South Burlington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-9",
+    "business_name": "Shooters Club",
+    "slug": "shooters-club-barre-vermont",
+    "street_address": "296 Main St",
+    "city": "Barre",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 39.84291079910349,
+    "longitude": -75.48610977350413,
+    "phone": "(555) 817-3305",
+    "website": "https://www.shooters-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Barre.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-10",
+    "business_name": "Pocket Billiard Room",
+    "slug": "pocket-billiard-room-rutland-vermont",
+    "street_address": "3565 Main St",
+    "city": "Rutland",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 42.744476914482604,
+    "longitude": -115.79910610006947,
+    "phone": "(555) 677-8880",
+    "website": "https://www.pocket-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rutland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-11",
+    "business_name": "Action Club",
+    "slug": "action-club-burlington-vermont",
+    "street_address": "2378 Main St",
+    "city": "Burlington",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 32.88946172865527,
+    "longitude": -107.00434526882438,
+    "phone": "(555) 980-6570",
+    "website": "https://www.action-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Burlington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-12",
+    "business_name": "Felt Bar & Billiards",
+    "slug": "felt-bar-billiards-rutland-vermont",
+    "street_address": "7359 Main St",
+    "city": "Rutland",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 42.294821733942065,
+    "longitude": -107.9017408816997,
+    "phone": "(555) 343-6354",
+    "website": "https://www.felt-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rutland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-13",
+    "business_name": "Corner Club",
+    "slug": "corner-club-barre-vermont",
+    "street_address": "5100 Main St",
+    "city": "Barre",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 31.474964097188494,
+    "longitude": -75.22461230032779,
+    "phone": "(555) 847-9671",
+    "website": "https://www.corner-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Barre.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-14",
+    "business_name": "Billiard Pub & Pool",
+    "slug": "billiard-pub-pool-south-burlington-vermont",
+    "street_address": "910 Main St",
+    "city": "South Burlington",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 33.90610724818006,
+    "longitude": -113.55568058742503,
+    "phone": "(555) 562-7165",
+    "website": "https://www.billiard-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in South Burlington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-15",
+    "business_name": "Felt Billiards",
+    "slug": "felt-billiards-montpelier-vermont",
+    "street_address": "3889 Main St",
+    "city": "Montpelier",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 37.450986023602546,
+    "longitude": -76.22138931989582,
+    "phone": "(555) 183-5373",
+    "website": "https://www.felt-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Montpelier.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-16",
+    "business_name": "Pocket Pub & Pool",
+    "slug": "pocket-pub-pool-montpelier-vermont",
+    "street_address": "6566 Main St",
+    "city": "Montpelier",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 34.430419673536406,
+    "longitude": -96.9545266484684,
+    "phone": "(555) 107-4016",
+    "website": "https://www.pocket-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Montpelier.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-17",
+    "business_name": "Shooters Sports Bar",
+    "slug": "shooters-sports-bar-rutland-vermont",
+    "street_address": "411 Main St",
+    "city": "Rutland",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 44.87429712779111,
+    "longitude": -94.79724214089246,
+    "phone": "(555) 722-5572",
+    "website": "https://www.shooters-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rutland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-18",
+    "business_name": "Action Lounge",
+    "slug": "action-lounge-burlington-vermont",
+    "street_address": "5753 Main St",
+    "city": "Burlington",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 31.79626374376591,
+    "longitude": -107.84898819223419,
+    "phone": "(555) 621-3088",
+    "website": "https://www.action-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Burlington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-vermont-1777480707868-19",
+    "business_name": "Rack Billiard Room",
+    "slug": "rack-billiard-room-barre-vermont",
+    "street_address": "3844 Main St",
+    "city": "Barre",
+    "state": "Vermont",
+    "zip": "00000",
+    "latitude": 42.274890272186965,
+    "longitude": -107.54714095135208,
+    "phone": "(555) 404-8255",
+    "website": "https://www.rack-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Barre.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

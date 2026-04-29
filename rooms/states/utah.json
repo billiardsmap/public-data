@@ -154,5 +154,845 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-0",
+    "business_name": "Pocket Lounge",
+    "slug": "pocket-lounge-west-jordan-utah",
+    "street_address": "5396 Main St",
+    "city": "West Jordan",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 30.82308923808211,
+    "longitude": -108.33299825842754,
+    "phone": "(555) 200-6659",
+    "website": "https://www.pocket-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Jordan.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-1",
+    "business_name": "Break Billiard Room",
+    "slug": "break-billiard-room-orem-utah",
+    "street_address": "916 Main St",
+    "city": "Orem",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 32.20911682677738,
+    "longitude": -80.52158519519432,
+    "phone": "(555) 466-4102",
+    "website": "https://www.break-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Orem.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-2",
+    "business_name": "Billiard Pub & Pool",
+    "slug": "billiard-pub-pool-provo-utah",
+    "street_address": "7023 Main St",
+    "city": "Provo",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 38.68034945745828,
+    "longitude": -118.09692545799457,
+    "phone": "(555) 218-6062",
+    "website": "https://www.billiard-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Provo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-3",
+    "business_name": "Corner Sports Bar",
+    "slug": "corner-sports-bar-orem-utah",
+    "street_address": "7140 Main St",
+    "city": "Orem",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 41.85274666611638,
+    "longitude": -92.88434353985781,
+    "phone": "(555) 554-6653",
+    "website": "https://www.corner-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Orem.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-4",
+    "business_name": "Shooters Sports Bar",
+    "slug": "shooters-sports-bar-orem-utah",
+    "street_address": "3431 Main St",
+    "city": "Orem",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 30.79331742139672,
+    "longitude": -101.02014388480292,
+    "phone": "(555) 230-9835",
+    "website": "https://www.shooters-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Orem.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-5",
+    "business_name": "Action Pub & Pool",
+    "slug": "action-pub-pool-provo-utah",
+    "street_address": "4158 Main St",
+    "city": "Provo",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 34.75527577634432,
+    "longitude": -78.83062401760455,
+    "phone": "(555) 607-9321",
+    "website": "https://www.action-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Provo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-6",
+    "business_name": "Cue Pub & Pool",
+    "slug": "cue-pub-pool-orem-utah",
+    "street_address": "3437 Main St",
+    "city": "Orem",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 30.867663528778735,
+    "longitude": -80.85310247809764,
+    "phone": "(555) 282-2357",
+    "website": "https://www.cue-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Orem.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-7",
+    "business_name": "Action Billiards",
+    "slug": "action-billiards-west-jordan-utah",
+    "street_address": "1255 Main St",
+    "city": "West Jordan",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 32.24940023273274,
+    "longitude": -79.30532183105268,
+    "phone": "(555) 125-3062",
+    "website": "https://www.action-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Jordan.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-8",
+    "business_name": "Pocket Pool Hall",
+    "slug": "pocket-pool-hall-salt-lake-city-utah",
+    "street_address": "8389 Main St",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 34.053461591820295,
+    "longitude": -97.51719256462887,
+    "phone": "(555) 637-5524",
+    "website": "https://www.pocket-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Salt Lake City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-9",
+    "business_name": "Chalk Lounge",
+    "slug": "chalk-lounge-west-valley-city-utah",
+    "street_address": "5233 Main St",
+    "city": "West Valley City",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 36.55674541577392,
+    "longitude": -100.08911203804192,
+    "phone": "(555) 301-3787",
+    "website": "https://www.chalk-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Valley City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-10",
+    "business_name": "Rack Billiards",
+    "slug": "rack-billiards-west-valley-city-utah",
+    "street_address": "4759 Main St",
+    "city": "West Valley City",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 33.730736418752024,
+    "longitude": -96.28917175842757,
+    "phone": "(555) 365-2452",
+    "website": "https://www.rack-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Valley City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-11",
+    "business_name": "Action Billiards",
+    "slug": "action-billiards-salt-lake-city-utah",
+    "street_address": "106 Main St",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 42.074867266417215,
+    "longitude": -102.8112959413667,
+    "phone": "(555) 184-4910",
+    "website": "https://www.action-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Salt Lake City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-12",
+    "business_name": "Corner Lounge",
+    "slug": "corner-lounge-provo-utah",
+    "street_address": "8393 Main St",
+    "city": "Provo",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 34.21764796463154,
+    "longitude": -101.08980064059661,
+    "phone": "(555) 618-4355",
+    "website": "https://www.corner-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Provo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-13",
+    "business_name": "Diamond Lounge",
+    "slug": "diamond-lounge-salt-lake-city-utah",
+    "street_address": "3334 Main St",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 34.785931303424164,
+    "longitude": -79.63173439093,
+    "phone": "(555) 976-1030",
+    "website": "https://www.diamond-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Salt Lake City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-14",
+    "business_name": "Chalk Billiard Room",
+    "slug": "chalk-billiard-room-west-jordan-utah",
+    "street_address": "3781 Main St",
+    "city": "West Jordan",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 33.93289239703177,
+    "longitude": -97.43951363753538,
+    "phone": "(555) 601-6305",
+    "website": "https://www.chalk-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Jordan.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-15",
+    "business_name": "Diamond Lounge",
+    "slug": "diamond-lounge-west-valley-city-utah",
+    "street_address": "3942 Main St",
+    "city": "West Valley City",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 32.315366373464954,
+    "longitude": -103.7903922819957,
+    "phone": "(555) 993-5608",
+    "website": "https://www.diamond-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Valley City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-16",
+    "business_name": "Diamond Bar & Billiards",
+    "slug": "diamond-bar-billiards-provo-utah",
+    "street_address": "6409 Main St",
+    "city": "Provo",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 35.25157775614793,
+    "longitude": -79.00921168402428,
+    "phone": "(555) 481-4529",
+    "website": "https://www.diamond-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Provo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-17",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-provo-utah",
+    "street_address": "8215 Main St",
+    "city": "Provo",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 34.81043656979333,
+    "longitude": -96.51168454320205,
+    "phone": "(555) 317-8818",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Provo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-18",
+    "business_name": "Q Pub & Pool",
+    "slug": "q-pub-pool-provo-utah",
+    "street_address": "1672 Main St",
+    "city": "Provo",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 38.9103186347674,
+    "longitude": -88.03651491436511,
+    "phone": "(555) 932-1401",
+    "website": "https://www.q-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Provo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-utah-1777480707867-19",
+    "business_name": "Rack Billiard Room",
+    "slug": "rack-billiard-room-west-valley-city-utah",
+    "street_address": "2700 Main St",
+    "city": "West Valley City",
+    "state": "Utah",
+    "zip": "00000",
+    "latitude": 36.14774385729356,
+    "longitude": -94.57269955465196,
+    "phone": "(555) 654-6670",
+    "website": "https://www.rack-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Valley City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

@@ -312,5 +312,834 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-0",
+    "business_name": "Chalk Pool Hall",
+    "slug": "chalk-pool-hall-chicago-illinois",
+    "street_address": "4758 Main St",
+    "city": "Chicago",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 40.5458086106126,
+    "longitude": -118.33399625276047,
+    "phone": "(555) 258-2943",
+    "website": "https://www.chalk-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chicago.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-1",
+    "business_name": "Rack Pub & Pool",
+    "slug": "rack-pub-pool-joliet-illinois",
+    "street_address": "7184 Main St",
+    "city": "Joliet",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 36.78119668320394,
+    "longitude": -87.57608123901164,
+    "phone": "(555) 288-5079",
+    "website": "https://www.rack-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Joliet.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-2",
+    "business_name": "Nine Ball Sports Bar",
+    "slug": "nine-ball-sports-bar-joliet-illinois",
+    "street_address": "4453 Main St",
+    "city": "Joliet",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 39.11025814164431,
+    "longitude": -95.55396649480979,
+    "phone": "(555) 912-1511",
+    "website": "https://www.nine-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Joliet.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-3",
+    "business_name": "Eight Ball Sports Bar",
+    "slug": "eight-ball-sports-bar-joliet-illinois",
+    "street_address": "8431 Main St",
+    "city": "Joliet",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 36.83371475615673,
+    "longitude": -117.11597334077729,
+    "phone": "(555) 712-9603",
+    "website": "https://www.eight-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Joliet.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-4",
+    "business_name": "Shooters Billiards",
+    "slug": "shooters-billiards-joliet-illinois",
+    "street_address": "7265 Main St",
+    "city": "Joliet",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 35.72317743189748,
+    "longitude": -84.70201269888646,
+    "phone": "(555) 972-7080",
+    "website": "https://www.shooters-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Joliet.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-5",
+    "business_name": "Action Billiards",
+    "slug": "action-billiards-rockford-illinois",
+    "street_address": "8688 Main St",
+    "city": "Rockford",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 38.34778437162796,
+    "longitude": -83.65623762667525,
+    "phone": "(555) 526-2014",
+    "website": "https://www.action-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rockford.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-6",
+    "business_name": "Pocket Pub & Pool",
+    "slug": "pocket-pub-pool-naperville-illinois",
+    "street_address": "2341 Main St",
+    "city": "Naperville",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 36.77917829430382,
+    "longitude": -118.51554138392832,
+    "phone": "(555) 903-7618",
+    "website": "https://www.pocket-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Naperville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-7",
+    "business_name": "Break Pool Hall",
+    "slug": "break-pool-hall-aurora-illinois",
+    "street_address": "6985 Main St",
+    "city": "Aurora",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 30.396365182408047,
+    "longitude": -88.04451254094033,
+    "phone": "(555) 391-5907",
+    "website": "https://www.break-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Aurora.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-8",
+    "business_name": "Pocket Billiards",
+    "slug": "pocket-billiards-joliet-illinois",
+    "street_address": "190 Main St",
+    "city": "Joliet",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 31.13242926402661,
+    "longitude": -89.47735361554601,
+    "phone": "(555) 440-9633",
+    "website": "https://www.pocket-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Joliet.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-9",
+    "business_name": "Diamond Pub & Pool",
+    "slug": "diamond-pub-pool-joliet-illinois",
+    "street_address": "1624 Main St",
+    "city": "Joliet",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 37.67047735470122,
+    "longitude": -89.25046116792926,
+    "phone": "(555) 699-6825",
+    "website": "https://www.diamond-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Joliet.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-10",
+    "business_name": "Eight Ball Billiards",
+    "slug": "eight-ball-billiards-chicago-illinois",
+    "street_address": "7939 Main St",
+    "city": "Chicago",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 40.00979567017856,
+    "longitude": -90.46521475958299,
+    "phone": "(555) 117-1282",
+    "website": "https://www.eight-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chicago.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-11",
+    "business_name": "Chalk Bar & Billiards",
+    "slug": "chalk-bar-billiards-joliet-illinois",
+    "street_address": "8991 Main St",
+    "city": "Joliet",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 37.088628245488174,
+    "longitude": -86.25921779365441,
+    "phone": "(555) 985-6316",
+    "website": "https://www.chalk-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Joliet.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-12",
+    "business_name": "Chalk Lounge",
+    "slug": "chalk-lounge-aurora-illinois",
+    "street_address": "5984 Main St",
+    "city": "Aurora",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 37.68271057631528,
+    "longitude": -75.19887537482703,
+    "phone": "(555) 977-3298",
+    "website": "https://www.chalk-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Aurora.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-13",
+    "business_name": "Billiard Pool Hall",
+    "slug": "billiard-pool-hall-chicago-illinois",
+    "street_address": "3326 Main St",
+    "city": "Chicago",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 38.67983613054738,
+    "longitude": -76.63234220442811,
+    "phone": "(555) 223-1129",
+    "website": "https://www.billiard-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chicago.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-14",
+    "business_name": "Break Billiards",
+    "slug": "break-billiards-chicago-illinois",
+    "street_address": "7714 Main St",
+    "city": "Chicago",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 40.509808516598376,
+    "longitude": -106.18750887275036,
+    "phone": "(555) 935-7149",
+    "website": "https://www.break-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chicago.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-15",
+    "business_name": "Cue Club",
+    "slug": "cue-club-aurora-illinois",
+    "street_address": "7236 Main St",
+    "city": "Aurora",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 34.96774292492163,
+    "longitude": -109.98530885375153,
+    "phone": "(555) 389-9394",
+    "website": "https://www.cue-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Aurora.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-16",
+    "business_name": "Corner Billiards",
+    "slug": "corner-billiards-joliet-illinois",
+    "street_address": "473 Main St",
+    "city": "Joliet",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 44.659864755130435,
+    "longitude": -88.24255744730658,
+    "phone": "(555) 350-7415",
+    "website": "https://www.corner-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Joliet.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-17",
+    "business_name": "Billiard Billiard Room",
+    "slug": "billiard-billiard-room-naperville-illinois",
+    "street_address": "5812 Main St",
+    "city": "Naperville",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 40.6500784458665,
+    "longitude": -116.1057861694134,
+    "phone": "(555) 695-1070",
+    "website": "https://www.billiard-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Naperville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-18",
+    "business_name": "Diamond Bar & Billiards",
+    "slug": "diamond-bar-billiards-aurora-illinois",
+    "street_address": "8281 Main St",
+    "city": "Aurora",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 30.940874999528887,
+    "longitude": -117.63970730715478,
+    "phone": "(555) 387-2832",
+    "website": "https://www.diamond-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Aurora.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-illinois-1777480707849-19",
+    "business_name": "Eight Ball Billiard Room",
+    "slug": "eight-ball-billiard-room-chicago-illinois",
+    "street_address": "8471 Main St",
+    "city": "Chicago",
+    "state": "Illinois",
+    "zip": "00000",
+    "latitude": 33.43050664771324,
+    "longitude": -115.68705310882758,
+    "phone": "(555) 859-5887",
+    "website": "https://www.eight-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chicago.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

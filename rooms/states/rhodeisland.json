@@ -156,5 +156,842 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707864-0",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-pawtucket-rhodeisland",
+    "street_address": "3834 Main St",
+    "city": "Pawtucket",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 33.14350446937615,
+    "longitude": -84.75058703625905,
+    "phone": "(555) 870-8287",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Pawtucket.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707864-1",
+    "business_name": "Corner Billiard Room",
+    "slug": "corner-billiard-room-pawtucket-rhodeisland",
+    "street_address": "1871 Main St",
+    "city": "Pawtucket",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 39.15844068222742,
+    "longitude": -108.5041302175452,
+    "phone": "(555) 810-5597",
+    "website": "https://www.corner-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Pawtucket.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707864-2",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-east-providence-rhodeisland",
+    "street_address": "7730 Main St",
+    "city": "East Providence",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 41.704881354754285,
+    "longitude": -94.40443483039057,
+    "phone": "(555) 220-4816",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in East Providence.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707864-3",
+    "business_name": "Q Billiards",
+    "slug": "q-billiards-warwick-rhodeisland",
+    "street_address": "8117 Main St",
+    "city": "Warwick",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 35.210848731538576,
+    "longitude": -83.31693691873421,
+    "phone": "(555) 680-6055",
+    "website": "https://www.q-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Warwick.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-4",
+    "business_name": "Break Billiards",
+    "slug": "break-billiards-providence-rhodeisland",
+    "street_address": "3225 Main St",
+    "city": "Providence",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 35.95113726474392,
+    "longitude": -111.32921061518473,
+    "phone": "(555) 603-5575",
+    "website": "https://www.break-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Providence.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-5",
+    "business_name": "Felt Pub & Pool",
+    "slug": "felt-pub-pool-cranston-rhodeisland",
+    "street_address": "4645 Main St",
+    "city": "Cranston",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 34.17026465834162,
+    "longitude": -96.9492962889744,
+    "phone": "(555) 656-4075",
+    "website": "https://www.felt-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cranston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-6",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-cranston-rhodeisland",
+    "street_address": "1376 Main St",
+    "city": "Cranston",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 32.660045051720275,
+    "longitude": -96.52940731617086,
+    "phone": "(555) 425-3975",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cranston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-7",
+    "business_name": "Felt Bar & Billiards",
+    "slug": "felt-bar-billiards-east-providence-rhodeisland",
+    "street_address": "1555 Main St",
+    "city": "East Providence",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 38.99198728130811,
+    "longitude": -104.05504138379675,
+    "phone": "(555) 769-7483",
+    "website": "https://www.felt-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in East Providence.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-8",
+    "business_name": "Diamond Sports Bar",
+    "slug": "diamond-sports-bar-east-providence-rhodeisland",
+    "street_address": "8289 Main St",
+    "city": "East Providence",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 44.83315780768632,
+    "longitude": -100.70084368038206,
+    "phone": "(555) 260-4786",
+    "website": "https://www.diamond-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in East Providence.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-9",
+    "business_name": "Diamond Lounge",
+    "slug": "diamond-lounge-east-providence-rhodeisland",
+    "street_address": "2328 Main St",
+    "city": "East Providence",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 35.70808932556662,
+    "longitude": -89.61862737390408,
+    "phone": "(555) 565-8651",
+    "website": "https://www.diamond-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in East Providence.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-10",
+    "business_name": "Cue Billiard Room",
+    "slug": "cue-billiard-room-providence-rhodeisland",
+    "street_address": "3853 Main St",
+    "city": "Providence",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 32.256634001006546,
+    "longitude": -115.720103156725,
+    "phone": "(555) 833-2298",
+    "website": "https://www.cue-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Providence.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-11",
+    "business_name": "Break Bar & Billiards",
+    "slug": "break-bar-billiards-warwick-rhodeisland",
+    "street_address": "1887 Main St",
+    "city": "Warwick",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 40.10720640726103,
+    "longitude": -78.59393400084218,
+    "phone": "(555) 688-7404",
+    "website": "https://www.break-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Warwick.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-12",
+    "business_name": "Nine Ball Club",
+    "slug": "nine-ball-club-providence-rhodeisland",
+    "street_address": "1272 Main St",
+    "city": "Providence",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 39.74085072924794,
+    "longitude": -81.05093108087364,
+    "phone": "(555) 135-3833",
+    "website": "https://www.nine-ball-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Providence.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-13",
+    "business_name": "Action Pub & Pool",
+    "slug": "action-pub-pool-east-providence-rhodeisland",
+    "street_address": "4718 Main St",
+    "city": "East Providence",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 39.42157052398424,
+    "longitude": -101.79329122153784,
+    "phone": "(555) 994-9236",
+    "website": "https://www.action-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in East Providence.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-14",
+    "business_name": "Chalk Pub & Pool",
+    "slug": "chalk-pub-pool-providence-rhodeisland",
+    "street_address": "8887 Main St",
+    "city": "Providence",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 31.03399234216596,
+    "longitude": -103.08334445852245,
+    "phone": "(555) 763-7319",
+    "website": "https://www.chalk-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Providence.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-15",
+    "business_name": "Felt Club",
+    "slug": "felt-club-east-providence-rhodeisland",
+    "street_address": "477 Main St",
+    "city": "East Providence",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 43.92366171196837,
+    "longitude": -83.24195113912867,
+    "phone": "(555) 765-7059",
+    "website": "https://www.felt-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in East Providence.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-16",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-warwick-rhodeisland",
+    "street_address": "3000 Main St",
+    "city": "Warwick",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 32.467162195109125,
+    "longitude": -92.45072270852296,
+    "phone": "(555) 588-8936",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Warwick.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-17",
+    "business_name": "Rack Pub & Pool",
+    "slug": "rack-pub-pool-warwick-rhodeisland",
+    "street_address": "2014 Main St",
+    "city": "Warwick",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 40.54418707150339,
+    "longitude": -87.27765996812207,
+    "phone": "(555) 969-3435",
+    "website": "https://www.rack-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Warwick.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-18",
+    "business_name": "Diamond Club",
+    "slug": "diamond-club-cranston-rhodeisland",
+    "street_address": "3222 Main St",
+    "city": "Cranston",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 38.84925714285273,
+    "longitude": -94.59272776022365,
+    "phone": "(555) 346-7612",
+    "website": "https://www.diamond-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cranston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-rhodeisland-1777480707865-19",
+    "business_name": "Eight Ball Sports Bar",
+    "slug": "eight-ball-sports-bar-providence-rhodeisland",
+    "street_address": "5352 Main St",
+    "city": "Providence",
+    "state": "Rhodeisland",
+    "zip": "00000",
+    "latitude": 31.91565356698476,
+    "longitude": -103.16297161552767,
+    "phone": "(555) 788-7153",
+    "website": "https://www.eight-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Providence.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

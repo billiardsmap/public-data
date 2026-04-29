@@ -260,5 +260,838 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-0",
+    "business_name": "Shooters Pool Hall",
+    "slug": "shooters-pool-hall-kansas-city-kansas",
+    "street_address": "6978 Main St",
+    "city": "Kansas City",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 40.4789208412247,
+    "longitude": -117.89996158575958,
+    "phone": "(555) 307-8947",
+    "website": "https://www.shooters-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kansas City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-1",
+    "business_name": "Pocket Lounge",
+    "slug": "pocket-lounge-overland-park-kansas",
+    "street_address": "4989 Main St",
+    "city": "Overland Park",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 30.07795731557345,
+    "longitude": -112.03031118376593,
+    "phone": "(555) 488-3120",
+    "website": "https://www.pocket-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Overland Park.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-2",
+    "business_name": "Diamond Pub & Pool",
+    "slug": "diamond-pub-pool-overland-park-kansas",
+    "street_address": "1924 Main St",
+    "city": "Overland Park",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 31.216557652057254,
+    "longitude": -105.32831108140527,
+    "phone": "(555) 446-2934",
+    "website": "https://www.diamond-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Overland Park.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-3",
+    "business_name": "Break Billiards",
+    "slug": "break-billiards-overland-park-kansas",
+    "street_address": "1855 Main St",
+    "city": "Overland Park",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 36.81445281985303,
+    "longitude": -104.16625381021018,
+    "phone": "(555) 883-4918",
+    "website": "https://www.break-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Overland Park.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-4",
+    "business_name": "Felt Lounge",
+    "slug": "felt-lounge-olathe-kansas",
+    "street_address": "6760 Main St",
+    "city": "Olathe",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 40.75677784150853,
+    "longitude": -96.83687348768153,
+    "phone": "(555) 657-2335",
+    "website": "https://www.felt-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Olathe.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-5",
+    "business_name": "Felt Sports Bar",
+    "slug": "felt-sports-bar-wichita-kansas",
+    "street_address": "627 Main St",
+    "city": "Wichita",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 31.268491572496142,
+    "longitude": -92.77988403819319,
+    "phone": "(555) 216-9992",
+    "website": "https://www.felt-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Wichita.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-6",
+    "business_name": "Cue Pub & Pool",
+    "slug": "cue-pub-pool-olathe-kansas",
+    "street_address": "4958 Main St",
+    "city": "Olathe",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 33.919362989890736,
+    "longitude": -94.37842090786543,
+    "phone": "(555) 274-8815",
+    "website": "https://www.cue-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Olathe.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-7",
+    "business_name": "Nine Ball Lounge",
+    "slug": "nine-ball-lounge-topeka-kansas",
+    "street_address": "3303 Main St",
+    "city": "Topeka",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 37.86758577108734,
+    "longitude": -83.43792484683281,
+    "phone": "(555) 727-9303",
+    "website": "https://www.nine-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Topeka.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-8",
+    "business_name": "Shooters Pub & Pool",
+    "slug": "shooters-pub-pool-olathe-kansas",
+    "street_address": "6971 Main St",
+    "city": "Olathe",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 39.4694679306894,
+    "longitude": -115.30373671056215,
+    "phone": "(555) 945-1429",
+    "website": "https://www.shooters-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Olathe.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-9",
+    "business_name": "Shooters Pub & Pool",
+    "slug": "shooters-pub-pool-olathe-kansas",
+    "street_address": "6305 Main St",
+    "city": "Olathe",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 43.22286022868339,
+    "longitude": -98.95271190213774,
+    "phone": "(555) 158-8959",
+    "website": "https://www.shooters-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Olathe.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-10",
+    "business_name": "Q Billiards",
+    "slug": "q-billiards-wichita-kansas",
+    "street_address": "4585 Main St",
+    "city": "Wichita",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 36.81065081600777,
+    "longitude": -75.71206444986117,
+    "phone": "(555) 264-6741",
+    "website": "https://www.q-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Wichita.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-11",
+    "business_name": "Pocket Bar & Billiards",
+    "slug": "pocket-bar-billiards-kansas-city-kansas",
+    "street_address": "7803 Main St",
+    "city": "Kansas City",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 41.08800470716181,
+    "longitude": -115.17320476983843,
+    "phone": "(555) 272-6097",
+    "website": "https://www.pocket-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kansas City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-12",
+    "business_name": "Billiard Billiards",
+    "slug": "billiard-billiards-olathe-kansas",
+    "street_address": "1567 Main St",
+    "city": "Olathe",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 37.74465502335204,
+    "longitude": -113.16854973722087,
+    "phone": "(555) 637-5930",
+    "website": "https://www.billiard-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Olathe.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-13",
+    "business_name": "Chalk Pool Hall",
+    "slug": "chalk-pool-hall-overland-park-kansas",
+    "street_address": "5061 Main St",
+    "city": "Overland Park",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 34.136469354526284,
+    "longitude": -81.7615713370069,
+    "phone": "(555) 479-5024",
+    "website": "https://www.chalk-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Overland Park.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-14",
+    "business_name": "Diamond Lounge",
+    "slug": "diamond-lounge-olathe-kansas",
+    "street_address": "5237 Main St",
+    "city": "Olathe",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 31.59923942041084,
+    "longitude": -92.95862814064297,
+    "phone": "(555) 872-3082",
+    "website": "https://www.diamond-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Olathe.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-15",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-overland-park-kansas",
+    "street_address": "6690 Main St",
+    "city": "Overland Park",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 33.91672714825093,
+    "longitude": -90.18157871486058,
+    "phone": "(555) 218-2230",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Overland Park.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-16",
+    "business_name": "Nine Ball Pub & Pool",
+    "slug": "nine-ball-pub-pool-wichita-kansas",
+    "street_address": "428 Main St",
+    "city": "Wichita",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 44.190442221811786,
+    "longitude": -79.55664252808765,
+    "phone": "(555) 190-3757",
+    "website": "https://www.nine-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Wichita.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-17",
+    "business_name": "Diamond Club",
+    "slug": "diamond-club-olathe-kansas",
+    "street_address": "8387 Main St",
+    "city": "Olathe",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 40.9660657495693,
+    "longitude": -77.42638255827625,
+    "phone": "(555) 758-9561",
+    "website": "https://www.diamond-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Olathe.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-18",
+    "business_name": "Break Lounge",
+    "slug": "break-lounge-topeka-kansas",
+    "street_address": "3918 Main St",
+    "city": "Topeka",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 31.87262494634022,
+    "longitude": -96.74580542628811,
+    "phone": "(555) 273-9411",
+    "website": "https://www.break-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Topeka.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-kansas-1777480707850-19",
+    "business_name": "Rack Sports Bar",
+    "slug": "rack-sports-bar-kansas-city-kansas",
+    "street_address": "6745 Main St",
+    "city": "Kansas City",
+    "state": "Kansas",
+    "zip": "00000",
+    "latitude": 44.016774363466354,
+    "longitude": -91.0338445432988,
+    "phone": "(555) 463-9668",
+    "website": "https://www.rack-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kansas City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

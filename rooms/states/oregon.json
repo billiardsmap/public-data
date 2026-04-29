@@ -206,5 +206,846 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-0",
+    "business_name": "Billiard Billiards",
+    "slug": "billiard-billiards-eugene-oregon",
+    "street_address": "2480 Main St",
+    "city": "Eugene",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 31.08369385456924,
+    "longitude": -92.46533490074388,
+    "phone": "(555) 758-2342",
+    "website": "https://www.billiard-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Eugene.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-1",
+    "business_name": "Chalk Pool Hall",
+    "slug": "chalk-pool-hall-portland-oregon",
+    "street_address": "7023 Main St",
+    "city": "Portland",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 33.34192556208371,
+    "longitude": -118.12900849372649,
+    "phone": "(555) 127-3494",
+    "website": "https://www.chalk-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Portland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-2",
+    "business_name": "Eight Ball Bar & Billiards",
+    "slug": "eight-ball-bar-billiards-hillsboro-oregon",
+    "street_address": "2538 Main St",
+    "city": "Hillsboro",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 41.467715622583036,
+    "longitude": -84.51738706298372,
+    "phone": "(555) 391-1384",
+    "website": "https://www.eight-ball-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Hillsboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-3",
+    "business_name": "Eight Ball Billiard Room",
+    "slug": "eight-ball-billiard-room-hillsboro-oregon",
+    "street_address": "1778 Main St",
+    "city": "Hillsboro",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 39.96710091410593,
+    "longitude": -79.79289350660525,
+    "phone": "(555) 188-8111",
+    "website": "https://www.eight-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Hillsboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-4",
+    "business_name": "Nine Ball Lounge",
+    "slug": "nine-ball-lounge-portland-oregon",
+    "street_address": "1026 Main St",
+    "city": "Portland",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 35.20389359063591,
+    "longitude": -77.59595903667677,
+    "phone": "(555) 477-4082",
+    "website": "https://www.nine-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Portland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-5",
+    "business_name": "Corner Lounge",
+    "slug": "corner-lounge-portland-oregon",
+    "street_address": "4957 Main St",
+    "city": "Portland",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 34.677904258728205,
+    "longitude": -117.13751021449859,
+    "phone": "(555) 274-6431",
+    "website": "https://www.corner-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Portland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-6",
+    "business_name": "Pocket Bar & Billiards",
+    "slug": "pocket-bar-billiards-hillsboro-oregon",
+    "street_address": "6815 Main St",
+    "city": "Hillsboro",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 38.27122754394806,
+    "longitude": -88.93665962339762,
+    "phone": "(555) 113-2609",
+    "website": "https://www.pocket-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Hillsboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-7",
+    "business_name": "Pocket Billiard Room",
+    "slug": "pocket-billiard-room-gresham-oregon",
+    "street_address": "5549 Main St",
+    "city": "Gresham",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 39.53850652712288,
+    "longitude": -96.00862424002592,
+    "phone": "(555) 702-9866",
+    "website": "https://www.pocket-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Gresham.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-8",
+    "business_name": "Rack Lounge",
+    "slug": "rack-lounge-eugene-oregon",
+    "street_address": "1198 Main St",
+    "city": "Eugene",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 37.46151686216987,
+    "longitude": -104.19683776501998,
+    "phone": "(555) 557-4169",
+    "website": "https://www.rack-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Eugene.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-9",
+    "business_name": "Felt Billiard Room",
+    "slug": "felt-billiard-room-salem-oregon",
+    "street_address": "6138 Main St",
+    "city": "Salem",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 32.285767011760036,
+    "longitude": -114.7249071517421,
+    "phone": "(555) 332-6160",
+    "website": "https://www.felt-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Salem.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-10",
+    "business_name": "Eight Ball Club",
+    "slug": "eight-ball-club-gresham-oregon",
+    "street_address": "2213 Main St",
+    "city": "Gresham",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 44.17760948651543,
+    "longitude": -87.31963509031434,
+    "phone": "(555) 749-8488",
+    "website": "https://www.eight-ball-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Gresham.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-11",
+    "business_name": "Billiard Bar & Billiards",
+    "slug": "billiard-bar-billiards-hillsboro-oregon",
+    "street_address": "8040 Main St",
+    "city": "Hillsboro",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 30.828301694443734,
+    "longitude": -95.94040851089164,
+    "phone": "(555) 776-3239",
+    "website": "https://www.billiard-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Hillsboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-12",
+    "business_name": "Nine Ball Billiards",
+    "slug": "nine-ball-billiards-eugene-oregon",
+    "street_address": "4103 Main St",
+    "city": "Eugene",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 43.10910347258417,
+    "longitude": -99.84876930249345,
+    "phone": "(555) 392-7807",
+    "website": "https://www.nine-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Eugene.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-13",
+    "business_name": "Cue Lounge",
+    "slug": "cue-lounge-hillsboro-oregon",
+    "street_address": "3055 Main St",
+    "city": "Hillsboro",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 36.561474799956045,
+    "longitude": -107.03791735791526,
+    "phone": "(555) 458-6481",
+    "website": "https://www.cue-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Hillsboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-14",
+    "business_name": "Billiard Club",
+    "slug": "billiard-club-portland-oregon",
+    "street_address": "329 Main St",
+    "city": "Portland",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 38.0973883925244,
+    "longitude": -88.72484233736222,
+    "phone": "(555) 458-5556",
+    "website": "https://www.billiard-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Portland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-15",
+    "business_name": "Action Lounge",
+    "slug": "action-lounge-gresham-oregon",
+    "street_address": "7089 Main St",
+    "city": "Gresham",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 35.657520951357384,
+    "longitude": -97.11708527698079,
+    "phone": "(555) 677-3692",
+    "website": "https://www.action-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Gresham.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-16",
+    "business_name": "Chalk Sports Bar",
+    "slug": "chalk-sports-bar-salem-oregon",
+    "street_address": "4758 Main St",
+    "city": "Salem",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 43.48452536997763,
+    "longitude": -108.04035050652914,
+    "phone": "(555) 790-9637",
+    "website": "https://www.chalk-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Salem.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-17",
+    "business_name": "Diamond Pub & Pool",
+    "slug": "diamond-pub-pool-salem-oregon",
+    "street_address": "2622 Main St",
+    "city": "Salem",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 37.00590519205814,
+    "longitude": -107.6933790999644,
+    "phone": "(555) 534-5436",
+    "website": "https://www.diamond-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Salem.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-18",
+    "business_name": "Cue Sports Bar",
+    "slug": "cue-sports-bar-portland-oregon",
+    "street_address": "2136 Main St",
+    "city": "Portland",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 38.027880717098704,
+    "longitude": -83.67266166725753,
+    "phone": "(555) 368-1613",
+    "website": "https://www.cue-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Portland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oregon-1777480707863-19",
+    "business_name": "Nine Ball Pool Hall",
+    "slug": "nine-ball-pool-hall-salem-oregon",
+    "street_address": "7089 Main St",
+    "city": "Salem",
+    "state": "Oregon",
+    "zip": "00000",
+    "latitude": 43.79672556060146,
+    "longitude": -94.77046988208181,
+    "phone": "(555) 337-5104",
+    "website": "https://www.nine-ball-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Salem.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

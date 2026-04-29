@@ -261,5 +261,846 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-0",
+    "business_name": "Q Billiard Room",
+    "slug": "q-billiard-room-henderson-nevada",
+    "street_address": "1985 Main St",
+    "city": "Henderson",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 34.33014092973717,
+    "longitude": -116.2147866943322,
+    "phone": "(555) 698-8389",
+    "website": "https://www.q-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Henderson.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-1",
+    "business_name": "Chalk Sports Bar",
+    "slug": "chalk-sports-bar-las-vegas-nevada",
+    "street_address": "2469 Main St",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 34.10750744515862,
+    "longitude": -106.93199900231632,
+    "phone": "(555) 859-3094",
+    "website": "https://www.chalk-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Las Vegas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-2",
+    "business_name": "Felt Billiard Room",
+    "slug": "felt-billiard-room-sparks-nevada",
+    "street_address": "4270 Main St",
+    "city": "Sparks",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 44.629165483724194,
+    "longitude": -95.45842667345732,
+    "phone": "(555) 734-3779",
+    "website": "https://www.felt-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sparks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-3",
+    "business_name": "Cue Billiard Room",
+    "slug": "cue-billiard-room-north-las-vegas-nevada",
+    "street_address": "1743 Main St",
+    "city": "North Las Vegas",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 35.46240320405462,
+    "longitude": -88.89125505097755,
+    "phone": "(555) 631-3591",
+    "website": "https://www.cue-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in North Las Vegas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-4",
+    "business_name": "Pocket Billiards",
+    "slug": "pocket-billiards-sparks-nevada",
+    "street_address": "5658 Main St",
+    "city": "Sparks",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 43.31860283386048,
+    "longitude": -113.62285611025787,
+    "phone": "(555) 220-6464",
+    "website": "https://www.pocket-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sparks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-5",
+    "business_name": "Action Pub & Pool",
+    "slug": "action-pub-pool-reno-nevada",
+    "street_address": "8634 Main St",
+    "city": "Reno",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 32.021363774565025,
+    "longitude": -107.9058380038006,
+    "phone": "(555) 914-2597",
+    "website": "https://www.action-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Reno.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-6",
+    "business_name": "Pocket Lounge",
+    "slug": "pocket-lounge-sparks-nevada",
+    "street_address": "8130 Main St",
+    "city": "Sparks",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 38.85132596326048,
+    "longitude": -77.2652063586878,
+    "phone": "(555) 483-1738",
+    "website": "https://www.pocket-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sparks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-7",
+    "business_name": "Eight Ball Billiard Room",
+    "slug": "eight-ball-billiard-room-north-las-vegas-nevada",
+    "street_address": "2596 Main St",
+    "city": "North Las Vegas",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 43.48254659917856,
+    "longitude": -77.50484702113297,
+    "phone": "(555) 206-9393",
+    "website": "https://www.eight-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in North Las Vegas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-8",
+    "business_name": "Q Club",
+    "slug": "q-club-north-las-vegas-nevada",
+    "street_address": "934 Main St",
+    "city": "North Las Vegas",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 36.65235977345333,
+    "longitude": -83.308230962805,
+    "phone": "(555) 277-9000",
+    "website": "https://www.q-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in North Las Vegas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-9",
+    "business_name": "Shooters Pub & Pool",
+    "slug": "shooters-pub-pool-north-las-vegas-nevada",
+    "street_address": "3551 Main St",
+    "city": "North Las Vegas",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 39.169725356591,
+    "longitude": -79.56132583846443,
+    "phone": "(555) 735-1756",
+    "website": "https://www.shooters-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in North Las Vegas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-10",
+    "business_name": "Break Lounge",
+    "slug": "break-lounge-reno-nevada",
+    "street_address": "8437 Main St",
+    "city": "Reno",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 31.70433072653576,
+    "longitude": -87.5886678798066,
+    "phone": "(555) 360-1462",
+    "website": "https://www.break-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Reno.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-11",
+    "business_name": "Felt Lounge",
+    "slug": "felt-lounge-sparks-nevada",
+    "street_address": "5754 Main St",
+    "city": "Sparks",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 36.1252478744486,
+    "longitude": -82.6737617224422,
+    "phone": "(555) 731-5447",
+    "website": "https://www.felt-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sparks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-12",
+    "business_name": "Shooters Billiard Room",
+    "slug": "shooters-billiard-room-henderson-nevada",
+    "street_address": "9005 Main St",
+    "city": "Henderson",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 32.47633578464769,
+    "longitude": -80.49450262530466,
+    "phone": "(555) 697-1879",
+    "website": "https://www.shooters-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Henderson.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-13",
+    "business_name": "Eight Ball Club",
+    "slug": "eight-ball-club-henderson-nevada",
+    "street_address": "1989 Main St",
+    "city": "Henderson",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 42.39497028324149,
+    "longitude": -92.13461310738782,
+    "phone": "(555) 843-4254",
+    "website": "https://www.eight-ball-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Henderson.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-14",
+    "business_name": "Felt Billiard Room",
+    "slug": "felt-billiard-room-las-vegas-nevada",
+    "street_address": "5572 Main St",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 42.69574181058184,
+    "longitude": -93.8809603258741,
+    "phone": "(555) 823-2578",
+    "website": "https://www.felt-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Las Vegas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-15",
+    "business_name": "Chalk Pool Hall",
+    "slug": "chalk-pool-hall-las-vegas-nevada",
+    "street_address": "6432 Main St",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 36.588065849041485,
+    "longitude": -94.72815265630645,
+    "phone": "(555) 960-5061",
+    "website": "https://www.chalk-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Las Vegas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-16",
+    "business_name": "Pocket Sports Bar",
+    "slug": "pocket-sports-bar-reno-nevada",
+    "street_address": "4604 Main St",
+    "city": "Reno",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 40.35756863852828,
+    "longitude": -98.3496853435984,
+    "phone": "(555) 144-4120",
+    "website": "https://www.pocket-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Reno.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-17",
+    "business_name": "Corner Billiards",
+    "slug": "corner-billiards-sparks-nevada",
+    "street_address": "4951 Main St",
+    "city": "Sparks",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 40.396588742053986,
+    "longitude": -110.53876193481823,
+    "phone": "(555) 379-8839",
+    "website": "https://www.corner-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sparks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-18",
+    "business_name": "Nine Ball Billiards",
+    "slug": "nine-ball-billiards-north-las-vegas-nevada",
+    "street_address": "3079 Main St",
+    "city": "North Las Vegas",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 42.17679467474235,
+    "longitude": -84.52280195040424,
+    "phone": "(555) 648-8159",
+    "website": "https://www.nine-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in North Las Vegas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-nevada-1777480707856-19",
+    "business_name": "Q Bar & Billiards",
+    "slug": "q-bar-billiards-north-las-vegas-nevada",
+    "street_address": "3608 Main St",
+    "city": "North Las Vegas",
+    "state": "Nevada",
+    "zip": "00000",
+    "latitude": 44.80857615920066,
+    "longitude": -85.46747443106571,
+    "phone": "(555) 292-7840",
+    "website": "https://www.q-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in North Las Vegas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

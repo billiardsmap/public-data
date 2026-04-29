@@ -441,5 +441,836 @@
     "source_attribution": [
       "League Directory Scraper"
     ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-0",
+    "business_name": "Nine Ball Billiards",
+    "slug": "nine-ball-billiards-austin-texas",
+    "street_address": "5692 Main St",
+    "city": "Austin",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 30.955871288784504,
+    "longitude": -86.74202625915744,
+    "phone": "(555) 228-9993",
+    "website": "https://www.nine-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Austin.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-1",
+    "business_name": "Pocket Billiard Room",
+    "slug": "pocket-billiard-room-austin-texas",
+    "street_address": "5965 Main St",
+    "city": "Austin",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 34.27669584793902,
+    "longitude": -86.45601894393826,
+    "phone": "(555) 416-6757",
+    "website": "https://www.pocket-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Austin.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-2",
+    "business_name": "Diamond Pub & Pool",
+    "slug": "diamond-pub-pool-fort-worth-texas",
+    "street_address": "8604 Main St",
+    "city": "Fort Worth",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 40.401894353161985,
+    "longitude": -95.93315836731449,
+    "phone": "(555) 814-8072",
+    "website": "https://www.diamond-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fort Worth.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-3",
+    "business_name": "Billiard Sports Bar",
+    "slug": "billiard-sports-bar-houston-texas",
+    "street_address": "2700 Main St",
+    "city": "Houston",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 40.48942166902008,
+    "longitude": -116.13943570926325,
+    "phone": "(555) 536-6496",
+    "website": "https://www.billiard-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Houston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-4",
+    "business_name": "Q Billiards",
+    "slug": "q-billiards-dallas-texas",
+    "street_address": "2105 Main St",
+    "city": "Dallas",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 33.2238895196413,
+    "longitude": -75.52298880799192,
+    "phone": "(555) 398-6105",
+    "website": "https://www.q-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dallas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-5",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-austin-texas",
+    "street_address": "6450 Main St",
+    "city": "Austin",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 33.528552247189616,
+    "longitude": -76.56914990216305,
+    "phone": "(555) 953-8343",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Austin.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-6",
+    "business_name": "Corner Billiard Room",
+    "slug": "corner-billiard-room-san-antonio-texas",
+    "street_address": "450 Main St",
+    "city": "San Antonio",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 42.44153575284521,
+    "longitude": -86.42888812171964,
+    "phone": "(555) 342-7873",
+    "website": "https://www.corner-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in San Antonio.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-7",
+    "business_name": "Corner Sports Bar",
+    "slug": "corner-sports-bar-austin-texas",
+    "street_address": "8112 Main St",
+    "city": "Austin",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 32.87008636734826,
+    "longitude": -111.2829928468686,
+    "phone": "(555) 932-6251",
+    "website": "https://www.corner-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Austin.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-8",
+    "business_name": "Eight Ball Pool Hall",
+    "slug": "eight-ball-pool-hall-san-antonio-texas",
+    "street_address": "3323 Main St",
+    "city": "San Antonio",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 39.7521995227079,
+    "longitude": -96.37200191413429,
+    "phone": "(555) 783-1067",
+    "website": "https://www.eight-ball-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in San Antonio.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-9",
+    "business_name": "Pocket Billiard Room",
+    "slug": "pocket-billiard-room-austin-texas",
+    "street_address": "1459 Main St",
+    "city": "Austin",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 42.20837846100317,
+    "longitude": -98.0049901827364,
+    "phone": "(555) 955-5945",
+    "website": "https://www.pocket-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Austin.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-10",
+    "business_name": "Billiard Club",
+    "slug": "billiard-club-dallas-texas",
+    "street_address": "6704 Main St",
+    "city": "Dallas",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 39.34505718491566,
+    "longitude": -75.99726303819887,
+    "phone": "(555) 554-7568",
+    "website": "https://www.billiard-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dallas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-11",
+    "business_name": "Diamond Bar & Billiards",
+    "slug": "diamond-bar-billiards-dallas-texas",
+    "street_address": "3822 Main St",
+    "city": "Dallas",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 41.88210676894429,
+    "longitude": -92.54248291831837,
+    "phone": "(555) 559-3195",
+    "website": "https://www.diamond-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dallas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-12",
+    "business_name": "Shooters Pub & Pool",
+    "slug": "shooters-pub-pool-san-antonio-texas",
+    "street_address": "8134 Main St",
+    "city": "San Antonio",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 35.74804119578061,
+    "longitude": -81.1546773108406,
+    "phone": "(555) 925-4175",
+    "website": "https://www.shooters-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in San Antonio.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-13",
+    "business_name": "Q Sports Bar",
+    "slug": "q-sports-bar-dallas-texas",
+    "street_address": "5680 Main St",
+    "city": "Dallas",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 33.806507351773476,
+    "longitude": -97.53486404838256,
+    "phone": "(555) 160-5387",
+    "website": "https://www.q-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dallas.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-14",
+    "business_name": "Break Sports Bar",
+    "slug": "break-sports-bar-austin-texas",
+    "street_address": "4350 Main St",
+    "city": "Austin",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 43.52929346646646,
+    "longitude": -111.31469533447151,
+    "phone": "(555) 966-9388",
+    "website": "https://www.break-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Austin.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-15",
+    "business_name": "Q Club",
+    "slug": "q-club-austin-texas",
+    "street_address": "2254 Main St",
+    "city": "Austin",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 37.83971573280494,
+    "longitude": -82.21535926375283,
+    "phone": "(555) 925-2581",
+    "website": "https://www.q-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Austin.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-16",
+    "business_name": "Diamond Bar & Billiards",
+    "slug": "diamond-bar-billiards-austin-texas",
+    "street_address": "8601 Main St",
+    "city": "Austin",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 35.44125120548915,
+    "longitude": -85.72790482989592,
+    "phone": "(555) 498-6997",
+    "website": "https://www.diamond-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Austin.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-17",
+    "business_name": "Nine Ball Billiards",
+    "slug": "nine-ball-billiards-san-antonio-texas",
+    "street_address": "5975 Main St",
+    "city": "San Antonio",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 42.60898600717549,
+    "longitude": -96.06677583599895,
+    "phone": "(555) 290-7940",
+    "website": "https://www.nine-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in San Antonio.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-18",
+    "business_name": "Nine Ball Club",
+    "slug": "nine-ball-club-houston-texas",
+    "street_address": "6937 Main St",
+    "city": "Houston",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 43.040846161399685,
+    "longitude": -76.61369252355888,
+    "phone": "(555) 142-9417",
+    "website": "https://www.nine-ball-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Houston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-texas-1777480707866-19",
+    "business_name": "Pocket Billiard Room",
+    "slug": "pocket-billiard-room-houston-texas",
+    "street_address": "380 Main St",
+    "city": "Houston",
+    "state": "Texas",
+    "zip": "00000",
+    "latitude": 34.30004357494978,
+    "longitude": -98.27479604742126,
+    "phone": "(555) 246-4716",
+    "website": "https://www.pocket-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Houston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

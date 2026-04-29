@@ -208,5 +208,843 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-0",
+    "business_name": "Shooters Pub & Pool",
+    "slug": "shooters-pub-pool-springfield-massachusetts",
+    "street_address": "6492 Main St",
+    "city": "Springfield",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 44.31911783788873,
+    "longitude": -94.67202248507677,
+    "phone": "(555) 487-9588",
+    "website": "https://www.shooters-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Springfield.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-1",
+    "business_name": "Billiard Lounge",
+    "slug": "billiard-lounge-lowell-massachusetts",
+    "street_address": "8688 Main St",
+    "city": "Lowell",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 32.77252107411377,
+    "longitude": -100.7921445652545,
+    "phone": "(555) 177-9763",
+    "website": "https://www.billiard-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lowell.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-2",
+    "business_name": "Pocket Club",
+    "slug": "pocket-club-boston-massachusetts",
+    "street_address": "3854 Main St",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 32.45977433454042,
+    "longitude": -117.52508327744162,
+    "phone": "(555) 977-6648",
+    "website": "https://www.pocket-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Boston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-3",
+    "business_name": "Rack Pub & Pool",
+    "slug": "rack-pub-pool-springfield-massachusetts",
+    "street_address": "1936 Main St",
+    "city": "Springfield",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 31.8266334964636,
+    "longitude": -112.49344960625187,
+    "phone": "(555) 958-6112",
+    "website": "https://www.rack-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Springfield.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-4",
+    "business_name": "Nine Ball Pub & Pool",
+    "slug": "nine-ball-pub-pool-cambridge-massachusetts",
+    "street_address": "9092 Main St",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 33.215050418551606,
+    "longitude": -105.71071254385137,
+    "phone": "(555) 718-3625",
+    "website": "https://www.nine-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cambridge.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-5",
+    "business_name": "Billiard Lounge",
+    "slug": "billiard-lounge-cambridge-massachusetts",
+    "street_address": "1539 Main St",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 42.15246282485882,
+    "longitude": -91.19926630703979,
+    "phone": "(555) 349-4805",
+    "website": "https://www.billiard-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cambridge.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-6",
+    "business_name": "Q Billiards",
+    "slug": "q-billiards-springfield-massachusetts",
+    "street_address": "5019 Main St",
+    "city": "Springfield",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 39.35812193497976,
+    "longitude": -83.55389026055101,
+    "phone": "(555) 493-5485",
+    "website": "https://www.q-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Springfield.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-7",
+    "business_name": "Cue Billiard Room",
+    "slug": "cue-billiard-room-lowell-massachusetts",
+    "street_address": "6555 Main St",
+    "city": "Lowell",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 39.18886287899594,
+    "longitude": -107.20439063906385,
+    "phone": "(555) 502-3147",
+    "website": "https://www.cue-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lowell.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-8",
+    "business_name": "Rack Billiards",
+    "slug": "rack-billiards-springfield-massachusetts",
+    "street_address": "3724 Main St",
+    "city": "Springfield",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 44.32735879461279,
+    "longitude": -79.8224691317822,
+    "phone": "(555) 382-2666",
+    "website": "https://www.rack-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Springfield.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-9",
+    "business_name": "Shooters Pub & Pool",
+    "slug": "shooters-pub-pool-springfield-massachusetts",
+    "street_address": "8265 Main St",
+    "city": "Springfield",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 35.62550945121676,
+    "longitude": -117.18612028641353,
+    "phone": "(555) 296-9489",
+    "website": "https://www.shooters-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Springfield.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-10",
+    "business_name": "Cue Club",
+    "slug": "cue-club-cambridge-massachusetts",
+    "street_address": "6946 Main St",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 44.50486881374363,
+    "longitude": -115.32519840868548,
+    "phone": "(555) 729-8910",
+    "website": "https://www.cue-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cambridge.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-11",
+    "business_name": "Felt Billiards",
+    "slug": "felt-billiards-boston-massachusetts",
+    "street_address": "400 Main St",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 31.476171717266485,
+    "longitude": -80.38184734408381,
+    "phone": "(555) 300-9494",
+    "website": "https://www.felt-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Boston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-12",
+    "business_name": "Action Billiards",
+    "slug": "action-billiards-lowell-massachusetts",
+    "street_address": "8157 Main St",
+    "city": "Lowell",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 34.05749859935599,
+    "longitude": -101.31840776712305,
+    "phone": "(555) 136-7655",
+    "website": "https://www.action-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lowell.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-13",
+    "business_name": "Pocket Billiards",
+    "slug": "pocket-billiards-boston-massachusetts",
+    "street_address": "2119 Main St",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 34.582950389867726,
+    "longitude": -114.50761928217811,
+    "phone": "(555) 442-7474",
+    "website": "https://www.pocket-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Boston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-14",
+    "business_name": "Pocket Lounge",
+    "slug": "pocket-lounge-worcester-massachusetts",
+    "street_address": "2677 Main St",
+    "city": "Worcester",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 34.56511208423593,
+    "longitude": -106.35014929692902,
+    "phone": "(555) 475-9379",
+    "website": "https://www.pocket-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Worcester.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-15",
+    "business_name": "Eight Ball Pool Hall",
+    "slug": "eight-ball-pool-hall-lowell-massachusetts",
+    "street_address": "6155 Main St",
+    "city": "Lowell",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 42.26561692467417,
+    "longitude": -115.4190878402794,
+    "phone": "(555) 358-7955",
+    "website": "https://www.eight-ball-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lowell.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-16",
+    "business_name": "Felt Billiard Room",
+    "slug": "felt-billiard-room-boston-massachusetts",
+    "street_address": "6311 Main St",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 39.467421834826595,
+    "longitude": -82.30825910817998,
+    "phone": "(555) 894-9749",
+    "website": "https://www.felt-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Boston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-17",
+    "business_name": "Rack Bar & Billiards",
+    "slug": "rack-bar-billiards-cambridge-massachusetts",
+    "street_address": "8851 Main St",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 40.096486652031025,
+    "longitude": -103.47345363169659,
+    "phone": "(555) 283-9537",
+    "website": "https://www.rack-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cambridge.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-18",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-lowell-massachusetts",
+    "street_address": "1222 Main St",
+    "city": "Lowell",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 32.66988710403629,
+    "longitude": -79.43808673005495,
+    "phone": "(555) 153-2910",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lowell.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-massachusetts-1777480707853-19",
+    "business_name": "Corner Sports Bar",
+    "slug": "corner-sports-bar-worcester-massachusetts",
+    "street_address": "5989 Main St",
+    "city": "Worcester",
+    "state": "Massachusetts",
+    "zip": "00000",
+    "latitude": 33.32536814935002,
+    "longitude": -94.01622740064863,
+    "phone": "(555) 391-4475",
+    "website": "https://www.corner-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Worcester.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

@@ -298,5 +298,838 @@
     "source_attribution": [
       "League Directory Scraper"
     ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-0",
+    "business_name": "Felt Pool Hall",
+    "slug": "felt-pool-hall-syracuse-newyork",
+    "street_address": "6864 Main St",
+    "city": "Syracuse",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 39.83002709910209,
+    "longitude": -99.2543848105129,
+    "phone": "(555) 448-8081",
+    "website": "https://www.felt-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Syracuse.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-1",
+    "business_name": "Felt Sports Bar",
+    "slug": "felt-sports-bar-syracuse-newyork",
+    "street_address": "3177 Main St",
+    "city": "Syracuse",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 35.104947656054975,
+    "longitude": -116.01156772908703,
+    "phone": "(555) 305-5647",
+    "website": "https://www.felt-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Syracuse.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-2",
+    "business_name": "Cue Sports Bar",
+    "slug": "cue-sports-bar-new-york-newyork",
+    "street_address": "1962 Main St",
+    "city": "New York",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 32.13628721484849,
+    "longitude": -95.97150412368718,
+    "phone": "(555) 753-2035",
+    "website": "https://www.cue-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in New York.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-3",
+    "business_name": "Action Lounge",
+    "slug": "action-lounge-new-york-newyork",
+    "street_address": "3900 Main St",
+    "city": "New York",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 38.73594565427867,
+    "longitude": -106.00996081655218,
+    "phone": "(555) 732-2403",
+    "website": "https://www.action-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in New York.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-4",
+    "business_name": "Q Club",
+    "slug": "q-club-syracuse-newyork",
+    "street_address": "3710 Main St",
+    "city": "Syracuse",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 37.72804114820736,
+    "longitude": -96.47699584813701,
+    "phone": "(555) 492-5509",
+    "website": "https://www.q-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Syracuse.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-5",
+    "business_name": "Corner Pool Hall",
+    "slug": "corner-pool-hall-syracuse-newyork",
+    "street_address": "6720 Main St",
+    "city": "Syracuse",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 40.93032340612679,
+    "longitude": -117.89269795567044,
+    "phone": "(555) 702-2665",
+    "website": "https://www.corner-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Syracuse.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-6",
+    "business_name": "Nine Ball Billiard Room",
+    "slug": "nine-ball-billiard-room-buffalo-newyork",
+    "street_address": "7201 Main St",
+    "city": "Buffalo",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 38.02313236913328,
+    "longitude": -92.18066098989244,
+    "phone": "(555) 229-9127",
+    "website": "https://www.nine-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Buffalo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-7",
+    "business_name": "Break Pool Hall",
+    "slug": "break-pool-hall-syracuse-newyork",
+    "street_address": "8460 Main St",
+    "city": "Syracuse",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 32.098678831984444,
+    "longitude": -90.72644220160254,
+    "phone": "(555) 416-8176",
+    "website": "https://www.break-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Syracuse.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-8",
+    "business_name": "Eight Ball Lounge",
+    "slug": "eight-ball-lounge-yonkers-newyork",
+    "street_address": "1365 Main St",
+    "city": "Yonkers",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 30.455632806216176,
+    "longitude": -101.50987606141561,
+    "phone": "(555) 341-9006",
+    "website": "https://www.eight-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Yonkers.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-9",
+    "business_name": "Q Pub & Pool",
+    "slug": "q-pub-pool-syracuse-newyork",
+    "street_address": "8128 Main St",
+    "city": "Syracuse",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 32.716782472646244,
+    "longitude": -114.44660736142427,
+    "phone": "(555) 195-6020",
+    "website": "https://www.q-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Syracuse.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-10",
+    "business_name": "Shooters Billiards",
+    "slug": "shooters-billiards-rochester-newyork",
+    "street_address": "6440 Main St",
+    "city": "Rochester",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 37.53604237641636,
+    "longitude": -75.72721457310192,
+    "phone": "(555) 868-3973",
+    "website": "https://www.shooters-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rochester.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-11",
+    "business_name": "Break Lounge",
+    "slug": "break-lounge-yonkers-newyork",
+    "street_address": "8430 Main St",
+    "city": "Yonkers",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 34.47392391895574,
+    "longitude": -79.2203046441399,
+    "phone": "(555) 638-4055",
+    "website": "https://www.break-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Yonkers.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-12",
+    "business_name": "Break Billiards",
+    "slug": "break-billiards-syracuse-newyork",
+    "street_address": "7933 Main St",
+    "city": "Syracuse",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 38.96103460887426,
+    "longitude": -108.9359917244773,
+    "phone": "(555) 523-9268",
+    "website": "https://www.break-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Syracuse.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-13",
+    "business_name": "Corner Sports Bar",
+    "slug": "corner-sports-bar-yonkers-newyork",
+    "street_address": "3671 Main St",
+    "city": "Yonkers",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 43.876271528321,
+    "longitude": -104.27458228982749,
+    "phone": "(555) 588-2546",
+    "website": "https://www.corner-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Yonkers.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-14",
+    "business_name": "Break Bar & Billiards",
+    "slug": "break-bar-billiards-new-york-newyork",
+    "street_address": "3370 Main St",
+    "city": "New York",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 43.640674022106126,
+    "longitude": -88.82096594221127,
+    "phone": "(555) 443-7291",
+    "website": "https://www.break-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in New York.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-15",
+    "business_name": "Nine Ball Club",
+    "slug": "nine-ball-club-buffalo-newyork",
+    "street_address": "6964 Main St",
+    "city": "Buffalo",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 36.853010649087295,
+    "longitude": -77.77965217105633,
+    "phone": "(555) 694-5246",
+    "website": "https://www.nine-ball-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Buffalo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-16",
+    "business_name": "Felt Bar & Billiards",
+    "slug": "felt-bar-billiards-rochester-newyork",
+    "street_address": "8093 Main St",
+    "city": "Rochester",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 38.07890635996861,
+    "longitude": -75.02006263307194,
+    "phone": "(555) 427-1526",
+    "website": "https://www.felt-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rochester.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-17",
+    "business_name": "Break Pool Hall",
+    "slug": "break-pool-hall-rochester-newyork",
+    "street_address": "6978 Main St",
+    "city": "Rochester",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 30.39340404499328,
+    "longitude": -117.10512282707482,
+    "phone": "(555) 545-3044",
+    "website": "https://www.break-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rochester.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-18",
+    "business_name": "Nine Ball Pub & Pool",
+    "slug": "nine-ball-pub-pool-syracuse-newyork",
+    "street_address": "1817 Main St",
+    "city": "Syracuse",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 40.033370043866164,
+    "longitude": -96.11584911067098,
+    "phone": "(555) 275-1553",
+    "website": "https://www.nine-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Syracuse.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newyork-1777480707859-19",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-syracuse-newyork",
+    "street_address": "4724 Main St",
+    "city": "Syracuse",
+    "state": "Newyork",
+    "zip": "00000",
+    "latitude": 40.55328986750432,
+    "longitude": -113.87639894080067,
+    "phone": "(555) 757-9350",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Syracuse.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

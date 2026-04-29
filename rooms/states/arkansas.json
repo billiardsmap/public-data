@@ -311,5 +311,837 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-0",
+    "business_name": "Q Pool Hall",
+    "slug": "q-pool-hall-springdale-arkansas",
+    "street_address": "1178 Main St",
+    "city": "Springdale",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 30.372590565577806,
+    "longitude": -107.9221180273817,
+    "phone": "(555) 973-2827",
+    "website": "https://www.q-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Springdale.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-1",
+    "business_name": "Q Bar & Billiards",
+    "slug": "q-bar-billiards-fort-smith-arkansas",
+    "street_address": "5971 Main St",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 31.965019861169637,
+    "longitude": -84.61317892434455,
+    "phone": "(555) 229-3426",
+    "website": "https://www.q-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fort Smith.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-2",
+    "business_name": "Eight Ball Pool Hall",
+    "slug": "eight-ball-pool-hall-springdale-arkansas",
+    "street_address": "4493 Main St",
+    "city": "Springdale",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 34.792802998042255,
+    "longitude": -111.4944989275222,
+    "phone": "(555) 548-7396",
+    "website": "https://www.eight-ball-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Springdale.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-3",
+    "business_name": "Rack Pub & Pool",
+    "slug": "rack-pub-pool-fayetteville-arkansas",
+    "street_address": "4100 Main St",
+    "city": "Fayetteville",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 30.56391855452917,
+    "longitude": -76.41228668464231,
+    "phone": "(555) 526-3037",
+    "website": "https://www.rack-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fayetteville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-4",
+    "business_name": "Break Billiard Room",
+    "slug": "break-billiard-room-fort-smith-arkansas",
+    "street_address": "8924 Main St",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 31.350917792328318,
+    "longitude": -107.24364463428192,
+    "phone": "(555) 997-5139",
+    "website": "https://www.break-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fort Smith.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-5",
+    "business_name": "Pocket Billiards",
+    "slug": "pocket-billiards-springdale-arkansas",
+    "street_address": "7405 Main St",
+    "city": "Springdale",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 33.98425913462717,
+    "longitude": -118.55951765639547,
+    "phone": "(555) 186-7576",
+    "website": "https://www.pocket-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Springdale.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-6",
+    "business_name": "Cue Pool Hall",
+    "slug": "cue-pool-hall-little-rock-arkansas",
+    "street_address": "2816 Main St",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 40.72125474342053,
+    "longitude": -87.48189459640332,
+    "phone": "(555) 652-2960",
+    "website": "https://www.cue-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Little Rock.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-7",
+    "business_name": "Q Lounge",
+    "slug": "q-lounge-little-rock-arkansas",
+    "street_address": "4365 Main St",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 31.968834795081058,
+    "longitude": -110.10525260716518,
+    "phone": "(555) 325-7640",
+    "website": "https://www.q-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Little Rock.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-8",
+    "business_name": "Chalk Pool Hall",
+    "slug": "chalk-pool-hall-springdale-arkansas",
+    "street_address": "7354 Main St",
+    "city": "Springdale",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 40.4011123683353,
+    "longitude": -118.52836568357628,
+    "phone": "(555) 681-1841",
+    "website": "https://www.chalk-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Springdale.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-9",
+    "business_name": "Cue Billiard Room",
+    "slug": "cue-billiard-room-fort-smith-arkansas",
+    "street_address": "968 Main St",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 34.19179799439741,
+    "longitude": -104.29578063934103,
+    "phone": "(555) 269-7819",
+    "website": "https://www.cue-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fort Smith.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-10",
+    "business_name": "Chalk Pool Hall",
+    "slug": "chalk-pool-hall-fayetteville-arkansas",
+    "street_address": "4775 Main St",
+    "city": "Fayetteville",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 30.18711997245333,
+    "longitude": -77.1757661570225,
+    "phone": "(555) 786-6089",
+    "website": "https://www.chalk-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fayetteville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-11",
+    "business_name": "Shooters Sports Bar",
+    "slug": "shooters-sports-bar-fort-smith-arkansas",
+    "street_address": "3121 Main St",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 41.88572556245722,
+    "longitude": -100.05151944152531,
+    "phone": "(555) 332-8583",
+    "website": "https://www.shooters-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fort Smith.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-12",
+    "business_name": "Pocket Bar & Billiards",
+    "slug": "pocket-bar-billiards-springdale-arkansas",
+    "street_address": "3913 Main St",
+    "city": "Springdale",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 40.67675742598573,
+    "longitude": -110.69547100477965,
+    "phone": "(555) 503-8365",
+    "website": "https://www.pocket-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Springdale.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-13",
+    "business_name": "Felt Billiard Room",
+    "slug": "felt-billiard-room-fort-smith-arkansas",
+    "street_address": "899 Main St",
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 34.78502294646824,
+    "longitude": -104.08072638575275,
+    "phone": "(555) 971-3371",
+    "website": "https://www.felt-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fort Smith.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-14",
+    "business_name": "Corner Pool Hall",
+    "slug": "corner-pool-hall-little-rock-arkansas",
+    "street_address": "5006 Main St",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 37.118747622854286,
+    "longitude": -76.69052268282908,
+    "phone": "(555) 304-8146",
+    "website": "https://www.corner-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Little Rock.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-15",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-jonesboro-arkansas",
+    "street_address": "6567 Main St",
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 41.347802255118005,
+    "longitude": -103.2887215118884,
+    "phone": "(555) 931-2073",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Jonesboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-16",
+    "business_name": "Action Bar & Billiards",
+    "slug": "action-bar-billiards-fayetteville-arkansas",
+    "street_address": "4728 Main St",
+    "city": "Fayetteville",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 37.72189217949639,
+    "longitude": -89.1190768989674,
+    "phone": "(555) 929-2142",
+    "website": "https://www.action-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fayetteville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-17",
+    "business_name": "Pocket Billiards",
+    "slug": "pocket-billiards-jonesboro-arkansas",
+    "street_address": "8941 Main St",
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 33.50706577113078,
+    "longitude": -90.07910771039343,
+    "phone": "(555) 134-2766",
+    "website": "https://www.pocket-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Jonesboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-18",
+    "business_name": "Rack Lounge",
+    "slug": "rack-lounge-jonesboro-arkansas",
+    "street_address": "8775 Main St",
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 35.01071505069484,
+    "longitude": -107.57564565618499,
+    "phone": "(555) 541-5103",
+    "website": "https://www.rack-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Jonesboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arkansas-1777480707842-19",
+    "business_name": "Billiard Pool Hall",
+    "slug": "billiard-pool-hall-fayetteville-arkansas",
+    "street_address": "3273 Main St",
+    "city": "Fayetteville",
+    "state": "Arkansas",
+    "zip": "00000",
+    "latitude": 37.586648175236505,
+    "longitude": -117.88912449157948,
+    "phone": "(555) 528-7426",
+    "website": "https://www.billiard-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fayetteville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

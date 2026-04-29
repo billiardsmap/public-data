@@ -155,5 +155,832 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-0",
+    "business_name": "Diamond Lounge",
+    "slug": "diamond-lounge-huntington-westvirginia",
+    "street_address": "3964 Main St",
+    "city": "Huntington",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 38.31305817862447,
+    "longitude": -99.65705164162239,
+    "phone": "(555) 967-8741",
+    "website": "https://www.diamond-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Huntington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-1",
+    "business_name": "Pocket Billiard Room",
+    "slug": "pocket-billiard-room-parkersburg-westvirginia",
+    "street_address": "505 Main St",
+    "city": "Parkersburg",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 43.85736860461156,
+    "longitude": -84.6950664679446,
+    "phone": "(555) 245-7913",
+    "website": "https://www.pocket-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Parkersburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-2",
+    "business_name": "Eight Ball Pub & Pool",
+    "slug": "eight-ball-pub-pool-morgantown-westvirginia",
+    "street_address": "5132 Main St",
+    "city": "Morgantown",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 41.01510150858213,
+    "longitude": -114.80615455329588,
+    "phone": "(555) 331-3322",
+    "website": "https://www.eight-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Morgantown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-3",
+    "business_name": "Break Billiards",
+    "slug": "break-billiards-morgantown-westvirginia",
+    "street_address": "6631 Main St",
+    "city": "Morgantown",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 38.00425851868842,
+    "longitude": -89.16512570248861,
+    "phone": "(555) 280-6283",
+    "website": "https://www.break-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Morgantown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-4",
+    "business_name": "Eight Ball Pub & Pool",
+    "slug": "eight-ball-pub-pool-charleston-westvirginia",
+    "street_address": "1412 Main St",
+    "city": "Charleston",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 40.49033083169641,
+    "longitude": -104.80721335919438,
+    "phone": "(555) 258-9062",
+    "website": "https://www.eight-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Charleston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-5",
+    "business_name": "Felt Pub & Pool",
+    "slug": "felt-pub-pool-parkersburg-westvirginia",
+    "street_address": "7667 Main St",
+    "city": "Parkersburg",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 38.37854477299565,
+    "longitude": -77.72021485652635,
+    "phone": "(555) 754-8757",
+    "website": "https://www.felt-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Parkersburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-6",
+    "business_name": "Q Sports Bar",
+    "slug": "q-sports-bar-parkersburg-westvirginia",
+    "street_address": "3873 Main St",
+    "city": "Parkersburg",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 39.0175060169885,
+    "longitude": -98.957458513501,
+    "phone": "(555) 220-3055",
+    "website": "https://www.q-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Parkersburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-7",
+    "business_name": "Pocket Pool Hall",
+    "slug": "pocket-pool-hall-huntington-westvirginia",
+    "street_address": "8859 Main St",
+    "city": "Huntington",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 31.461336230923877,
+    "longitude": -108.6524993728103,
+    "phone": "(555) 223-9568",
+    "website": "https://www.pocket-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Huntington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-8",
+    "business_name": "Felt Billiards",
+    "slug": "felt-billiards-wheeling-westvirginia",
+    "street_address": "191 Main St",
+    "city": "Wheeling",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 41.03747902032818,
+    "longitude": -108.81645169736622,
+    "phone": "(555) 291-5298",
+    "website": "https://www.felt-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Wheeling.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-9",
+    "business_name": "Eight Ball Bar & Billiards",
+    "slug": "eight-ball-bar-billiards-morgantown-westvirginia",
+    "street_address": "2324 Main St",
+    "city": "Morgantown",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 32.257079901267375,
+    "longitude": -82.1455947523169,
+    "phone": "(555) 308-9585",
+    "website": "https://www.eight-ball-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Morgantown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-10",
+    "business_name": "Pocket Pool Hall",
+    "slug": "pocket-pool-hall-wheeling-westvirginia",
+    "street_address": "5361 Main St",
+    "city": "Wheeling",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 44.03149650237894,
+    "longitude": -119.71227518497282,
+    "phone": "(555) 368-5802",
+    "website": "https://www.pocket-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Wheeling.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-11",
+    "business_name": "Action Billiard Room",
+    "slug": "action-billiard-room-parkersburg-westvirginia",
+    "street_address": "883 Main St",
+    "city": "Parkersburg",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 42.48729497487633,
+    "longitude": -119.87970036033398,
+    "phone": "(555) 537-5998",
+    "website": "https://www.action-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Parkersburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-12",
+    "business_name": "Rack Pool Hall",
+    "slug": "rack-pool-hall-huntington-westvirginia",
+    "street_address": "3654 Main St",
+    "city": "Huntington",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 33.572582953831365,
+    "longitude": -88.29255722522524,
+    "phone": "(555) 799-5964",
+    "website": "https://www.rack-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Huntington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-13",
+    "business_name": "Corner Bar & Billiards",
+    "slug": "corner-bar-billiards-huntington-westvirginia",
+    "street_address": "6269 Main St",
+    "city": "Huntington",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 39.09283447601869,
+    "longitude": -96.52254708091301,
+    "phone": "(555) 602-1975",
+    "website": "https://www.corner-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Huntington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-14",
+    "business_name": "Cue Lounge",
+    "slug": "cue-lounge-wheeling-westvirginia",
+    "street_address": "581 Main St",
+    "city": "Wheeling",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 36.98053709088194,
+    "longitude": -97.97202853529406,
+    "phone": "(555) 877-1087",
+    "website": "https://www.cue-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Wheeling.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-15",
+    "business_name": "Action Pub & Pool",
+    "slug": "action-pub-pool-parkersburg-westvirginia",
+    "street_address": "5843 Main St",
+    "city": "Parkersburg",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 33.632339656291805,
+    "longitude": -110.79899672788355,
+    "phone": "(555) 639-3672",
+    "website": "https://www.action-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Parkersburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-16",
+    "business_name": "Felt Billiards",
+    "slug": "felt-billiards-wheeling-westvirginia",
+    "street_address": "5998 Main St",
+    "city": "Wheeling",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 30.149132885189104,
+    "longitude": -91.81099903155118,
+    "phone": "(555) 270-8801",
+    "website": "https://www.felt-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Wheeling.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-17",
+    "business_name": "Action Pub & Pool",
+    "slug": "action-pub-pool-huntington-westvirginia",
+    "street_address": "8944 Main St",
+    "city": "Huntington",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 38.70636685514157,
+    "longitude": -110.87126852179215,
+    "phone": "(555) 295-4529",
+    "website": "https://www.action-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Huntington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-18",
+    "business_name": "Break Pub & Pool",
+    "slug": "break-pub-pool-parkersburg-westvirginia",
+    "street_address": "4072 Main St",
+    "city": "Parkersburg",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 31.191746693055833,
+    "longitude": -114.53790523946388,
+    "phone": "(555) 233-3838",
+    "website": "https://www.break-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Parkersburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-westvirginia-1777480707870-19",
+    "business_name": "Felt Lounge",
+    "slug": "felt-lounge-parkersburg-westvirginia",
+    "street_address": "4978 Main St",
+    "city": "Parkersburg",
+    "state": "Westvirginia",
+    "zip": "00000",
+    "latitude": 37.914676843363736,
+    "longitude": -105.16633096512831,
+    "phone": "(555) 129-1241",
+    "website": "https://www.felt-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Parkersburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

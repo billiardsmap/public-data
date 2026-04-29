@@ -207,5 +207,840 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-0",
+    "business_name": "Diamond Lounge",
+    "slug": "diamond-lounge-seattle-washington",
+    "street_address": "3452 Main St",
+    "city": "Seattle",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 42.7207325948758,
+    "longitude": -102.21471667592417,
+    "phone": "(555) 992-1226",
+    "website": "https://www.diamond-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Seattle.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-1",
+    "business_name": "Rack Billiard Room",
+    "slug": "rack-billiard-room-spokane-washington",
+    "street_address": "283 Main St",
+    "city": "Spokane",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 42.2785561099421,
+    "longitude": -87.15691517137586,
+    "phone": "(555) 177-1749",
+    "website": "https://www.rack-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Spokane.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-2",
+    "business_name": "Action Pub & Pool",
+    "slug": "action-pub-pool-tacoma-washington",
+    "street_address": "2702 Main St",
+    "city": "Tacoma",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 34.433498325663635,
+    "longitude": -107.06012648415896,
+    "phone": "(555) 655-9520",
+    "website": "https://www.action-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tacoma.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-3",
+    "business_name": "Break Pub & Pool",
+    "slug": "break-pub-pool-bellevue-washington",
+    "street_address": "3063 Main St",
+    "city": "Bellevue",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 39.662483881741906,
+    "longitude": -83.93625057836037,
+    "phone": "(555) 191-8576",
+    "website": "https://www.break-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bellevue.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-4",
+    "business_name": "Shooters Club",
+    "slug": "shooters-club-seattle-washington",
+    "street_address": "2867 Main St",
+    "city": "Seattle",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 37.786896123026345,
+    "longitude": -88.97094550307679,
+    "phone": "(555) 833-5014",
+    "website": "https://www.shooters-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Seattle.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-5",
+    "business_name": "Cue Sports Bar",
+    "slug": "cue-sports-bar-seattle-washington",
+    "street_address": "4169 Main St",
+    "city": "Seattle",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 40.60964837734269,
+    "longitude": -80.7132908099839,
+    "phone": "(555) 970-8822",
+    "website": "https://www.cue-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Seattle.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-6",
+    "business_name": "Action Sports Bar",
+    "slug": "action-sports-bar-vancouver-washington",
+    "street_address": "5878 Main St",
+    "city": "Vancouver",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 41.68179071854769,
+    "longitude": -78.30472416506183,
+    "phone": "(555) 327-9444",
+    "website": "https://www.action-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Vancouver.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-7",
+    "business_name": "Q Billiards",
+    "slug": "q-billiards-tacoma-washington",
+    "street_address": "2410 Main St",
+    "city": "Tacoma",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 41.44504533501278,
+    "longitude": -103.8630336378891,
+    "phone": "(555) 861-9371",
+    "website": "https://www.q-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tacoma.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-8",
+    "business_name": "Nine Ball Billiard Room",
+    "slug": "nine-ball-billiard-room-vancouver-washington",
+    "street_address": "2905 Main St",
+    "city": "Vancouver",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 39.683287435040526,
+    "longitude": -111.52456698450675,
+    "phone": "(555) 938-7000",
+    "website": "https://www.nine-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Vancouver.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-9",
+    "business_name": "Cue Sports Bar",
+    "slug": "cue-sports-bar-tacoma-washington",
+    "street_address": "2035 Main St",
+    "city": "Tacoma",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 30.75882257640379,
+    "longitude": -98.69069417742406,
+    "phone": "(555) 105-8269",
+    "website": "https://www.cue-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tacoma.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-10",
+    "business_name": "Felt Lounge",
+    "slug": "felt-lounge-spokane-washington",
+    "street_address": "406 Main St",
+    "city": "Spokane",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 34.1346380993728,
+    "longitude": -107.1246102873303,
+    "phone": "(555) 846-7659",
+    "website": "https://www.felt-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Spokane.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-11",
+    "business_name": "Cue Lounge",
+    "slug": "cue-lounge-seattle-washington",
+    "street_address": "2728 Main St",
+    "city": "Seattle",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 33.014032302223775,
+    "longitude": -88.33009578486713,
+    "phone": "(555) 961-5608",
+    "website": "https://www.cue-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Seattle.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-12",
+    "business_name": "Felt Billiards",
+    "slug": "felt-billiards-vancouver-washington",
+    "street_address": "5302 Main St",
+    "city": "Vancouver",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 36.073548329427695,
+    "longitude": -118.3344958510195,
+    "phone": "(555) 919-2464",
+    "website": "https://www.felt-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Vancouver.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-13",
+    "business_name": "Chalk Billiard Room",
+    "slug": "chalk-billiard-room-seattle-washington",
+    "street_address": "7642 Main St",
+    "city": "Seattle",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 43.10496258994525,
+    "longitude": -92.50318948058057,
+    "phone": "(555) 165-8316",
+    "website": "https://www.chalk-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Seattle.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-14",
+    "business_name": "Corner Pub & Pool",
+    "slug": "corner-pub-pool-tacoma-washington",
+    "street_address": "8025 Main St",
+    "city": "Tacoma",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 32.92707520819482,
+    "longitude": -99.69747417539969,
+    "phone": "(555) 680-3641",
+    "website": "https://www.corner-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tacoma.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-15",
+    "business_name": "Billiard Billiard Room",
+    "slug": "billiard-billiard-room-seattle-washington",
+    "street_address": "2260 Main St",
+    "city": "Seattle",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 32.77217031744897,
+    "longitude": -92.03935985496837,
+    "phone": "(555) 183-2534",
+    "website": "https://www.billiard-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Seattle.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-16",
+    "business_name": "Chalk Lounge",
+    "slug": "chalk-lounge-vancouver-washington",
+    "street_address": "1457 Main St",
+    "city": "Vancouver",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 31.785363643793275,
+    "longitude": -88.36039850698704,
+    "phone": "(555) 843-1571",
+    "website": "https://www.chalk-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Vancouver.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-17",
+    "business_name": "Chalk Billiard Room",
+    "slug": "chalk-billiard-room-vancouver-washington",
+    "street_address": "836 Main St",
+    "city": "Vancouver",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 37.884330342665336,
+    "longitude": -100.39615616440686,
+    "phone": "(555) 320-9380",
+    "website": "https://www.chalk-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Vancouver.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-18",
+    "business_name": "Action Bar & Billiards",
+    "slug": "action-bar-billiards-spokane-washington",
+    "street_address": "1306 Main St",
+    "city": "Spokane",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 32.04248902250033,
+    "longitude": -85.30384225994682,
+    "phone": "(555) 262-9277",
+    "website": "https://www.action-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Spokane.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-washington-1777480707869-19",
+    "business_name": "Cue Billiards",
+    "slug": "cue-billiards-vancouver-washington",
+    "street_address": "247 Main St",
+    "city": "Vancouver",
+    "state": "Washington",
+    "zip": "00000",
+    "latitude": 35.3042755636411,
+    "longitude": -103.55381525738213,
+    "phone": "(555) 503-3888",
+    "website": "https://www.cue-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Vancouver.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

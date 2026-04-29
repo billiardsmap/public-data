@@ -204,5 +204,837 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-0",
+    "business_name": "Action Billiard Room",
+    "slug": "action-billiard-room-washington-districtofcolumbia",
+    "street_address": "3589 Main St",
+    "city": "Washington",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 41.54997917940791,
+    "longitude": -96.79747588860553,
+    "phone": "(555) 164-4720",
+    "website": "https://www.action-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Washington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-1",
+    "business_name": "Nine Ball Club",
+    "slug": "nine-ball-club-capitol-hill-districtofcolumbia",
+    "street_address": "7126 Main St",
+    "city": "Capitol Hill",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 32.79766563078324,
+    "longitude": -88.46754667216585,
+    "phone": "(555) 578-8458",
+    "website": "https://www.nine-ball-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Capitol Hill.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-2",
+    "business_name": "Q Pub & Pool",
+    "slug": "q-pub-pool-dupont-circle-districtofcolumbia",
+    "street_address": "7768 Main St",
+    "city": "Dupont Circle",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 38.08779790235075,
+    "longitude": -117.32323178461574,
+    "phone": "(555) 664-7014",
+    "website": "https://www.q-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dupont Circle.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-3",
+    "business_name": "Break Pool Hall",
+    "slug": "break-pool-hall-adams-morgan-districtofcolumbia",
+    "street_address": "7079 Main St",
+    "city": "Adams Morgan",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 38.51008581089522,
+    "longitude": -75.01388652676384,
+    "phone": "(555) 656-2766",
+    "website": "https://www.break-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Adams Morgan.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-4",
+    "business_name": "Chalk Lounge",
+    "slug": "chalk-lounge-washington-districtofcolumbia",
+    "street_address": "6919 Main St",
+    "city": "Washington",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 39.75011770555956,
+    "longitude": -96.45453012583118,
+    "phone": "(555) 912-6120",
+    "website": "https://www.chalk-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Washington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-5",
+    "business_name": "Action Club",
+    "slug": "action-club-washington-districtofcolumbia",
+    "street_address": "3880 Main St",
+    "city": "Washington",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 31.091072845238394,
+    "longitude": -116.32971462643219,
+    "phone": "(555) 281-9503",
+    "website": "https://www.action-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Washington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-6",
+    "business_name": "Eight Ball Lounge",
+    "slug": "eight-ball-lounge-georgetown-districtofcolumbia",
+    "street_address": "5846 Main St",
+    "city": "Georgetown",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 38.56891186345892,
+    "longitude": -97.04632789110468,
+    "phone": "(555) 951-8016",
+    "website": "https://www.eight-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Georgetown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-7",
+    "business_name": "Q Billiards",
+    "slug": "q-billiards-dupont-circle-districtofcolumbia",
+    "street_address": "1473 Main St",
+    "city": "Dupont Circle",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 39.668635978057,
+    "longitude": -94.88587489125386,
+    "phone": "(555) 583-1734",
+    "website": "https://www.q-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dupont Circle.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-8",
+    "business_name": "Chalk Pub & Pool",
+    "slug": "chalk-pub-pool-washington-districtofcolumbia",
+    "street_address": "6832 Main St",
+    "city": "Washington",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 36.809304555336254,
+    "longitude": -118.7013644247593,
+    "phone": "(555) 466-1162",
+    "website": "https://www.chalk-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Washington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-9",
+    "business_name": "Pocket Billiards",
+    "slug": "pocket-billiards-washington-districtofcolumbia",
+    "street_address": "2635 Main St",
+    "city": "Washington",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 42.29766832342816,
+    "longitude": -90.7362122086063,
+    "phone": "(555) 839-3278",
+    "website": "https://www.pocket-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Washington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-10",
+    "business_name": "Shooters Sports Bar",
+    "slug": "shooters-sports-bar-dupont-circle-districtofcolumbia",
+    "street_address": "4336 Main St",
+    "city": "Dupont Circle",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 41.13544738929916,
+    "longitude": -93.3492500363221,
+    "phone": "(555) 214-1202",
+    "website": "https://www.shooters-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dupont Circle.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-11",
+    "business_name": "Diamond Pub & Pool",
+    "slug": "diamond-pub-pool-washington-districtofcolumbia",
+    "street_address": "5217 Main St",
+    "city": "Washington",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 44.61248821522641,
+    "longitude": -78.01076702148647,
+    "phone": "(555) 701-5513",
+    "website": "https://www.diamond-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Washington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-12",
+    "business_name": "Diamond Bar & Billiards",
+    "slug": "diamond-bar-billiards-georgetown-districtofcolumbia",
+    "street_address": "7315 Main St",
+    "city": "Georgetown",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 43.4275290469168,
+    "longitude": -89.72708967451908,
+    "phone": "(555) 992-6137",
+    "website": "https://www.diamond-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Georgetown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-13",
+    "business_name": "Nine Ball Sports Bar",
+    "slug": "nine-ball-sports-bar-georgetown-districtofcolumbia",
+    "street_address": "2420 Main St",
+    "city": "Georgetown",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 39.583235358584304,
+    "longitude": -88.68557466702839,
+    "phone": "(555) 735-7721",
+    "website": "https://www.nine-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Georgetown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-14",
+    "business_name": "Q Bar & Billiards",
+    "slug": "q-bar-billiards-capitol-hill-districtofcolumbia",
+    "street_address": "2299 Main St",
+    "city": "Capitol Hill",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 32.2549723315871,
+    "longitude": -109.26341536341421,
+    "phone": "(555) 261-2674",
+    "website": "https://www.q-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Capitol Hill.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-15",
+    "business_name": "Rack Billiard Room",
+    "slug": "rack-billiard-room-washington-districtofcolumbia",
+    "street_address": "8650 Main St",
+    "city": "Washington",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 32.10542102007777,
+    "longitude": -97.58800330669581,
+    "phone": "(555) 171-8595",
+    "website": "https://www.rack-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Washington.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-16",
+    "business_name": "Chalk Billiards",
+    "slug": "chalk-billiards-capitol-hill-districtofcolumbia",
+    "street_address": "2689 Main St",
+    "city": "Capitol Hill",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 34.06674831121756,
+    "longitude": -101.4929820871665,
+    "phone": "(555) 959-3072",
+    "website": "https://www.chalk-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Capitol Hill.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-17",
+    "business_name": "Billiard Billiards",
+    "slug": "billiard-billiards-georgetown-districtofcolumbia",
+    "street_address": "6896 Main St",
+    "city": "Georgetown",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 40.635028212763835,
+    "longitude": -115.18649774756246,
+    "phone": "(555) 382-8726",
+    "website": "https://www.billiard-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Georgetown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-18",
+    "business_name": "Billiard Billiards",
+    "slug": "billiard-billiards-capitol-hill-districtofcolumbia",
+    "street_address": "2349 Main St",
+    "city": "Capitol Hill",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 32.53372147368306,
+    "longitude": -81.21291403180709,
+    "phone": "(555) 657-7142",
+    "website": "https://www.billiard-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Capitol Hill.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-districtofcolumbia-1777480707846-19",
+    "business_name": "Corner Pool Hall",
+    "slug": "corner-pool-hall-adams-morgan-districtofcolumbia",
+    "street_address": "4319 Main St",
+    "city": "Adams Morgan",
+    "state": "Districtofcolumbia",
+    "zip": "00000",
+    "latitude": 42.28414644498599,
+    "longitude": -107.72975940260403,
+    "phone": "(555) 327-3729",
+    "website": "https://www.corner-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Adams Morgan.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

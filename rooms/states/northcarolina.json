@@ -207,5 +207,841 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-0",
+    "business_name": "Chalk Billiards",
+    "slug": "chalk-billiards-greensboro-northcarolina",
+    "street_address": "3825 Main St",
+    "city": "Greensboro",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 44.439230206768755,
+    "longitude": -83.36605037937136,
+    "phone": "(555) 667-2415",
+    "website": "https://www.chalk-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Greensboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-1",
+    "business_name": "Action Pub & Pool",
+    "slug": "action-pub-pool-charlotte-northcarolina",
+    "street_address": "6085 Main St",
+    "city": "Charlotte",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 37.624245512065414,
+    "longitude": -103.53782654922178,
+    "phone": "(555) 936-8311",
+    "website": "https://www.action-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Charlotte.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-2",
+    "business_name": "Diamond Billiards",
+    "slug": "diamond-billiards-raleigh-northcarolina",
+    "street_address": "8060 Main St",
+    "city": "Raleigh",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 34.71228248993027,
+    "longitude": -83.75716246011342,
+    "phone": "(555) 198-4669",
+    "website": "https://www.diamond-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Raleigh.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-3",
+    "business_name": "Nine Ball Bar & Billiards",
+    "slug": "nine-ball-bar-billiards-winston-salem-northcarolina",
+    "street_address": "5306 Main St",
+    "city": "Winston-Salem",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 30.307886508295255,
+    "longitude": -96.37368711710579,
+    "phone": "(555) 510-3839",
+    "website": "https://www.nine-ball-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Winston-Salem.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-4",
+    "business_name": "Nine Ball Lounge",
+    "slug": "nine-ball-lounge-winston-salem-northcarolina",
+    "street_address": "9029 Main St",
+    "city": "Winston-Salem",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 31.24309733139006,
+    "longitude": -114.50904303709184,
+    "phone": "(555) 212-7221",
+    "website": "https://www.nine-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Winston-Salem.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-5",
+    "business_name": "Q Club",
+    "slug": "q-club-charlotte-northcarolina",
+    "street_address": "5386 Main St",
+    "city": "Charlotte",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 30.186743053404633,
+    "longitude": -112.19426246207308,
+    "phone": "(555) 559-2994",
+    "website": "https://www.q-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Charlotte.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-6",
+    "business_name": "Break Lounge",
+    "slug": "break-lounge-winston-salem-northcarolina",
+    "street_address": "2144 Main St",
+    "city": "Winston-Salem",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 38.452379572322435,
+    "longitude": -114.94535538948561,
+    "phone": "(555) 340-5330",
+    "website": "https://www.break-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Winston-Salem.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-7",
+    "business_name": "Q Billiards",
+    "slug": "q-billiards-raleigh-northcarolina",
+    "street_address": "1602 Main St",
+    "city": "Raleigh",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 35.13753679210845,
+    "longitude": -104.07719984721199,
+    "phone": "(555) 956-1529",
+    "website": "https://www.q-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Raleigh.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-8",
+    "business_name": "Shooters Billiards",
+    "slug": "shooters-billiards-winston-salem-northcarolina",
+    "street_address": "1866 Main St",
+    "city": "Winston-Salem",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 39.35489468631597,
+    "longitude": -114.18473124706114,
+    "phone": "(555) 261-8233",
+    "website": "https://www.shooters-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Winston-Salem.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-9",
+    "business_name": "Chalk Bar & Billiards",
+    "slug": "chalk-bar-billiards-raleigh-northcarolina",
+    "street_address": "8852 Main St",
+    "city": "Raleigh",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 41.20371218435656,
+    "longitude": -116.35999674841113,
+    "phone": "(555) 441-7024",
+    "website": "https://www.chalk-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Raleigh.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-10",
+    "business_name": "Nine Ball Lounge",
+    "slug": "nine-ball-lounge-durham-northcarolina",
+    "street_address": "6862 Main St",
+    "city": "Durham",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 37.35133597987176,
+    "longitude": -101.36245306735427,
+    "phone": "(555) 254-3677",
+    "website": "https://www.nine-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Durham.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-11",
+    "business_name": "Pocket Pub & Pool",
+    "slug": "pocket-pub-pool-greensboro-northcarolina",
+    "street_address": "5470 Main St",
+    "city": "Greensboro",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 35.97622348215176,
+    "longitude": -103.74994713822964,
+    "phone": "(555) 205-6432",
+    "website": "https://www.pocket-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Greensboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-12",
+    "business_name": "Q Billiards",
+    "slug": "q-billiards-greensboro-northcarolina",
+    "street_address": "5149 Main St",
+    "city": "Greensboro",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 34.83779281851791,
+    "longitude": -109.14050578254648,
+    "phone": "(555) 342-8853",
+    "website": "https://www.q-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Greensboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-13",
+    "business_name": "Nine Ball Billiards",
+    "slug": "nine-ball-billiards-durham-northcarolina",
+    "street_address": "5097 Main St",
+    "city": "Durham",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 30.179570114524868,
+    "longitude": -118.38712852904075,
+    "phone": "(555) 786-8014",
+    "website": "https://www.nine-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Durham.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-14",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-greensboro-northcarolina",
+    "street_address": "2974 Main St",
+    "city": "Greensboro",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 36.14289046692413,
+    "longitude": -91.76227594698324,
+    "phone": "(555) 129-9301",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Greensboro.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-15",
+    "business_name": "Break Billiard Room",
+    "slug": "break-billiard-room-charlotte-northcarolina",
+    "street_address": "5347 Main St",
+    "city": "Charlotte",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 44.092615898800275,
+    "longitude": -105.8100036925429,
+    "phone": "(555) 434-9275",
+    "website": "https://www.break-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Charlotte.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-16",
+    "business_name": "Break Billiard Room",
+    "slug": "break-billiard-room-durham-northcarolina",
+    "street_address": "7808 Main St",
+    "city": "Durham",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 31.55580098301337,
+    "longitude": -79.91215319276726,
+    "phone": "(555) 768-6556",
+    "website": "https://www.break-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Durham.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-17",
+    "business_name": "Eight Ball Bar & Billiards",
+    "slug": "eight-ball-bar-billiards-charlotte-northcarolina",
+    "street_address": "2556 Main St",
+    "city": "Charlotte",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 30.914162346849864,
+    "longitude": -90.10640099180688,
+    "phone": "(555) 743-4579",
+    "website": "https://www.eight-ball-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Charlotte.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-18",
+    "business_name": "Diamond Lounge",
+    "slug": "diamond-lounge-durham-northcarolina",
+    "street_address": "1116 Main St",
+    "city": "Durham",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 35.693594639110536,
+    "longitude": -93.84997785899925,
+    "phone": "(555) 853-1581",
+    "website": "https://www.diamond-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Durham.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northcarolina-1777480707859-19",
+    "business_name": "Nine Ball Lounge",
+    "slug": "nine-ball-lounge-raleigh-northcarolina",
+    "street_address": "3832 Main St",
+    "city": "Raleigh",
+    "state": "Northcarolina",
+    "zip": "00000",
+    "latitude": 39.653175045886485,
+    "longitude": -94.19825051630885,
+    "phone": "(555) 967-1485",
+    "website": "https://www.nine-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Raleigh.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

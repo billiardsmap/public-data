@@ -310,5 +310,849 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-0",
+    "business_name": "Corner Lounge",
+    "slug": "corner-lounge-atlanta-georgia",
+    "street_address": "3646 Main St",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 35.92740042946479,
+    "longitude": -107.27996902911742,
+    "phone": "(555) 414-1651",
+    "website": "https://www.corner-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Atlanta.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-1",
+    "business_name": "Cue Billiards",
+    "slug": "cue-billiards-augusta-georgia",
+    "street_address": "820 Main St",
+    "city": "Augusta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 33.589415296192975,
+    "longitude": -92.29652170779158,
+    "phone": "(555) 244-1519",
+    "website": "https://www.cue-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Augusta.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-2",
+    "business_name": "Nine Ball Pub & Pool",
+    "slug": "nine-ball-pub-pool-atlanta-georgia",
+    "street_address": "4355 Main St",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 41.91668347079534,
+    "longitude": -105.95375543852428,
+    "phone": "(555) 750-8735",
+    "website": "https://www.nine-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Atlanta.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-3",
+    "business_name": "Felt Club",
+    "slug": "felt-club-savannah-georgia",
+    "street_address": "5233 Main St",
+    "city": "Savannah",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 41.98135810122082,
+    "longitude": -112.66280572815938,
+    "phone": "(555) 674-2421",
+    "website": "https://www.felt-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Savannah.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-4",
+    "business_name": "Nine Ball Club",
+    "slug": "nine-ball-club-augusta-georgia",
+    "street_address": "5959 Main St",
+    "city": "Augusta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 33.26813776438942,
+    "longitude": -101.95930864683291,
+    "phone": "(555) 850-1273",
+    "website": "https://www.nine-ball-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Augusta.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-5",
+    "business_name": "Nine Ball Sports Bar",
+    "slug": "nine-ball-sports-bar-columbus-georgia",
+    "street_address": "541 Main St",
+    "city": "Columbus",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 44.95234772540864,
+    "longitude": -105.98782222689769,
+    "phone": "(555) 302-7541",
+    "website": "https://www.nine-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbus.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-6",
+    "business_name": "Felt Billiard Room",
+    "slug": "felt-billiard-room-atlanta-georgia",
+    "street_address": "9062 Main St",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 38.870106619901314,
+    "longitude": -105.70758974410454,
+    "phone": "(555) 454-4284",
+    "website": "https://www.felt-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Atlanta.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-7",
+    "business_name": "Billiard Sports Bar",
+    "slug": "billiard-sports-bar-savannah-georgia",
+    "street_address": "2542 Main St",
+    "city": "Savannah",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 35.4185345248634,
+    "longitude": -87.09080228511078,
+    "phone": "(555) 866-8373",
+    "website": "https://www.billiard-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Savannah.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-8",
+    "business_name": "Shooters Club",
+    "slug": "shooters-club-augusta-georgia",
+    "street_address": "5006 Main St",
+    "city": "Augusta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 41.761652353855965,
+    "longitude": -100.87842235756102,
+    "phone": "(555) 411-8362",
+    "website": "https://www.shooters-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Augusta.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-9",
+    "business_name": "Nine Ball Lounge",
+    "slug": "nine-ball-lounge-atlanta-georgia",
+    "street_address": "5231 Main St",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 39.11976436087367,
+    "longitude": -116.62509383212549,
+    "phone": "(555) 958-5235",
+    "website": "https://www.nine-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Atlanta.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-10",
+    "business_name": "Diamond Pub & Pool",
+    "slug": "diamond-pub-pool-columbus-georgia",
+    "street_address": "4821 Main St",
+    "city": "Columbus",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 33.77675429246713,
+    "longitude": -84.65395228054398,
+    "phone": "(555) 896-6801",
+    "website": "https://www.diamond-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbus.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-11",
+    "business_name": "Pocket Lounge",
+    "slug": "pocket-lounge-atlanta-georgia",
+    "street_address": "8384 Main St",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 39.413987366154046,
+    "longitude": -91.83769816337497,
+    "phone": "(555) 767-3256",
+    "website": "https://www.pocket-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Atlanta.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-12",
+    "business_name": "Felt Billiard Room",
+    "slug": "felt-billiard-room-atlanta-georgia",
+    "street_address": "1142 Main St",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 32.698820081154736,
+    "longitude": -118.64938141373541,
+    "phone": "(555) 620-8836",
+    "website": "https://www.felt-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Atlanta.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-13",
+    "business_name": "Action Sports Bar",
+    "slug": "action-sports-bar-augusta-georgia",
+    "street_address": "8927 Main St",
+    "city": "Augusta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 37.8188083144931,
+    "longitude": -96.05843101307144,
+    "phone": "(555) 249-4931",
+    "website": "https://www.action-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Augusta.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-14",
+    "business_name": "Nine Ball Pool Hall",
+    "slug": "nine-ball-pool-hall-atlanta-georgia",
+    "street_address": "7500 Main St",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 35.31093399664513,
+    "longitude": -111.60228102873407,
+    "phone": "(555) 142-1011",
+    "website": "https://www.nine-ball-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Atlanta.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-15",
+    "business_name": "Q Lounge",
+    "slug": "q-lounge-savannah-georgia",
+    "street_address": "2879 Main St",
+    "city": "Savannah",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 33.56206148852314,
+    "longitude": -93.00986312780783,
+    "phone": "(555) 319-5472",
+    "website": "https://www.q-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Savannah.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-16",
+    "business_name": "Rack Club",
+    "slug": "rack-club-atlanta-georgia",
+    "street_address": "2511 Main St",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 41.78013891348626,
+    "longitude": -75.44202310211463,
+    "phone": "(555) 483-2607",
+    "website": "https://www.rack-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Atlanta.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-17",
+    "business_name": "Rack Pool Hall",
+    "slug": "rack-pool-hall-columbus-georgia",
+    "street_address": "2856 Main St",
+    "city": "Columbus",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 38.56481190466513,
+    "longitude": -116.05132879304396,
+    "phone": "(555) 127-3857",
+    "website": "https://www.rack-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbus.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-18",
+    "business_name": "Billiard Billiard Room",
+    "slug": "billiard-billiard-room-savannah-georgia",
+    "street_address": "1335 Main St",
+    "city": "Savannah",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 41.155646281699184,
+    "longitude": -100.46631683020578,
+    "phone": "(555) 633-4823",
+    "website": "https://www.billiard-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Savannah.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-georgia-1777480707847-19",
+    "business_name": "Nine Ball Lounge",
+    "slug": "nine-ball-lounge-columbus-georgia",
+    "street_address": "8666 Main St",
+    "city": "Columbus",
+    "state": "Georgia",
+    "zip": "00000",
+    "latitude": 35.871132022780714,
+    "longitude": -81.78989813932941,
+    "phone": "(555) 338-9036",
+    "website": "https://www.nine-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbus.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

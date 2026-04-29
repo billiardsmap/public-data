@@ -154,5 +154,844 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-0",
+    "business_name": "Cue Sports Bar",
+    "slug": "cue-sports-bar-bozeman-montana",
+    "street_address": "2118 Main St",
+    "city": "Bozeman",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 35.38327057063151,
+    "longitude": -118.50354388132764,
+    "phone": "(555) 909-5644",
+    "website": "https://www.cue-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bozeman.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-1",
+    "business_name": "Corner Billiard Room",
+    "slug": "corner-billiard-room-missoula-montana",
+    "street_address": "1620 Main St",
+    "city": "Missoula",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 31.30407894854785,
+    "longitude": -86.98554747360679,
+    "phone": "(555) 455-3268",
+    "website": "https://www.corner-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Missoula.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-2",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-bozeman-montana",
+    "street_address": "6650 Main St",
+    "city": "Bozeman",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 38.253414175338726,
+    "longitude": -95.00421930291311,
+    "phone": "(555) 116-6050",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bozeman.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-3",
+    "business_name": "Billiard Billiard Room",
+    "slug": "billiard-billiard-room-bozeman-montana",
+    "street_address": "2271 Main St",
+    "city": "Bozeman",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 37.4874102155674,
+    "longitude": -93.88395675691602,
+    "phone": "(555) 591-4707",
+    "website": "https://www.billiard-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bozeman.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-4",
+    "business_name": "Nine Ball Billiard Room",
+    "slug": "nine-ball-billiard-room-billings-montana",
+    "street_address": "7818 Main St",
+    "city": "Billings",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 42.56753057859807,
+    "longitude": -116.85052078389731,
+    "phone": "(555) 730-2022",
+    "website": "https://www.nine-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Billings.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-5",
+    "business_name": "Chalk Pub & Pool",
+    "slug": "chalk-pub-pool-butte-montana",
+    "street_address": "4854 Main St",
+    "city": "Butte",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 37.19194307215071,
+    "longitude": -110.8753394601801,
+    "phone": "(555) 607-7557",
+    "website": "https://www.chalk-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Butte.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-6",
+    "business_name": "Shooters Pub & Pool",
+    "slug": "shooters-pub-pool-butte-montana",
+    "street_address": "2889 Main St",
+    "city": "Butte",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 43.825936528049574,
+    "longitude": -77.42773001044824,
+    "phone": "(555) 462-7277",
+    "website": "https://www.shooters-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Butte.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-7",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-great-falls-montana",
+    "street_address": "1970 Main St",
+    "city": "Great Falls",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 36.30495198972698,
+    "longitude": -116.70246506355251,
+    "phone": "(555) 719-8044",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Great Falls.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-8",
+    "business_name": "Break Pub & Pool",
+    "slug": "break-pub-pool-bozeman-montana",
+    "street_address": "270 Main St",
+    "city": "Bozeman",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 33.59135472925923,
+    "longitude": -117.82393734941029,
+    "phone": "(555) 718-3564",
+    "website": "https://www.break-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bozeman.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-9",
+    "business_name": "Corner Sports Bar",
+    "slug": "corner-sports-bar-billings-montana",
+    "street_address": "5172 Main St",
+    "city": "Billings",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 37.81521333309422,
+    "longitude": -99.57637812386635,
+    "phone": "(555) 299-4386",
+    "website": "https://www.corner-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Billings.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-10",
+    "business_name": "Billiard Club",
+    "slug": "billiard-club-butte-montana",
+    "street_address": "7835 Main St",
+    "city": "Butte",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 30.022658139381175,
+    "longitude": -109.89547555189424,
+    "phone": "(555) 808-5053",
+    "website": "https://www.billiard-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Butte.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-11",
+    "business_name": "Rack Sports Bar",
+    "slug": "rack-sports-bar-billings-montana",
+    "street_address": "5170 Main St",
+    "city": "Billings",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 37.940717965723486,
+    "longitude": -85.40106138567012,
+    "phone": "(555) 180-7084",
+    "website": "https://www.rack-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Billings.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-12",
+    "business_name": "Shooters Sports Bar",
+    "slug": "shooters-sports-bar-missoula-montana",
+    "street_address": "7770 Main St",
+    "city": "Missoula",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 34.84446538283072,
+    "longitude": -113.02270247452401,
+    "phone": "(555) 159-5471",
+    "website": "https://www.shooters-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Missoula.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-13",
+    "business_name": "Pocket Pub & Pool",
+    "slug": "pocket-pub-pool-great-falls-montana",
+    "street_address": "6364 Main St",
+    "city": "Great Falls",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 44.52340538897454,
+    "longitude": -103.57616914322774,
+    "phone": "(555) 543-7920",
+    "website": "https://www.pocket-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Great Falls.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-14",
+    "business_name": "Rack Billiard Room",
+    "slug": "rack-billiard-room-billings-montana",
+    "street_address": "5819 Main St",
+    "city": "Billings",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 39.57554031087318,
+    "longitude": -102.80377657252633,
+    "phone": "(555) 951-5138",
+    "website": "https://www.rack-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Billings.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-15",
+    "business_name": "Action Pool Hall",
+    "slug": "action-pool-hall-bozeman-montana",
+    "street_address": "5144 Main St",
+    "city": "Bozeman",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 38.33526189465515,
+    "longitude": -89.63272125462697,
+    "phone": "(555) 397-9272",
+    "website": "https://www.action-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bozeman.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-16",
+    "business_name": "Corner Sports Bar",
+    "slug": "corner-sports-bar-bozeman-montana",
+    "street_address": "3197 Main St",
+    "city": "Bozeman",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 36.625449638928636,
+    "longitude": -97.8432853657985,
+    "phone": "(555) 310-7705",
+    "website": "https://www.corner-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bozeman.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-17",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-billings-montana",
+    "street_address": "5013 Main St",
+    "city": "Billings",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 30.09272419310148,
+    "longitude": -84.54506279413091,
+    "phone": "(555) 572-7725",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Billings.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-18",
+    "business_name": "Chalk Lounge",
+    "slug": "chalk-lounge-missoula-montana",
+    "street_address": "6307 Main St",
+    "city": "Missoula",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 40.34262319855342,
+    "longitude": -111.47917387442381,
+    "phone": "(555) 367-6170",
+    "website": "https://www.chalk-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Missoula.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-montana-1777480707855-19",
+    "business_name": "Diamond Lounge",
+    "slug": "diamond-lounge-bozeman-montana",
+    "street_address": "1414 Main St",
+    "city": "Bozeman",
+    "state": "Montana",
+    "zip": "00000",
+    "latitude": 40.566074510223494,
+    "longitude": -103.1964997173086,
+    "phone": "(555) 563-2124",
+    "website": "https://www.diamond-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bozeman.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

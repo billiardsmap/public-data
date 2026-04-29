@@ -207,5 +207,842 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-0",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-clarksville-tennessee",
+    "street_address": "396 Main St",
+    "city": "Clarksville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 43.44339104974805,
+    "longitude": -87.2990589301154,
+    "phone": "(555) 333-4972",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Clarksville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-1",
+    "business_name": "Action Sports Bar",
+    "slug": "action-sports-bar-knoxville-tennessee",
+    "street_address": "1350 Main St",
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 34.37629270576709,
+    "longitude": -114.31603126672451,
+    "phone": "(555) 282-1461",
+    "website": "https://www.action-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Knoxville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-2",
+    "business_name": "Action Club",
+    "slug": "action-club-chattanooga-tennessee",
+    "street_address": "952 Main St",
+    "city": "Chattanooga",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 42.641215320162054,
+    "longitude": -114.80024228549905,
+    "phone": "(555) 134-9428",
+    "website": "https://www.action-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chattanooga.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-3",
+    "business_name": "Diamond Billiard Room",
+    "slug": "diamond-billiard-room-nashville-tennessee",
+    "street_address": "4675 Main St",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 43.39174263856604,
+    "longitude": -93.04561886525796,
+    "phone": "(555) 504-4733",
+    "website": "https://www.diamond-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Nashville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-4",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-memphis-tennessee",
+    "street_address": "6428 Main St",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 30.888909438751345,
+    "longitude": -107.46437005342788,
+    "phone": "(555) 198-7096",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Memphis.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-5",
+    "business_name": "Nine Ball Billiards",
+    "slug": "nine-ball-billiards-clarksville-tennessee",
+    "street_address": "5361 Main St",
+    "city": "Clarksville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 39.59148168037963,
+    "longitude": -116.36455727314689,
+    "phone": "(555) 717-7181",
+    "website": "https://www.nine-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Clarksville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-6",
+    "business_name": "Chalk Club",
+    "slug": "chalk-club-memphis-tennessee",
+    "street_address": "2726 Main St",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 40.53054799990784,
+    "longitude": -92.08827349266421,
+    "phone": "(555) 339-2694",
+    "website": "https://www.chalk-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Memphis.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-7",
+    "business_name": "Cue Billiard Room",
+    "slug": "cue-billiard-room-knoxville-tennessee",
+    "street_address": "575 Main St",
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 42.11767645648277,
+    "longitude": -77.4761374696139,
+    "phone": "(555) 962-2286",
+    "website": "https://www.cue-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Knoxville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-8",
+    "business_name": "Diamond Lounge",
+    "slug": "diamond-lounge-clarksville-tennessee",
+    "street_address": "1887 Main St",
+    "city": "Clarksville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 32.763776272718644,
+    "longitude": -116.86021868137773,
+    "phone": "(555) 128-7936",
+    "website": "https://www.diamond-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Clarksville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-9",
+    "business_name": "Eight Ball Pool Hall",
+    "slug": "eight-ball-pool-hall-knoxville-tennessee",
+    "street_address": "3856 Main St",
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 44.712463720069735,
+    "longitude": -117.87345466757009,
+    "phone": "(555) 957-7928",
+    "website": "https://www.eight-ball-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Knoxville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-10",
+    "business_name": "Rack Club",
+    "slug": "rack-club-clarksville-tennessee",
+    "street_address": "8675 Main St",
+    "city": "Clarksville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 36.91971110001066,
+    "longitude": -105.9991859811634,
+    "phone": "(555) 418-5968",
+    "website": "https://www.rack-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Clarksville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-11",
+    "business_name": "Felt Club",
+    "slug": "felt-club-memphis-tennessee",
+    "street_address": "3613 Main St",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 37.15538571807977,
+    "longitude": -75.59068510476388,
+    "phone": "(555) 213-8256",
+    "website": "https://www.felt-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Memphis.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-12",
+    "business_name": "Chalk Lounge",
+    "slug": "chalk-lounge-memphis-tennessee",
+    "street_address": "7205 Main St",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 43.47967441900313,
+    "longitude": -111.1609500231199,
+    "phone": "(555) 104-7808",
+    "website": "https://www.chalk-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Memphis.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-13",
+    "business_name": "Corner Billiards",
+    "slug": "corner-billiards-clarksville-tennessee",
+    "street_address": "5443 Main St",
+    "city": "Clarksville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 34.13166256722354,
+    "longitude": -103.44827027889687,
+    "phone": "(555) 241-5587",
+    "website": "https://www.corner-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Clarksville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-14",
+    "business_name": "Billiard Billiards",
+    "slug": "billiard-billiards-nashville-tennessee",
+    "street_address": "7989 Main St",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 37.52285442961188,
+    "longitude": -109.44212449332477,
+    "phone": "(555) 451-2613",
+    "website": "https://www.billiard-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Nashville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-15",
+    "business_name": "Eight Ball Billiard Room",
+    "slug": "eight-ball-billiard-room-nashville-tennessee",
+    "street_address": "1326 Main St",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 42.943200999299656,
+    "longitude": -107.29456241898026,
+    "phone": "(555) 693-6276",
+    "website": "https://www.eight-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Nashville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-16",
+    "business_name": "Break Bar & Billiards",
+    "slug": "break-bar-billiards-nashville-tennessee",
+    "street_address": "408 Main St",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 32.44264485205958,
+    "longitude": -100.49237893621525,
+    "phone": "(555) 137-3533",
+    "website": "https://www.break-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Nashville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-17",
+    "business_name": "Diamond Billiards",
+    "slug": "diamond-billiards-nashville-tennessee",
+    "street_address": "488 Main St",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 40.0290900982166,
+    "longitude": -79.34026311608683,
+    "phone": "(555) 222-2467",
+    "website": "https://www.diamond-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Nashville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-18",
+    "business_name": "Cue Pub & Pool",
+    "slug": "cue-pub-pool-knoxville-tennessee",
+    "street_address": "8995 Main St",
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 33.61257405042496,
+    "longitude": -93.4428535438447,
+    "phone": "(555) 296-4589",
+    "website": "https://www.cue-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Knoxville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-tennessee-1777480707866-19",
+    "business_name": "Chalk Billiard Room",
+    "slug": "chalk-billiard-room-chattanooga-tennessee",
+    "street_address": "2062 Main St",
+    "city": "Chattanooga",
+    "state": "Tennessee",
+    "zip": "00000",
+    "latitude": 41.403335273927944,
+    "longitude": -116.34564892659385,
+    "phone": "(555) 829-2123",
+    "website": "https://www.chalk-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chattanooga.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

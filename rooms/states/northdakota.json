@@ -154,5 +154,842 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707859-0",
+    "business_name": "Rack Club",
+    "slug": "rack-club-bismarck-northdakota",
+    "street_address": "8092 Main St",
+    "city": "Bismarck",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 32.16330682624818,
+    "longitude": -100.0115959709455,
+    "phone": "(555) 871-7722",
+    "website": "https://www.rack-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bismarck.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707859-1",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-west-fargo-northdakota",
+    "street_address": "5466 Main St",
+    "city": "West Fargo",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 40.39428587685023,
+    "longitude": -114.6480213100309,
+    "phone": "(555) 539-7756",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Fargo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707859-2",
+    "business_name": "Shooters Pool Hall",
+    "slug": "shooters-pool-hall-bismarck-northdakota",
+    "street_address": "4675 Main St",
+    "city": "Bismarck",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 44.29275944118707,
+    "longitude": -85.31845235506495,
+    "phone": "(555) 174-1577",
+    "website": "https://www.shooters-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bismarck.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707859-3",
+    "business_name": "Chalk Billiard Room",
+    "slug": "chalk-billiard-room-minot-northdakota",
+    "street_address": "7570 Main St",
+    "city": "Minot",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 43.409806617954104,
+    "longitude": -85.11862516371798,
+    "phone": "(555) 544-7733",
+    "website": "https://www.chalk-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Minot.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-4",
+    "business_name": "Rack Lounge",
+    "slug": "rack-lounge-west-fargo-northdakota",
+    "street_address": "3686 Main St",
+    "city": "West Fargo",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 35.522872205341606,
+    "longitude": -82.89314297489446,
+    "phone": "(555) 244-6935",
+    "website": "https://www.rack-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Fargo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-5",
+    "business_name": "Chalk Pool Hall",
+    "slug": "chalk-pool-hall-fargo-northdakota",
+    "street_address": "3080 Main St",
+    "city": "Fargo",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 30.11011721749609,
+    "longitude": -101.72456875020548,
+    "phone": "(555) 853-9621",
+    "website": "https://www.chalk-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fargo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-6",
+    "business_name": "Action Pool Hall",
+    "slug": "action-pool-hall-bismarck-northdakota",
+    "street_address": "5582 Main St",
+    "city": "Bismarck",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 33.63402471951767,
+    "longitude": -75.23111038300644,
+    "phone": "(555) 995-8733",
+    "website": "https://www.action-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bismarck.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-7",
+    "business_name": "Corner Lounge",
+    "slug": "corner-lounge-fargo-northdakota",
+    "street_address": "8905 Main St",
+    "city": "Fargo",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 31.39190369943724,
+    "longitude": -103.37915124540275,
+    "phone": "(555) 711-7527",
+    "website": "https://www.corner-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fargo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-8",
+    "business_name": "Cue Billiard Room",
+    "slug": "cue-billiard-room-grand-forks-northdakota",
+    "street_address": "4739 Main St",
+    "city": "Grand Forks",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 35.75368246292066,
+    "longitude": -108.82935634488092,
+    "phone": "(555) 383-2150",
+    "website": "https://www.cue-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Grand Forks.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-9",
+    "business_name": "Q Bar & Billiards",
+    "slug": "q-bar-billiards-minot-northdakota",
+    "street_address": "5818 Main St",
+    "city": "Minot",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 43.20007888160105,
+    "longitude": -97.70109987312763,
+    "phone": "(555) 777-5526",
+    "website": "https://www.q-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Minot.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-10",
+    "business_name": "Diamond Lounge",
+    "slug": "diamond-lounge-fargo-northdakota",
+    "street_address": "8384 Main St",
+    "city": "Fargo",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 36.438007774264754,
+    "longitude": -106.64298717661238,
+    "phone": "(555) 807-7258",
+    "website": "https://www.diamond-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fargo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-11",
+    "business_name": "Felt Pool Hall",
+    "slug": "felt-pool-hall-bismarck-northdakota",
+    "street_address": "883 Main St",
+    "city": "Bismarck",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 36.24540988316661,
+    "longitude": -116.82826437692341,
+    "phone": "(555) 890-5773",
+    "website": "https://www.felt-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bismarck.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-12",
+    "business_name": "Felt Sports Bar",
+    "slug": "felt-sports-bar-west-fargo-northdakota",
+    "street_address": "8837 Main St",
+    "city": "West Fargo",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 33.76385722507547,
+    "longitude": -109.32640352256044,
+    "phone": "(555) 509-4025",
+    "website": "https://www.felt-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Fargo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-13",
+    "business_name": "Eight Ball Pub & Pool",
+    "slug": "eight-ball-pub-pool-bismarck-northdakota",
+    "street_address": "8691 Main St",
+    "city": "Bismarck",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 36.08091096599893,
+    "longitude": -80.68779622336817,
+    "phone": "(555) 367-8386",
+    "website": "https://www.eight-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bismarck.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-14",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-west-fargo-northdakota",
+    "street_address": "2545 Main St",
+    "city": "West Fargo",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 34.8505829468688,
+    "longitude": -104.48972692241432,
+    "phone": "(555) 762-1643",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Fargo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-15",
+    "business_name": "Nine Ball Pool Hall",
+    "slug": "nine-ball-pool-hall-minot-northdakota",
+    "street_address": "3751 Main St",
+    "city": "Minot",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 32.42944834963751,
+    "longitude": -93.44099967929239,
+    "phone": "(555) 265-5806",
+    "website": "https://www.nine-ball-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Minot.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-16",
+    "business_name": "Diamond Sports Bar",
+    "slug": "diamond-sports-bar-west-fargo-northdakota",
+    "street_address": "7847 Main St",
+    "city": "West Fargo",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 42.67313938787327,
+    "longitude": -119.80951913036574,
+    "phone": "(555) 290-1950",
+    "website": "https://www.diamond-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Fargo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-17",
+    "business_name": "Billiard Bar & Billiards",
+    "slug": "billiard-bar-billiards-west-fargo-northdakota",
+    "street_address": "2837 Main St",
+    "city": "West Fargo",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 39.57252205322601,
+    "longitude": -86.06075904517056,
+    "phone": "(555) 398-6523",
+    "website": "https://www.billiard-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Fargo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-18",
+    "business_name": "Cue Pool Hall",
+    "slug": "cue-pool-hall-fargo-northdakota",
+    "street_address": "3183 Main St",
+    "city": "Fargo",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 36.292975365837165,
+    "longitude": -110.89510001145862,
+    "phone": "(555) 875-4633",
+    "website": "https://www.cue-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fargo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-northdakota-1777480707860-19",
+    "business_name": "Q Bar & Billiards",
+    "slug": "q-bar-billiards-west-fargo-northdakota",
+    "street_address": "5759 Main St",
+    "city": "West Fargo",
+    "state": "Northdakota",
+    "zip": "00000",
+    "latitude": 38.58228469781807,
+    "longitude": -109.67249301733153,
+    "phone": "(555) 382-9156",
+    "website": "https://www.q-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in West Fargo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

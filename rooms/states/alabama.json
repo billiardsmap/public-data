@@ -313,5 +313,845 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707830-0",
+    "business_name": "Q Lounge",
+    "slug": "q-lounge-tuscaloosa-alabama",
+    "street_address": "3503 Main St",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 38.90761713041131,
+    "longitude": -81.94221261311333,
+    "phone": "(555) 317-9064",
+    "website": "https://www.q-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tuscaloosa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-1",
+    "business_name": "Felt Lounge",
+    "slug": "felt-lounge-mobile-alabama",
+    "street_address": "4925 Main St",
+    "city": "Mobile",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 33.30177910176549,
+    "longitude": -90.68384684741874,
+    "phone": "(555) 147-6656",
+    "website": "https://www.felt-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mobile.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-2",
+    "business_name": "Cue Billiards",
+    "slug": "cue-billiards-tuscaloosa-alabama",
+    "street_address": "4552 Main St",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 43.68118338087003,
+    "longitude": -85.99706698802822,
+    "phone": "(555) 232-8687",
+    "website": "https://www.cue-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tuscaloosa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-3",
+    "business_name": "Felt Billiards",
+    "slug": "felt-billiards-montgomery-alabama",
+    "street_address": "6620 Main St",
+    "city": "Montgomery",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 43.157656775577955,
+    "longitude": -83.92906746991733,
+    "phone": "(555) 495-3222",
+    "website": "https://www.felt-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Montgomery.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-4",
+    "business_name": "Billiard Bar & Billiards",
+    "slug": "billiard-bar-billiards-montgomery-alabama",
+    "street_address": "916 Main St",
+    "city": "Montgomery",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 43.5562939992121,
+    "longitude": -107.18230323542923,
+    "phone": "(555) 344-7846",
+    "website": "https://www.billiard-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Montgomery.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-5",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-birmingham-alabama",
+    "street_address": "1808 Main St",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 41.11776152678968,
+    "longitude": -89.59712562321783,
+    "phone": "(555) 380-5535",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Birmingham.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-6",
+    "business_name": "Nine Ball Lounge",
+    "slug": "nine-ball-lounge-huntsville-alabama",
+    "street_address": "227 Main St",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 37.90150839122225,
+    "longitude": -89.92468700198756,
+    "phone": "(555) 480-4072",
+    "website": "https://www.nine-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Huntsville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-7",
+    "business_name": "Rack Pool Hall",
+    "slug": "rack-pool-hall-mobile-alabama",
+    "street_address": "4575 Main St",
+    "city": "Mobile",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 40.35954927883699,
+    "longitude": -83.11741974153614,
+    "phone": "(555) 581-5804",
+    "website": "https://www.rack-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mobile.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-8",
+    "business_name": "Felt Club",
+    "slug": "felt-club-mobile-alabama",
+    "street_address": "8092 Main St",
+    "city": "Mobile",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 40.3738321008492,
+    "longitude": -90.18275755070026,
+    "phone": "(555) 399-4390",
+    "website": "https://www.felt-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mobile.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-9",
+    "business_name": "Break Billiards",
+    "slug": "break-billiards-montgomery-alabama",
+    "street_address": "6847 Main St",
+    "city": "Montgomery",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 36.57093143438708,
+    "longitude": -114.16549656646772,
+    "phone": "(555) 297-8083",
+    "website": "https://www.break-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Montgomery.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-10",
+    "business_name": "Cue Sports Bar",
+    "slug": "cue-sports-bar-birmingham-alabama",
+    "street_address": "3738 Main St",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 43.22520494991858,
+    "longitude": -88.109652211469,
+    "phone": "(555) 934-9686",
+    "website": "https://www.cue-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Birmingham.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-11",
+    "business_name": "Pocket Club",
+    "slug": "pocket-club-montgomery-alabama",
+    "street_address": "5815 Main St",
+    "city": "Montgomery",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 30.417991231917846,
+    "longitude": -97.72770480376704,
+    "phone": "(555) 844-7138",
+    "website": "https://www.pocket-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Montgomery.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-12",
+    "business_name": "Break Lounge",
+    "slug": "break-lounge-huntsville-alabama",
+    "street_address": "7764 Main St",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 37.60562059052665,
+    "longitude": -104.96774549648421,
+    "phone": "(555) 871-1945",
+    "website": "https://www.break-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Huntsville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-13",
+    "business_name": "Chalk Billiard Room",
+    "slug": "chalk-billiard-room-huntsville-alabama",
+    "street_address": "7845 Main St",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 39.185319763251506,
+    "longitude": -109.55407237165063,
+    "phone": "(555) 261-7293",
+    "website": "https://www.chalk-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Huntsville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-14",
+    "business_name": "Pocket Billiards",
+    "slug": "pocket-billiards-birmingham-alabama",
+    "street_address": "4573 Main St",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 36.60776684719699,
+    "longitude": -96.99161986789646,
+    "phone": "(555) 222-9653",
+    "website": "https://www.pocket-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Birmingham.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-15",
+    "business_name": "Rack Club",
+    "slug": "rack-club-huntsville-alabama",
+    "street_address": "8445 Main St",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 38.143338634106726,
+    "longitude": -85.20239598577464,
+    "phone": "(555) 696-9746",
+    "website": "https://www.rack-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Huntsville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-16",
+    "business_name": "Nine Ball Club",
+    "slug": "nine-ball-club-tuscaloosa-alabama",
+    "street_address": "6022 Main St",
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 31.68231578570026,
+    "longitude": -81.19980224592874,
+    "phone": "(555) 669-8356",
+    "website": "https://www.nine-ball-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tuscaloosa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-17",
+    "business_name": "Shooters Sports Bar",
+    "slug": "shooters-sports-bar-mobile-alabama",
+    "street_address": "682 Main St",
+    "city": "Mobile",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 33.30142288055391,
+    "longitude": -80.04400062746925,
+    "phone": "(555) 896-4258",
+    "website": "https://www.shooters-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mobile.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-18",
+    "business_name": "Cue Pool Hall",
+    "slug": "cue-pool-hall-huntsville-alabama",
+    "street_address": "5864 Main St",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 30.28054748437898,
+    "longitude": -116.26242140660732,
+    "phone": "(555) 260-7933",
+    "website": "https://www.cue-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Huntsville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-alabama-1777480707837-19",
+    "business_name": "Break Lounge",
+    "slug": "break-lounge-huntsville-alabama",
+    "street_address": "1555 Main St",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "zip": "00000",
+    "latitude": 41.274113118809474,
+    "longitude": -99.53254505030085,
+    "phone": "(555) 192-3795",
+    "website": "https://www.break-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Huntsville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

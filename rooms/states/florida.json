@@ -301,5 +301,845 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-0",
+    "business_name": "Q Billiard Room",
+    "slug": "q-billiard-room-miami-florida",
+    "street_address": "1845 Main St",
+    "city": "Miami",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 36.82574501997377,
+    "longitude": -109.4092552175569,
+    "phone": "(555) 964-4740",
+    "website": "https://www.q-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Miami.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-1",
+    "business_name": "Chalk Billiards",
+    "slug": "chalk-billiards-orlando-florida",
+    "street_address": "7575 Main St",
+    "city": "Orlando",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 34.07210016707779,
+    "longitude": -86.36342564935444,
+    "phone": "(555) 132-9022",
+    "website": "https://www.chalk-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Orlando.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-2",
+    "business_name": "Billiard Pool Hall",
+    "slug": "billiard-pool-hall-orlando-florida",
+    "street_address": "8944 Main St",
+    "city": "Orlando",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 40.65349694026355,
+    "longitude": -103.60744437176055,
+    "phone": "(555) 727-7509",
+    "website": "https://www.billiard-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Orlando.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-3",
+    "business_name": "Action Billiards",
+    "slug": "action-billiards-tampa-florida",
+    "street_address": "683 Main St",
+    "city": "Tampa",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 42.365019756193554,
+    "longitude": -103.80724894087359,
+    "phone": "(555) 755-8228",
+    "website": "https://www.action-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tampa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-4",
+    "business_name": "Diamond Sports Bar",
+    "slug": "diamond-sports-bar-orlando-florida",
+    "street_address": "954 Main St",
+    "city": "Orlando",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 32.01414020180182,
+    "longitude": -81.65237701852259,
+    "phone": "(555) 963-7450",
+    "website": "https://www.diamond-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Orlando.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-5",
+    "business_name": "Rack Billiards",
+    "slug": "rack-billiards-miami-florida",
+    "street_address": "1811 Main St",
+    "city": "Miami",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 36.61067470969775,
+    "longitude": -96.18983746054595,
+    "phone": "(555) 746-2864",
+    "website": "https://www.rack-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Miami.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-6",
+    "business_name": "Pocket Pub & Pool",
+    "slug": "pocket-pub-pool-jacksonville-florida",
+    "street_address": "7131 Main St",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 36.84322055305755,
+    "longitude": -118.09054526779926,
+    "phone": "(555) 541-6623",
+    "website": "https://www.pocket-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Jacksonville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-7",
+    "business_name": "Chalk Lounge",
+    "slug": "chalk-lounge-tampa-florida",
+    "street_address": "6369 Main St",
+    "city": "Tampa",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 38.400019145938714,
+    "longitude": -87.82059612418814,
+    "phone": "(555) 911-3247",
+    "website": "https://www.chalk-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tampa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-8",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-tampa-florida",
+    "street_address": "2345 Main St",
+    "city": "Tampa",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 35.44768526081864,
+    "longitude": -113.23065497690223,
+    "phone": "(555) 370-3949",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tampa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-9",
+    "business_name": "Billiard Club",
+    "slug": "billiard-club-orlando-florida",
+    "street_address": "6058 Main St",
+    "city": "Orlando",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 40.26169530759447,
+    "longitude": -99.33931909339962,
+    "phone": "(555) 269-8901",
+    "website": "https://www.billiard-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Orlando.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-10",
+    "business_name": "Cue Pub & Pool",
+    "slug": "cue-pub-pool-tampa-florida",
+    "street_address": "2047 Main St",
+    "city": "Tampa",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 30.91102998572237,
+    "longitude": -114.75907960962677,
+    "phone": "(555) 586-8200",
+    "website": "https://www.cue-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tampa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-11",
+    "business_name": "Eight Ball Billiards",
+    "slug": "eight-ball-billiards-miami-florida",
+    "street_address": "5928 Main St",
+    "city": "Miami",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 35.46634120611438,
+    "longitude": -95.06317127157304,
+    "phone": "(555) 655-8008",
+    "website": "https://www.eight-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Miami.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-12",
+    "business_name": "Diamond Lounge",
+    "slug": "diamond-lounge-tampa-florida",
+    "street_address": "8432 Main St",
+    "city": "Tampa",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 43.65239635606135,
+    "longitude": -80.12606352228953,
+    "phone": "(555) 291-1187",
+    "website": "https://www.diamond-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tampa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-13",
+    "business_name": "Diamond Billiard Room",
+    "slug": "diamond-billiard-room-miami-florida",
+    "street_address": "3935 Main St",
+    "city": "Miami",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 43.89738388114876,
+    "longitude": -80.88195800164632,
+    "phone": "(555) 166-8726",
+    "website": "https://www.diamond-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Miami.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-14",
+    "business_name": "Felt Pool Hall",
+    "slug": "felt-pool-hall-orlando-florida",
+    "street_address": "8120 Main St",
+    "city": "Orlando",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 40.87341558254261,
+    "longitude": -111.38077678525018,
+    "phone": "(555) 353-7676",
+    "website": "https://www.felt-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Orlando.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-15",
+    "business_name": "Rack Pub & Pool",
+    "slug": "rack-pub-pool-tampa-florida",
+    "street_address": "1303 Main St",
+    "city": "Tampa",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 30.35606940302982,
+    "longitude": -78.27655097043555,
+    "phone": "(555) 803-7539",
+    "website": "https://www.rack-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tampa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-16",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-jacksonville-florida",
+    "street_address": "8276 Main St",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 32.85163715245433,
+    "longitude": -92.37305286340336,
+    "phone": "(555) 433-4433",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Jacksonville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-17",
+    "business_name": "Felt Billiards",
+    "slug": "felt-billiards-jacksonville-florida",
+    "street_address": "2945 Main St",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 40.88375783698311,
+    "longitude": -81.62002209419722,
+    "phone": "(555) 427-8846",
+    "website": "https://www.felt-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Jacksonville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-18",
+    "business_name": "Action Bar & Billiards",
+    "slug": "action-bar-billiards-st-petersburg-florida",
+    "street_address": "1084 Main St",
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 37.72248579174547,
+    "longitude": -101.63191335756616,
+    "phone": "(555) 563-1878",
+    "website": "https://www.action-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in St. Petersburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-florida-1777480707847-19",
+    "business_name": "Billiard Club",
+    "slug": "billiard-club-st-petersburg-florida",
+    "street_address": "5793 Main St",
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "zip": "00000",
+    "latitude": 43.39918373821884,
+    "longitude": -102.93649785151742,
+    "phone": "(555) 454-3456",
+    "website": "https://www.billiard-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in St. Petersburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

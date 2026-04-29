@@ -207,5 +207,837 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-0",
+    "business_name": "Billiard Bar & Billiards",
+    "slug": "billiard-bar-billiards-broken-arrow-oklahoma",
+    "street_address": "6005 Main St",
+    "city": "Broken Arrow",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 35.68514140066355,
+    "longitude": -90.17055952543863,
+    "phone": "(555) 326-4291",
+    "website": "https://www.billiard-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Broken Arrow.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-1",
+    "business_name": "Billiard Billiard Room",
+    "slug": "billiard-billiard-room-tulsa-oklahoma",
+    "street_address": "8504 Main St",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 34.56506877719304,
+    "longitude": -107.76921422268204,
+    "phone": "(555) 805-4948",
+    "website": "https://www.billiard-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tulsa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-2",
+    "business_name": "Diamond Billiard Room",
+    "slug": "diamond-billiard-room-edmond-oklahoma",
+    "street_address": "9073 Main St",
+    "city": "Edmond",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 41.045091953271395,
+    "longitude": -116.7457559468321,
+    "phone": "(555) 116-3007",
+    "website": "https://www.diamond-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Edmond.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-3",
+    "business_name": "Billiard Pool Hall",
+    "slug": "billiard-pool-hall-tulsa-oklahoma",
+    "street_address": "907 Main St",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 37.37187418325796,
+    "longitude": -111.84488055400905,
+    "phone": "(555) 451-5105",
+    "website": "https://www.billiard-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tulsa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-4",
+    "business_name": "Chalk Pool Hall",
+    "slug": "chalk-pool-hall-norman-oklahoma",
+    "street_address": "8814 Main St",
+    "city": "Norman",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 32.2479042561133,
+    "longitude": -94.99707234808491,
+    "phone": "(555) 635-9504",
+    "website": "https://www.chalk-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Norman.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-5",
+    "business_name": "Cue Club",
+    "slug": "cue-club-tulsa-oklahoma",
+    "street_address": "8024 Main St",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 36.030274755785875,
+    "longitude": -77.5053370679905,
+    "phone": "(555) 894-8702",
+    "website": "https://www.cue-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tulsa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-6",
+    "business_name": "Diamond Pub & Pool",
+    "slug": "diamond-pub-pool-norman-oklahoma",
+    "street_address": "3327 Main St",
+    "city": "Norman",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 34.91147538889966,
+    "longitude": -86.01904638327375,
+    "phone": "(555) 523-7702",
+    "website": "https://www.diamond-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Norman.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-7",
+    "business_name": "Break Pool Hall",
+    "slug": "break-pool-hall-edmond-oklahoma",
+    "street_address": "8469 Main St",
+    "city": "Edmond",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 33.157772324675804,
+    "longitude": -89.25294892596335,
+    "phone": "(555) 947-7523",
+    "website": "https://www.break-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Edmond.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-8",
+    "business_name": "Q Pool Hall",
+    "slug": "q-pool-hall-broken-arrow-oklahoma",
+    "street_address": "1058 Main St",
+    "city": "Broken Arrow",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 43.776026421740475,
+    "longitude": -110.91999836574038,
+    "phone": "(555) 637-3153",
+    "website": "https://www.q-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Broken Arrow.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-9",
+    "business_name": "Shooters Billiard Room",
+    "slug": "shooters-billiard-room-tulsa-oklahoma",
+    "street_address": "8549 Main St",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 44.68995010129115,
+    "longitude": -77.01272047296129,
+    "phone": "(555) 520-4562",
+    "website": "https://www.shooters-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tulsa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-10",
+    "business_name": "Action Billiards",
+    "slug": "action-billiards-broken-arrow-oklahoma",
+    "street_address": "3404 Main St",
+    "city": "Broken Arrow",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 41.68518511223243,
+    "longitude": -114.68835822161044,
+    "phone": "(555) 471-5567",
+    "website": "https://www.action-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Broken Arrow.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-11",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-broken-arrow-oklahoma",
+    "street_address": "6412 Main St",
+    "city": "Broken Arrow",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 33.39149248491555,
+    "longitude": -108.67381505516232,
+    "phone": "(555) 226-1599",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Broken Arrow.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-12",
+    "business_name": "Shooters Club",
+    "slug": "shooters-club-edmond-oklahoma",
+    "street_address": "7904 Main St",
+    "city": "Edmond",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 33.9697305193088,
+    "longitude": -114.52544206375524,
+    "phone": "(555) 881-7126",
+    "website": "https://www.shooters-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Edmond.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-13",
+    "business_name": "Felt Pub & Pool",
+    "slug": "felt-pub-pool-broken-arrow-oklahoma",
+    "street_address": "1801 Main St",
+    "city": "Broken Arrow",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 31.969332305794342,
+    "longitude": -105.10503758992022,
+    "phone": "(555) 949-2196",
+    "website": "https://www.felt-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Broken Arrow.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-14",
+    "business_name": "Nine Ball Sports Bar",
+    "slug": "nine-ball-sports-bar-tulsa-oklahoma",
+    "street_address": "7317 Main St",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 42.35041710023186,
+    "longitude": -92.53890755789699,
+    "phone": "(555) 940-2629",
+    "website": "https://www.nine-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tulsa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-15",
+    "business_name": "Shooters Pub & Pool",
+    "slug": "shooters-pub-pool-oklahoma-city-oklahoma",
+    "street_address": "6736 Main St",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 40.95861964008667,
+    "longitude": -86.06666454570757,
+    "phone": "(555) 724-9994",
+    "website": "https://www.shooters-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Oklahoma City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-16",
+    "business_name": "Felt Billiard Room",
+    "slug": "felt-billiard-room-tulsa-oklahoma",
+    "street_address": "6109 Main St",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 42.79381232774175,
+    "longitude": -76.95058006753757,
+    "phone": "(555) 116-6952",
+    "website": "https://www.felt-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tulsa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-17",
+    "business_name": "Billiard Pub & Pool",
+    "slug": "billiard-pub-pool-norman-oklahoma",
+    "street_address": "3119 Main St",
+    "city": "Norman",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 42.54358656734729,
+    "longitude": -101.88390482760819,
+    "phone": "(555) 377-3538",
+    "website": "https://www.billiard-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Norman.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-18",
+    "business_name": "Cue Pub & Pool",
+    "slug": "cue-pub-pool-oklahoma-city-oklahoma",
+    "street_address": "4088 Main St",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 36.62666480052032,
+    "longitude": -85.43929752351474,
+    "phone": "(555) 993-3795",
+    "website": "https://www.cue-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Oklahoma City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-oklahoma-1777480707860-19",
+    "business_name": "Rack Billiards",
+    "slug": "rack-billiards-tulsa-oklahoma",
+    "street_address": "3887 Main St",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "zip": "00000",
+    "latitude": 35.28677539161375,
+    "longitude": -82.46096923349529,
+    "phone": "(555) 800-7341",
+    "website": "https://www.rack-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tulsa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

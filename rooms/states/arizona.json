@@ -352,5 +352,844 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707840-0",
+    "business_name": "Pocket Billiards",
+    "slug": "pocket-billiards-mesa-arizona",
+    "street_address": "8870 Main St",
+    "city": "Mesa",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 34.07800026298878,
+    "longitude": -96.58022861681178,
+    "phone": "(555) 696-2623",
+    "website": "https://www.pocket-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mesa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707840-1",
+    "business_name": "Corner Pub & Pool",
+    "slug": "corner-pub-pool-scottsdale-arizona",
+    "street_address": "8577 Main St",
+    "city": "Scottsdale",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 42.62315864818227,
+    "longitude": -111.64113879795538,
+    "phone": "(555) 306-8119",
+    "website": "https://www.corner-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Scottsdale.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-2",
+    "business_name": "Cue Billiards",
+    "slug": "cue-billiards-scottsdale-arizona",
+    "street_address": "6412 Main St",
+    "city": "Scottsdale",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 44.36171164725229,
+    "longitude": -113.12718906377707,
+    "phone": "(555) 458-2246",
+    "website": "https://www.cue-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Scottsdale.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-3",
+    "business_name": "Eight Ball Sports Bar",
+    "slug": "eight-ball-sports-bar-tucson-arizona",
+    "street_address": "6357 Main St",
+    "city": "Tucson",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 37.01284534097123,
+    "longitude": -104.66805996339787,
+    "phone": "(555) 425-4001",
+    "website": "https://www.eight-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tucson.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-4",
+    "business_name": "Nine Ball Bar & Billiards",
+    "slug": "nine-ball-bar-billiards-chandler-arizona",
+    "street_address": "8548 Main St",
+    "city": "Chandler",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 35.97403748928367,
+    "longitude": -99.59874912965438,
+    "phone": "(555) 871-8070",
+    "website": "https://www.nine-ball-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chandler.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-5",
+    "business_name": "Nine Ball Pub & Pool",
+    "slug": "nine-ball-pub-pool-tucson-arizona",
+    "street_address": "6810 Main St",
+    "city": "Tucson",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 35.940254292565086,
+    "longitude": -89.68118077322892,
+    "phone": "(555) 616-6317",
+    "website": "https://www.nine-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tucson.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-6",
+    "business_name": "Chalk Pool Hall",
+    "slug": "chalk-pool-hall-scottsdale-arizona",
+    "street_address": "2757 Main St",
+    "city": "Scottsdale",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 42.57883926865081,
+    "longitude": -93.87178414007691,
+    "phone": "(555) 226-9050",
+    "website": "https://www.chalk-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Scottsdale.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-7",
+    "business_name": "Rack Bar & Billiards",
+    "slug": "rack-bar-billiards-mesa-arizona",
+    "street_address": "7529 Main St",
+    "city": "Mesa",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 36.19853717651974,
+    "longitude": -77.12094631499943,
+    "phone": "(555) 121-9786",
+    "website": "https://www.rack-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mesa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-8",
+    "business_name": "Billiard Billiard Room",
+    "slug": "billiard-billiard-room-phoenix-arizona",
+    "street_address": "361 Main St",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 43.3797897813443,
+    "longitude": -115.79737372158233,
+    "phone": "(555) 482-2279",
+    "website": "https://www.billiard-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Phoenix.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-9",
+    "business_name": "Q Bar & Billiards",
+    "slug": "q-bar-billiards-chandler-arizona",
+    "street_address": "7309 Main St",
+    "city": "Chandler",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 35.65207356063427,
+    "longitude": -102.59675689322502,
+    "phone": "(555) 866-1897",
+    "website": "https://www.q-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chandler.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-10",
+    "business_name": "Action Lounge",
+    "slug": "action-lounge-mesa-arizona",
+    "street_address": "299 Main St",
+    "city": "Mesa",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 37.82126226280453,
+    "longitude": -90.01960504123,
+    "phone": "(555) 922-6334",
+    "website": "https://www.action-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mesa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-11",
+    "business_name": "Billiard Billiard Room",
+    "slug": "billiard-billiard-room-mesa-arizona",
+    "street_address": "5726 Main St",
+    "city": "Mesa",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 44.08411831761588,
+    "longitude": -114.31449745827618,
+    "phone": "(555) 415-4124",
+    "website": "https://www.billiard-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mesa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-12",
+    "business_name": "Chalk Bar & Billiards",
+    "slug": "chalk-bar-billiards-phoenix-arizona",
+    "street_address": "4652 Main St",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 44.32227133117868,
+    "longitude": -104.79306119171366,
+    "phone": "(555) 914-3042",
+    "website": "https://www.chalk-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Phoenix.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-13",
+    "business_name": "Billiard Billiards",
+    "slug": "billiard-billiards-tucson-arizona",
+    "street_address": "4262 Main St",
+    "city": "Tucson",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 42.03521895708394,
+    "longitude": -100.50493424973929,
+    "phone": "(555) 396-3917",
+    "website": "https://www.billiard-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tucson.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-14",
+    "business_name": "Break Pub & Pool",
+    "slug": "break-pub-pool-scottsdale-arizona",
+    "street_address": "6907 Main St",
+    "city": "Scottsdale",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 44.85040648078392,
+    "longitude": -105.20421116103245,
+    "phone": "(555) 889-8167",
+    "website": "https://www.break-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Scottsdale.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-15",
+    "business_name": "Rack Pub & Pool",
+    "slug": "rack-pub-pool-chandler-arizona",
+    "street_address": "818 Main St",
+    "city": "Chandler",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 34.32516618318259,
+    "longitude": -96.16501346097223,
+    "phone": "(555) 524-1544",
+    "website": "https://www.rack-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chandler.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-16",
+    "business_name": "Chalk Lounge",
+    "slug": "chalk-lounge-mesa-arizona",
+    "street_address": "5110 Main St",
+    "city": "Mesa",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 34.26212292551097,
+    "longitude": -112.7665974139355,
+    "phone": "(555) 451-1481",
+    "website": "https://www.chalk-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mesa.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-17",
+    "business_name": "Rack Lounge",
+    "slug": "rack-lounge-chandler-arizona",
+    "street_address": "2829 Main St",
+    "city": "Chandler",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 30.456568529442592,
+    "longitude": -85.64588957206776,
+    "phone": "(555) 321-2208",
+    "website": "https://www.rack-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chandler.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-18",
+    "business_name": "Break Sports Bar",
+    "slug": "break-sports-bar-tucson-arizona",
+    "street_address": "587 Main St",
+    "city": "Tucson",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 43.94004171632125,
+    "longitude": -102.33221723445972,
+    "phone": "(555) 399-2479",
+    "website": "https://www.break-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Tucson.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-arizona-1777480707841-19",
+    "business_name": "Action Billiards",
+    "slug": "action-billiards-chandler-arizona",
+    "street_address": "4554 Main St",
+    "city": "Chandler",
+    "state": "Arizona",
+    "zip": "00000",
+    "latitude": 42.42219011720543,
+    "longitude": -111.40899214083652,
+    "phone": "(555) 242-3870",
+    "website": "https://www.action-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chandler.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

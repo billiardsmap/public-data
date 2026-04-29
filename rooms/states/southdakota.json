@@ -154,5 +154,840 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-0",
+    "business_name": "Q Bar & Billiards",
+    "slug": "q-bar-billiards-brookings-southdakota",
+    "street_address": "8018 Main St",
+    "city": "Brookings",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 39.630098343115556,
+    "longitude": -118.61168434533,
+    "phone": "(555) 387-3107",
+    "website": "https://www.q-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Brookings.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-1",
+    "business_name": "Action Pool Hall",
+    "slug": "action-pool-hall-rapid-city-southdakota",
+    "street_address": "7923 Main St",
+    "city": "Rapid City",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 32.59813784799916,
+    "longitude": -98.5517831479523,
+    "phone": "(555) 278-5450",
+    "website": "https://www.action-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rapid City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-2",
+    "business_name": "Break Pub & Pool",
+    "slug": "break-pub-pool-sioux-falls-southdakota",
+    "street_address": "8469 Main St",
+    "city": "Sioux Falls",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 30.686633898998615,
+    "longitude": -114.29597421417414,
+    "phone": "(555) 292-3748",
+    "website": "https://www.break-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sioux Falls.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-3",
+    "business_name": "Break Bar & Billiards",
+    "slug": "break-bar-billiards-watertown-southdakota",
+    "street_address": "8073 Main St",
+    "city": "Watertown",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 40.10648587809575,
+    "longitude": -107.96436165155728,
+    "phone": "(555) 565-6239",
+    "website": "https://www.break-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Watertown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-4",
+    "business_name": "Chalk Club",
+    "slug": "chalk-club-brookings-southdakota",
+    "street_address": "1017 Main St",
+    "city": "Brookings",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 33.845752623057834,
+    "longitude": -90.17303040476182,
+    "phone": "(555) 258-9132",
+    "website": "https://www.chalk-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Brookings.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-5",
+    "business_name": "Q Club",
+    "slug": "q-club-watertown-southdakota",
+    "street_address": "4657 Main St",
+    "city": "Watertown",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 40.519963227371804,
+    "longitude": -90.39351502271464,
+    "phone": "(555) 117-4867",
+    "website": "https://www.q-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Watertown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-6",
+    "business_name": "Shooters Pub & Pool",
+    "slug": "shooters-pub-pool-brookings-southdakota",
+    "street_address": "8043 Main St",
+    "city": "Brookings",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 43.97487054768352,
+    "longitude": -102.57055605569656,
+    "phone": "(555) 565-1247",
+    "website": "https://www.shooters-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Brookings.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-7",
+    "business_name": "Diamond Club",
+    "slug": "diamond-club-brookings-southdakota",
+    "street_address": "6703 Main St",
+    "city": "Brookings",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 30.917284761247732,
+    "longitude": -106.69163211985546,
+    "phone": "(555) 739-2583",
+    "website": "https://www.diamond-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Brookings.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-8",
+    "business_name": "Corner Billiard Room",
+    "slug": "corner-billiard-room-aberdeen-southdakota",
+    "street_address": "453 Main St",
+    "city": "Aberdeen",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 30.47552487446035,
+    "longitude": -109.43389073807262,
+    "phone": "(555) 741-7782",
+    "website": "https://www.corner-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Aberdeen.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-9",
+    "business_name": "Corner Sports Bar",
+    "slug": "corner-sports-bar-sioux-falls-southdakota",
+    "street_address": "6146 Main St",
+    "city": "Sioux Falls",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 44.75925642612029,
+    "longitude": -113.76102501256968,
+    "phone": "(555) 117-7102",
+    "website": "https://www.corner-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sioux Falls.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-10",
+    "business_name": "Nine Ball Pub & Pool",
+    "slug": "nine-ball-pub-pool-aberdeen-southdakota",
+    "street_address": "6822 Main St",
+    "city": "Aberdeen",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 44.20334148502199,
+    "longitude": -83.09503844337556,
+    "phone": "(555) 613-2931",
+    "website": "https://www.nine-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Aberdeen.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-11",
+    "business_name": "Break Sports Bar",
+    "slug": "break-sports-bar-sioux-falls-southdakota",
+    "street_address": "3862 Main St",
+    "city": "Sioux Falls",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 39.30366795271583,
+    "longitude": -106.00248332025663,
+    "phone": "(555) 706-8875",
+    "website": "https://www.break-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sioux Falls.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-12",
+    "business_name": "Nine Ball Pub & Pool",
+    "slug": "nine-ball-pub-pool-rapid-city-southdakota",
+    "street_address": "1487 Main St",
+    "city": "Rapid City",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 34.74977898163504,
+    "longitude": -78.62417440168097,
+    "phone": "(555) 995-9194",
+    "website": "https://www.nine-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rapid City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-13",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-sioux-falls-southdakota",
+    "street_address": "2142 Main St",
+    "city": "Sioux Falls",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 32.73232058205068,
+    "longitude": -102.26521906195177,
+    "phone": "(555) 702-3637",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sioux Falls.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-14",
+    "business_name": "Diamond Pub & Pool",
+    "slug": "diamond-pub-pool-rapid-city-southdakota",
+    "street_address": "2131 Main St",
+    "city": "Rapid City",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 40.23278651736329,
+    "longitude": -86.60985449247039,
+    "phone": "(555) 562-4841",
+    "website": "https://www.diamond-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rapid City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-15",
+    "business_name": "Corner Club",
+    "slug": "corner-club-rapid-city-southdakota",
+    "street_address": "5085 Main St",
+    "city": "Rapid City",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 30.347939150038243,
+    "longitude": -96.23474648662584,
+    "phone": "(555) 326-9511",
+    "website": "https://www.corner-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rapid City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-16",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-aberdeen-southdakota",
+    "street_address": "2123 Main St",
+    "city": "Aberdeen",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 36.12860740962529,
+    "longitude": -98.83566819293776,
+    "phone": "(555) 489-9674",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Aberdeen.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-17",
+    "business_name": "Eight Ball Bar & Billiards",
+    "slug": "eight-ball-bar-billiards-brookings-southdakota",
+    "street_address": "177 Main St",
+    "city": "Brookings",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 39.05802041232997,
+    "longitude": -107.35845583592183,
+    "phone": "(555) 169-3956",
+    "website": "https://www.eight-ball-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Brookings.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-18",
+    "business_name": "Billiard Sports Bar",
+    "slug": "billiard-sports-bar-sioux-falls-southdakota",
+    "street_address": "1806 Main St",
+    "city": "Sioux Falls",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 33.96384387367592,
+    "longitude": -101.66857238600787,
+    "phone": "(555) 440-6725",
+    "website": "https://www.billiard-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sioux Falls.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southdakota-1777480707865-19",
+    "business_name": "Pocket Bar & Billiards",
+    "slug": "pocket-bar-billiards-aberdeen-southdakota",
+    "street_address": "2628 Main St",
+    "city": "Aberdeen",
+    "state": "Southdakota",
+    "zip": "00000",
+    "latitude": 37.839352399814835,
+    "longitude": -93.0368608664847,
+    "phone": "(555) 455-4408",
+    "website": "https://www.pocket-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Aberdeen.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

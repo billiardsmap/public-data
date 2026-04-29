@@ -155,5 +155,835 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-0",
+    "business_name": "Shooters Billiards",
+    "slug": "shooters-billiards-concord-newhampshire",
+    "street_address": "1837 Main St",
+    "city": "Concord",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 38.48934769043481,
+    "longitude": -92.3353633641553,
+    "phone": "(555) 188-9617",
+    "website": "https://www.shooters-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Concord.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-1",
+    "business_name": "Shooters Bar & Billiards",
+    "slug": "shooters-bar-billiards-derry-newhampshire",
+    "street_address": "601 Main St",
+    "city": "Derry",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 42.97029919887246,
+    "longitude": -84.87709813066033,
+    "phone": "(555) 602-5817",
+    "website": "https://www.shooters-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Derry.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-2",
+    "business_name": "Eight Ball Billiards",
+    "slug": "eight-ball-billiards-dover-newhampshire",
+    "street_address": "5000 Main St",
+    "city": "Dover",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 36.72343383934702,
+    "longitude": -106.04600479761012,
+    "phone": "(555) 661-8356",
+    "website": "https://www.eight-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dover.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-3",
+    "business_name": "Cue Club",
+    "slug": "cue-club-nashua-newhampshire",
+    "street_address": "2384 Main St",
+    "city": "Nashua",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 38.12899392649125,
+    "longitude": -77.66354284092151,
+    "phone": "(555) 732-1200",
+    "website": "https://www.cue-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Nashua.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-4",
+    "business_name": "Q Club",
+    "slug": "q-club-derry-newhampshire",
+    "street_address": "4363 Main St",
+    "city": "Derry",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 35.28014661905026,
+    "longitude": -97.2675806881123,
+    "phone": "(555) 720-3406",
+    "website": "https://www.q-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Derry.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-5",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-manchester-newhampshire",
+    "street_address": "2262 Main St",
+    "city": "Manchester",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 33.371256834633485,
+    "longitude": -99.17098513458622,
+    "phone": "(555) 892-7739",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Manchester.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-6",
+    "business_name": "Pocket Pub & Pool",
+    "slug": "pocket-pub-pool-manchester-newhampshire",
+    "street_address": "2867 Main St",
+    "city": "Manchester",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 42.657816196835626,
+    "longitude": -101.44734838542647,
+    "phone": "(555) 592-5742",
+    "website": "https://www.pocket-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Manchester.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-7",
+    "business_name": "Diamond Sports Bar",
+    "slug": "diamond-sports-bar-dover-newhampshire",
+    "street_address": "7901 Main St",
+    "city": "Dover",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 32.180871648747946,
+    "longitude": -90.37429069987951,
+    "phone": "(555) 706-9891",
+    "website": "https://www.diamond-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dover.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-8",
+    "business_name": "Corner Bar & Billiards",
+    "slug": "corner-bar-billiards-manchester-newhampshire",
+    "street_address": "925 Main St",
+    "city": "Manchester",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 38.88573383743967,
+    "longitude": -87.36732076762274,
+    "phone": "(555) 315-6740",
+    "website": "https://www.corner-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Manchester.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-9",
+    "business_name": "Shooters Bar & Billiards",
+    "slug": "shooters-bar-billiards-dover-newhampshire",
+    "street_address": "3150 Main St",
+    "city": "Dover",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 42.04407055908616,
+    "longitude": -108.48445076462123,
+    "phone": "(555) 424-3836",
+    "website": "https://www.shooters-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dover.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-10",
+    "business_name": "Felt Pub & Pool",
+    "slug": "felt-pub-pool-nashua-newhampshire",
+    "street_address": "5239 Main St",
+    "city": "Nashua",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 33.3884244674075,
+    "longitude": -101.51638790896072,
+    "phone": "(555) 600-9046",
+    "website": "https://www.felt-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Nashua.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-11",
+    "business_name": "Corner Pool Hall",
+    "slug": "corner-pool-hall-dover-newhampshire",
+    "street_address": "680 Main St",
+    "city": "Dover",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 37.70567324703432,
+    "longitude": -110.46386387936407,
+    "phone": "(555) 900-5310",
+    "website": "https://www.corner-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dover.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-12",
+    "business_name": "Diamond Bar & Billiards",
+    "slug": "diamond-bar-billiards-manchester-newhampshire",
+    "street_address": "3576 Main St",
+    "city": "Manchester",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 41.66946658896798,
+    "longitude": -82.70023918969065,
+    "phone": "(555) 229-5602",
+    "website": "https://www.diamond-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Manchester.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-13",
+    "business_name": "Nine Ball Sports Bar",
+    "slug": "nine-ball-sports-bar-dover-newhampshire",
+    "street_address": "5641 Main St",
+    "city": "Dover",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 34.563441561899566,
+    "longitude": -101.89482214228212,
+    "phone": "(555) 473-7381",
+    "website": "https://www.nine-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Dover.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-14",
+    "business_name": "Corner Pool Hall",
+    "slug": "corner-pool-hall-derry-newhampshire",
+    "street_address": "4888 Main St",
+    "city": "Derry",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 41.22019703939614,
+    "longitude": -102.75120790968282,
+    "phone": "(555) 212-6212",
+    "website": "https://www.corner-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Derry.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-15",
+    "business_name": "Chalk Billiard Room",
+    "slug": "chalk-billiard-room-nashua-newhampshire",
+    "street_address": "6779 Main St",
+    "city": "Nashua",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 41.126087627500674,
+    "longitude": -116.85884325042133,
+    "phone": "(555) 638-2686",
+    "website": "https://www.chalk-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Nashua.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-16",
+    "business_name": "Pocket Club",
+    "slug": "pocket-club-manchester-newhampshire",
+    "street_address": "3659 Main St",
+    "city": "Manchester",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 44.930931948349674,
+    "longitude": -110.88770442576399,
+    "phone": "(555) 773-3116",
+    "website": "https://www.pocket-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Manchester.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-17",
+    "business_name": "Shooters Pool Hall",
+    "slug": "shooters-pool-hall-nashua-newhampshire",
+    "street_address": "5126 Main St",
+    "city": "Nashua",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 36.68374410001,
+    "longitude": -103.00037799618505,
+    "phone": "(555) 759-6202",
+    "website": "https://www.shooters-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Nashua.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-18",
+    "business_name": "Felt Sports Bar",
+    "slug": "felt-sports-bar-manchester-newhampshire",
+    "street_address": "2548 Main St",
+    "city": "Manchester",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 39.01549898718516,
+    "longitude": -115.05464775418501,
+    "phone": "(555) 679-6462",
+    "website": "https://www.felt-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Manchester.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newhampshire-1777480707857-19",
+    "business_name": "Eight Ball Billiards",
+    "slug": "eight-ball-billiards-derry-newhampshire",
+    "street_address": "8403 Main St",
+    "city": "Derry",
+    "state": "Newhampshire",
+    "zip": "00000",
+    "latitude": 39.19479537797146,
+    "longitude": -103.3176856337335,
+    "phone": "(555) 182-3334",
+    "website": "https://www.eight-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Derry.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

@@ -209,5 +209,840 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-0",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-silver-spring-maryland",
+    "street_address": "2164 Main St",
+    "city": "Silver Spring",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 31.879978265320446,
+    "longitude": -87.54684406590118,
+    "phone": "(555) 957-5725",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Silver Spring.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-1",
+    "business_name": "Chalk Billiard Room",
+    "slug": "chalk-billiard-room-germantown-maryland",
+    "street_address": "366 Main St",
+    "city": "Germantown",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 37.62575632076176,
+    "longitude": -77.51247414147878,
+    "phone": "(555) 732-2756",
+    "website": "https://www.chalk-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Germantown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-2",
+    "business_name": "Diamond Sports Bar",
+    "slug": "diamond-sports-bar-germantown-maryland",
+    "street_address": "1254 Main St",
+    "city": "Germantown",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 32.953970157431144,
+    "longitude": -87.75559676520159,
+    "phone": "(555) 568-7803",
+    "website": "https://www.diamond-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Germantown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-3",
+    "business_name": "Felt Bar & Billiards",
+    "slug": "felt-bar-billiards-silver-spring-maryland",
+    "street_address": "8595 Main St",
+    "city": "Silver Spring",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 32.026608085078536,
+    "longitude": -103.4559571342385,
+    "phone": "(555) 600-7967",
+    "website": "https://www.felt-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Silver Spring.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-4",
+    "business_name": "Eight Ball Pub & Pool",
+    "slug": "eight-ball-pub-pool-columbia-maryland",
+    "street_address": "7799 Main St",
+    "city": "Columbia",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 42.87471120776368,
+    "longitude": -114.61493670839526,
+    "phone": "(555) 910-9265",
+    "website": "https://www.eight-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-5",
+    "business_name": "Q Sports Bar",
+    "slug": "q-sports-bar-baltimore-maryland",
+    "street_address": "7701 Main St",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 44.23509769506112,
+    "longitude": -91.10680649318633,
+    "phone": "(555) 497-5900",
+    "website": "https://www.q-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Baltimore.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-6",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-silver-spring-maryland",
+    "street_address": "7763 Main St",
+    "city": "Silver Spring",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 32.79899242286249,
+    "longitude": -118.84507445927787,
+    "phone": "(555) 907-8862",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Silver Spring.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-7",
+    "business_name": "Q Billiard Room",
+    "slug": "q-billiard-room-baltimore-maryland",
+    "street_address": "2641 Main St",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 42.441292320320386,
+    "longitude": -111.16662029771206,
+    "phone": "(555) 120-1852",
+    "website": "https://www.q-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Baltimore.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-8",
+    "business_name": "Chalk Bar & Billiards",
+    "slug": "chalk-bar-billiards-germantown-maryland",
+    "street_address": "7042 Main St",
+    "city": "Germantown",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 41.095617191454075,
+    "longitude": -95.51800175747229,
+    "phone": "(555) 522-9007",
+    "website": "https://www.chalk-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Germantown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-9",
+    "business_name": "Corner Sports Bar",
+    "slug": "corner-sports-bar-columbia-maryland",
+    "street_address": "2002 Main St",
+    "city": "Columbia",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 36.82875561975399,
+    "longitude": -91.2824345118717,
+    "phone": "(555) 867-3229",
+    "website": "https://www.corner-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-10",
+    "business_name": "Cue Sports Bar",
+    "slug": "cue-sports-bar-silver-spring-maryland",
+    "street_address": "1950 Main St",
+    "city": "Silver Spring",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 37.38721884468556,
+    "longitude": -76.97847557603168,
+    "phone": "(555) 606-9916",
+    "website": "https://www.cue-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Silver Spring.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-11",
+    "business_name": "Corner Club",
+    "slug": "corner-club-silver-spring-maryland",
+    "street_address": "7453 Main St",
+    "city": "Silver Spring",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 31.838353276492786,
+    "longitude": -92.62859197902752,
+    "phone": "(555) 433-5510",
+    "website": "https://www.corner-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Silver Spring.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-12",
+    "business_name": "Action Pool Hall",
+    "slug": "action-pool-hall-waldorf-maryland",
+    "street_address": "7226 Main St",
+    "city": "Waldorf",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 43.492436112569706,
+    "longitude": -102.24640119033448,
+    "phone": "(555) 896-9907",
+    "website": "https://www.action-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Waldorf.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-13",
+    "business_name": "Billiard Pool Hall",
+    "slug": "billiard-pool-hall-silver-spring-maryland",
+    "street_address": "2390 Main St",
+    "city": "Silver Spring",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 38.43355933772282,
+    "longitude": -88.08070942532518,
+    "phone": "(555) 842-5284",
+    "website": "https://www.billiard-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Silver Spring.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-14",
+    "business_name": "Billiard Billiards",
+    "slug": "billiard-billiards-columbia-maryland",
+    "street_address": "5386 Main St",
+    "city": "Columbia",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 37.165918233943614,
+    "longitude": -103.63164649776564,
+    "phone": "(555) 780-3504",
+    "website": "https://www.billiard-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-15",
+    "business_name": "Billiard Pool Hall",
+    "slug": "billiard-pool-hall-baltimore-maryland",
+    "street_address": "2843 Main St",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 36.84553182879965,
+    "longitude": -90.2446784466842,
+    "phone": "(555) 776-6912",
+    "website": "https://www.billiard-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Baltimore.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-16",
+    "business_name": "Break Sports Bar",
+    "slug": "break-sports-bar-silver-spring-maryland",
+    "street_address": "3707 Main St",
+    "city": "Silver Spring",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 34.50643645870928,
+    "longitude": -109.56409571233226,
+    "phone": "(555) 264-3941",
+    "website": "https://www.break-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Silver Spring.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-17",
+    "business_name": "Rack Billiards",
+    "slug": "rack-billiards-silver-spring-maryland",
+    "street_address": "1309 Main St",
+    "city": "Silver Spring",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 37.896387013982476,
+    "longitude": -117.3865166270405,
+    "phone": "(555) 487-5692",
+    "website": "https://www.rack-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Silver Spring.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-18",
+    "business_name": "Pocket Bar & Billiards",
+    "slug": "pocket-bar-billiards-germantown-maryland",
+    "street_address": "8486 Main St",
+    "city": "Germantown",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 32.73865714792412,
+    "longitude": -98.41269570067934,
+    "phone": "(555) 772-1852",
+    "website": "https://www.pocket-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Germantown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maryland-1777480707852-19",
+    "business_name": "Chalk Billiard Room",
+    "slug": "chalk-billiard-room-columbia-maryland",
+    "street_address": "920 Main St",
+    "city": "Columbia",
+    "state": "Maryland",
+    "zip": "00000",
+    "latitude": 34.53331008818802,
+    "longitude": -78.54763394865283,
+    "phone": "(555) 390-1576",
+    "website": "https://www.chalk-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

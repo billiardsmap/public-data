@@ -155,5 +155,842 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-0",
+    "business_name": "Diamond Billiard Room",
+    "slug": "diamond-billiard-room-gulfport-mississippi",
+    "street_address": "2064 Main St",
+    "city": "Gulfport",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 42.55760633413705,
+    "longitude": -93.87888418075902,
+    "phone": "(555) 508-9221",
+    "website": "https://www.diamond-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Gulfport.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-1",
+    "business_name": "Break Pool Hall",
+    "slug": "break-pool-hall-jackson-mississippi",
+    "street_address": "9026 Main St",
+    "city": "Jackson",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 38.33006665749299,
+    "longitude": -103.62952922700165,
+    "phone": "(555) 925-1259",
+    "website": "https://www.break-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Jackson.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-2",
+    "business_name": "Corner Club",
+    "slug": "corner-club-hattiesburg-mississippi",
+    "street_address": "1286 Main St",
+    "city": "Hattiesburg",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 33.055269507037366,
+    "longitude": -119.16164899420596,
+    "phone": "(555) 424-8859",
+    "website": "https://www.corner-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Hattiesburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-3",
+    "business_name": "Pocket Pool Hall",
+    "slug": "pocket-pool-hall-southaven-mississippi",
+    "street_address": "153 Main St",
+    "city": "Southaven",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 37.270329949912366,
+    "longitude": -83.2026537060355,
+    "phone": "(555) 220-9236",
+    "website": "https://www.pocket-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Southaven.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-4",
+    "business_name": "Chalk Billiards",
+    "slug": "chalk-billiards-biloxi-mississippi",
+    "street_address": "3676 Main St",
+    "city": "Biloxi",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 31.923505241530954,
+    "longitude": -106.44738585013224,
+    "phone": "(555) 174-4442",
+    "website": "https://www.chalk-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Biloxi.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-5",
+    "business_name": "Nine Ball Lounge",
+    "slug": "nine-ball-lounge-gulfport-mississippi",
+    "street_address": "7301 Main St",
+    "city": "Gulfport",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 43.434764232913984,
+    "longitude": -83.8025022574803,
+    "phone": "(555) 162-5103",
+    "website": "https://www.nine-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Gulfport.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-6",
+    "business_name": "Billiard Sports Bar",
+    "slug": "billiard-sports-bar-biloxi-mississippi",
+    "street_address": "1553 Main St",
+    "city": "Biloxi",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 42.26776548498215,
+    "longitude": -87.36064638030749,
+    "phone": "(555) 756-1551",
+    "website": "https://www.billiard-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Biloxi.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-7",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-biloxi-mississippi",
+    "street_address": "3427 Main St",
+    "city": "Biloxi",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 35.91535324515736,
+    "longitude": -84.9714202124745,
+    "phone": "(555) 191-8782",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Biloxi.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-8",
+    "business_name": "Action Billiard Room",
+    "slug": "action-billiard-room-jackson-mississippi",
+    "street_address": "8256 Main St",
+    "city": "Jackson",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 42.37355326420575,
+    "longitude": -75.04759548628496,
+    "phone": "(555) 810-4031",
+    "website": "https://www.action-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Jackson.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-9",
+    "business_name": "Chalk Bar & Billiards",
+    "slug": "chalk-bar-billiards-hattiesburg-mississippi",
+    "street_address": "341 Main St",
+    "city": "Hattiesburg",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 34.57414812772973,
+    "longitude": -102.38710685874314,
+    "phone": "(555) 737-4129",
+    "website": "https://www.chalk-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Hattiesburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-10",
+    "business_name": "Shooters Billiard Room",
+    "slug": "shooters-billiard-room-hattiesburg-mississippi",
+    "street_address": "3731 Main St",
+    "city": "Hattiesburg",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 39.32019999261398,
+    "longitude": -95.73451813156785,
+    "phone": "(555) 757-8842",
+    "website": "https://www.shooters-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Hattiesburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-11",
+    "business_name": "Rack Bar & Billiards",
+    "slug": "rack-bar-billiards-biloxi-mississippi",
+    "street_address": "6103 Main St",
+    "city": "Biloxi",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 31.839007188226624,
+    "longitude": -113.06196608611026,
+    "phone": "(555) 515-8411",
+    "website": "https://www.rack-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Biloxi.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-12",
+    "business_name": "Action Billiard Room",
+    "slug": "action-billiard-room-southaven-mississippi",
+    "street_address": "6591 Main St",
+    "city": "Southaven",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 32.046867730407456,
+    "longitude": -92.5382375975234,
+    "phone": "(555) 562-7485",
+    "website": "https://www.action-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Southaven.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-13",
+    "business_name": "Q Bar & Billiards",
+    "slug": "q-bar-billiards-southaven-mississippi",
+    "street_address": "2377 Main St",
+    "city": "Southaven",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 34.0498880457766,
+    "longitude": -85.301667948882,
+    "phone": "(555) 936-6646",
+    "website": "https://www.q-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Southaven.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-14",
+    "business_name": "Nine Ball Sports Bar",
+    "slug": "nine-ball-sports-bar-biloxi-mississippi",
+    "street_address": "4623 Main St",
+    "city": "Biloxi",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 37.69315782522232,
+    "longitude": -91.02162937970752,
+    "phone": "(555) 722-2699",
+    "website": "https://www.nine-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Biloxi.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-15",
+    "business_name": "Break Sports Bar",
+    "slug": "break-sports-bar-jackson-mississippi",
+    "street_address": "5759 Main St",
+    "city": "Jackson",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 31.98459599897873,
+    "longitude": -80.03800283519043,
+    "phone": "(555) 260-3124",
+    "website": "https://www.break-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Jackson.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-16",
+    "business_name": "Chalk Bar & Billiards",
+    "slug": "chalk-bar-billiards-southaven-mississippi",
+    "street_address": "7869 Main St",
+    "city": "Southaven",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 40.8329878834962,
+    "longitude": -79.26766690735647,
+    "phone": "(555) 466-3467",
+    "website": "https://www.chalk-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Southaven.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-17",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-gulfport-mississippi",
+    "street_address": "6317 Main St",
+    "city": "Gulfport",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 38.358734743467224,
+    "longitude": -78.26503700817044,
+    "phone": "(555) 240-3741",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Gulfport.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-18",
+    "business_name": "Felt Pub & Pool",
+    "slug": "felt-pub-pool-biloxi-mississippi",
+    "street_address": "8701 Main St",
+    "city": "Biloxi",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 36.02799153823541,
+    "longitude": -104.77129463090147,
+    "phone": "(555) 944-1514",
+    "website": "https://www.felt-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Biloxi.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-mississippi-1777480707854-19",
+    "business_name": "Cue Pool Hall",
+    "slug": "cue-pool-hall-hattiesburg-mississippi",
+    "street_address": "5167 Main St",
+    "city": "Hattiesburg",
+    "state": "Mississippi",
+    "zip": "00000",
+    "latitude": 36.479054595577,
+    "longitude": -107.39008240553416,
+    "phone": "(555) 632-4202",
+    "website": "https://www.cue-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Hattiesburg.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

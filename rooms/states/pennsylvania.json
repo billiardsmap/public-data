@@ -257,5 +257,842 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-0",
+    "business_name": "Break Lounge",
+    "slug": "break-lounge-philadelphia-pennsylvania",
+    "street_address": "2846 Main St",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 34.973293979499665,
+    "longitude": -99.30069209014987,
+    "phone": "(555) 561-7317",
+    "website": "https://www.break-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Philadelphia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-1",
+    "business_name": "Pocket Billiards",
+    "slug": "pocket-billiards-philadelphia-pennsylvania",
+    "street_address": "3285 Main St",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 36.40738630276688,
+    "longitude": -93.44362056574607,
+    "phone": "(555) 421-3121",
+    "website": "https://www.pocket-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Philadelphia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-2",
+    "business_name": "Billiard Billiards",
+    "slug": "billiard-billiards-pittsburgh-pennsylvania",
+    "street_address": "3635 Main St",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 36.62463065361452,
+    "longitude": -78.32432666511266,
+    "phone": "(555) 227-1010",
+    "website": "https://www.billiard-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Pittsburgh.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-3",
+    "business_name": "Rack Pool Hall",
+    "slug": "rack-pool-hall-allentown-pennsylvania",
+    "street_address": "1515 Main St",
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 41.485540260783694,
+    "longitude": -103.07206632602382,
+    "phone": "(555) 744-7160",
+    "website": "https://www.rack-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Allentown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-4",
+    "business_name": "Chalk Sports Bar",
+    "slug": "chalk-sports-bar-erie-pennsylvania",
+    "street_address": "8774 Main St",
+    "city": "Erie",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 44.413796473223066,
+    "longitude": -90.6415182771621,
+    "phone": "(555) 356-7393",
+    "website": "https://www.chalk-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Erie.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-5",
+    "business_name": "Cue Pool Hall",
+    "slug": "cue-pool-hall-erie-pennsylvania",
+    "street_address": "7404 Main St",
+    "city": "Erie",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 31.637446791044045,
+    "longitude": -80.48559050126127,
+    "phone": "(555) 634-6412",
+    "website": "https://www.cue-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Erie.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-6",
+    "business_name": "Q Pool Hall",
+    "slug": "q-pool-hall-allentown-pennsylvania",
+    "street_address": "5001 Main St",
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 35.48173767867166,
+    "longitude": -87.53072920897898,
+    "phone": "(555) 268-2742",
+    "website": "https://www.q-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Allentown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-7",
+    "business_name": "Q Lounge",
+    "slug": "q-lounge-erie-pennsylvania",
+    "street_address": "7105 Main St",
+    "city": "Erie",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 31.530906658159722,
+    "longitude": -113.14747769750764,
+    "phone": "(555) 183-5485",
+    "website": "https://www.q-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Erie.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-8",
+    "business_name": "Shooters Sports Bar",
+    "slug": "shooters-sports-bar-allentown-pennsylvania",
+    "street_address": "652 Main St",
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 36.22439030152777,
+    "longitude": -96.35611780312773,
+    "phone": "(555) 919-2630",
+    "website": "https://www.shooters-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Allentown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-9",
+    "business_name": "Chalk Billiard Room",
+    "slug": "chalk-billiard-room-reading-pennsylvania",
+    "street_address": "3082 Main St",
+    "city": "Reading",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 33.43218262318991,
+    "longitude": -104.41555644968442,
+    "phone": "(555) 910-2772",
+    "website": "https://www.chalk-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Reading.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-10",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-philadelphia-pennsylvania",
+    "street_address": "3497 Main St",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 41.85474165193393,
+    "longitude": -114.66240016463163,
+    "phone": "(555) 934-6135",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Philadelphia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-11",
+    "business_name": "Break Lounge",
+    "slug": "break-lounge-philadelphia-pennsylvania",
+    "street_address": "2721 Main St",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 43.67413614576455,
+    "longitude": -89.54302972689253,
+    "phone": "(555) 644-8674",
+    "website": "https://www.break-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Philadelphia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-12",
+    "business_name": "Billiard Pub & Pool",
+    "slug": "billiard-pub-pool-pittsburgh-pennsylvania",
+    "street_address": "2001 Main St",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 44.3467286352157,
+    "longitude": -111.05370842974742,
+    "phone": "(555) 101-7006",
+    "website": "https://www.billiard-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Pittsburgh.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-13",
+    "business_name": "Action Pub & Pool",
+    "slug": "action-pub-pool-philadelphia-pennsylvania",
+    "street_address": "6590 Main St",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 33.990760382834026,
+    "longitude": -81.27907361305395,
+    "phone": "(555) 198-6278",
+    "website": "https://www.action-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Philadelphia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-14",
+    "business_name": "Corner Pub & Pool",
+    "slug": "corner-pub-pool-allentown-pennsylvania",
+    "street_address": "6690 Main St",
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 40.22031348534807,
+    "longitude": -96.88194180556393,
+    "phone": "(555) 768-1502",
+    "website": "https://www.corner-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Allentown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-15",
+    "business_name": "Q Pub & Pool",
+    "slug": "q-pub-pool-erie-pennsylvania",
+    "street_address": "143 Main St",
+    "city": "Erie",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 34.5633469088606,
+    "longitude": -86.75904754450147,
+    "phone": "(555) 924-4960",
+    "website": "https://www.q-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Erie.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-16",
+    "business_name": "Chalk Bar & Billiards",
+    "slug": "chalk-bar-billiards-pittsburgh-pennsylvania",
+    "street_address": "524 Main St",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 35.63811628174265,
+    "longitude": -78.55236106404382,
+    "phone": "(555) 918-4502",
+    "website": "https://www.chalk-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Pittsburgh.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-17",
+    "business_name": "Pocket Pool Hall",
+    "slug": "pocket-pool-hall-allentown-pennsylvania",
+    "street_address": "6944 Main St",
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 30.886129119963726,
+    "longitude": -81.48537798397106,
+    "phone": "(555) 792-1805",
+    "website": "https://www.pocket-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Allentown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-18",
+    "business_name": "Action Billiards",
+    "slug": "action-billiards-reading-pennsylvania",
+    "street_address": "5158 Main St",
+    "city": "Reading",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 32.94295687525252,
+    "longitude": -109.65468742070053,
+    "phone": "(555) 771-3288",
+    "website": "https://www.action-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Reading.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-pennsylvania-1777480707864-19",
+    "business_name": "Shooters Bar & Billiards",
+    "slug": "shooters-bar-billiards-allentown-pennsylvania",
+    "street_address": "3957 Main St",
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "zip": "00000",
+    "latitude": 42.059184996930654,
+    "longitude": -104.47821237423304,
+    "phone": "(555) 947-8804",
+    "website": "https://www.shooters-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Allentown.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

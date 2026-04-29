@@ -207,5 +207,848 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-0",
+    "business_name": "Nine Ball Sports Bar",
+    "slug": "nine-ball-sports-bar-sioux-city-iowa",
+    "street_address": "1223 Main St",
+    "city": "Sioux City",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 43.913950261012424,
+    "longitude": -90.56301842592353,
+    "phone": "(555) 405-2630",
+    "website": "https://www.nine-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sioux City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-1",
+    "business_name": "Felt Billiards",
+    "slug": "felt-billiards-iowa-city-iowa",
+    "street_address": "6634 Main St",
+    "city": "Iowa City",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 32.428727983971285,
+    "longitude": -117.18532663962716,
+    "phone": "(555) 890-9550",
+    "website": "https://www.felt-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Iowa City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-2",
+    "business_name": "Rack Lounge",
+    "slug": "rack-lounge-des-moines-iowa",
+    "street_address": "5198 Main St",
+    "city": "Des Moines",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 44.84848761643168,
+    "longitude": -76.55208925756621,
+    "phone": "(555) 909-3968",
+    "website": "https://www.rack-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Des Moines.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-3",
+    "business_name": "Eight Ball Sports Bar",
+    "slug": "eight-ball-sports-bar-iowa-city-iowa",
+    "street_address": "4376 Main St",
+    "city": "Iowa City",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 33.54010649751563,
+    "longitude": -107.23501549894299,
+    "phone": "(555) 865-4075",
+    "website": "https://www.eight-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Iowa City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-4",
+    "business_name": "Eight Ball Billiards",
+    "slug": "eight-ball-billiards-des-moines-iowa",
+    "street_address": "5927 Main St",
+    "city": "Des Moines",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 40.42781437678775,
+    "longitude": -95.94516550785589,
+    "phone": "(555) 721-1137",
+    "website": "https://www.eight-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Des Moines.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-5",
+    "business_name": "Shooters Pub & Pool",
+    "slug": "shooters-pub-pool-davenport-iowa",
+    "street_address": "5007 Main St",
+    "city": "Davenport",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 42.646435973623255,
+    "longitude": -116.28442790440303,
+    "phone": "(555) 561-9326",
+    "website": "https://www.shooters-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Davenport.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-6",
+    "business_name": "Nine Ball Bar & Billiards",
+    "slug": "nine-ball-bar-billiards-cedar-rapids-iowa",
+    "street_address": "7503 Main St",
+    "city": "Cedar Rapids",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 33.069402897614744,
+    "longitude": -83.20751904387171,
+    "phone": "(555) 318-6043",
+    "website": "https://www.nine-ball-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cedar Rapids.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-7",
+    "business_name": "Felt Sports Bar",
+    "slug": "felt-sports-bar-iowa-city-iowa",
+    "street_address": "2739 Main St",
+    "city": "Iowa City",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 33.005094818590706,
+    "longitude": -108.82513428505922,
+    "phone": "(555) 987-1613",
+    "website": "https://www.felt-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Iowa City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-8",
+    "business_name": "Q Pool Hall",
+    "slug": "q-pool-hall-davenport-iowa",
+    "street_address": "3705 Main St",
+    "city": "Davenport",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 42.00162200350549,
+    "longitude": -87.8705513738512,
+    "phone": "(555) 684-8474",
+    "website": "https://www.q-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Davenport.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-9",
+    "business_name": "Diamond Club",
+    "slug": "diamond-club-cedar-rapids-iowa",
+    "street_address": "6996 Main St",
+    "city": "Cedar Rapids",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 33.36729686818872,
+    "longitude": -117.85746256508304,
+    "phone": "(555) 449-2503",
+    "website": "https://www.diamond-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cedar Rapids.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-10",
+    "business_name": "Nine Ball Bar & Billiards",
+    "slug": "nine-ball-bar-billiards-cedar-rapids-iowa",
+    "street_address": "169 Main St",
+    "city": "Cedar Rapids",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 38.06627423353669,
+    "longitude": -92.60352876141525,
+    "phone": "(555) 251-8077",
+    "website": "https://www.nine-ball-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cedar Rapids.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-11",
+    "business_name": "Rack Pub & Pool",
+    "slug": "rack-pub-pool-iowa-city-iowa",
+    "street_address": "4686 Main St",
+    "city": "Iowa City",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 42.18147354253749,
+    "longitude": -80.73045183901117,
+    "phone": "(555) 110-3848",
+    "website": "https://www.rack-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Iowa City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-12",
+    "business_name": "Action Sports Bar",
+    "slug": "action-sports-bar-sioux-city-iowa",
+    "street_address": "4541 Main St",
+    "city": "Sioux City",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 36.95447690976547,
+    "longitude": -91.87813810364774,
+    "phone": "(555) 920-5431",
+    "website": "https://www.action-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sioux City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-13",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-cedar-rapids-iowa",
+    "street_address": "7730 Main St",
+    "city": "Cedar Rapids",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 38.63716318281509,
+    "longitude": -92.17977084335942,
+    "phone": "(555) 346-2722",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cedar Rapids.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-14",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-sioux-city-iowa",
+    "street_address": "656 Main St",
+    "city": "Sioux City",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 42.0685512401295,
+    "longitude": -107.56890001838309,
+    "phone": "(555) 292-1308",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sioux City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-15",
+    "business_name": "Felt Pub & Pool",
+    "slug": "felt-pub-pool-des-moines-iowa",
+    "street_address": "7849 Main St",
+    "city": "Des Moines",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 39.5017377973979,
+    "longitude": -80.38146551544133,
+    "phone": "(555) 675-4699",
+    "website": "https://www.felt-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Des Moines.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-16",
+    "business_name": "Shooters Billiard Room",
+    "slug": "shooters-billiard-room-cedar-rapids-iowa",
+    "street_address": "4669 Main St",
+    "city": "Cedar Rapids",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 42.91019756394682,
+    "longitude": -84.31490586139641,
+    "phone": "(555) 809-1203",
+    "website": "https://www.shooters-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cedar Rapids.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-17",
+    "business_name": "Cue Billiard Room",
+    "slug": "cue-billiard-room-davenport-iowa",
+    "street_address": "302 Main St",
+    "city": "Davenport",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 44.91065017762128,
+    "longitude": -95.07196335336094,
+    "phone": "(555) 797-7099",
+    "website": "https://www.cue-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Davenport.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-18",
+    "business_name": "Chalk Pub & Pool",
+    "slug": "chalk-pub-pool-cedar-rapids-iowa",
+    "street_address": "3754 Main St",
+    "city": "Cedar Rapids",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 36.92805303798643,
+    "longitude": -83.77287300410606,
+    "phone": "(555) 830-1312",
+    "website": "https://www.chalk-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Cedar Rapids.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-iowa-1777480707849-19",
+    "business_name": "Felt Pub & Pool",
+    "slug": "felt-pub-pool-iowa-city-iowa",
+    "street_address": "7997 Main St",
+    "city": "Iowa City",
+    "state": "Iowa",
+    "zip": "00000",
+    "latitude": 33.78371194847573,
+    "longitude": -103.84622817194348,
+    "phone": "(555) 215-5018",
+    "website": "https://www.felt-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Iowa City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

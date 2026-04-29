@@ -154,5 +154,837 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-0",
+    "business_name": "Pocket Lounge",
+    "slug": "pocket-lounge-bangor-maine",
+    "street_address": "1725 Main St",
+    "city": "Bangor",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 38.17358931410734,
+    "longitude": -95.56452567076047,
+    "phone": "(555) 453-7098",
+    "website": "https://www.pocket-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bangor.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-1",
+    "business_name": "Diamond Sports Bar",
+    "slug": "diamond-sports-bar-lewiston-maine",
+    "street_address": "8344 Main St",
+    "city": "Lewiston",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 44.01827943264744,
+    "longitude": -106.33913737292022,
+    "phone": "(555) 119-1594",
+    "website": "https://www.diamond-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lewiston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-2",
+    "business_name": "Cue Pub & Pool",
+    "slug": "cue-pub-pool-auburn-maine",
+    "street_address": "5303 Main St",
+    "city": "Auburn",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 34.36762641270132,
+    "longitude": -80.62767280540699,
+    "phone": "(555) 344-5951",
+    "website": "https://www.cue-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Auburn.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-3",
+    "business_name": "Corner Club",
+    "slug": "corner-club-south-portland-maine",
+    "street_address": "8542 Main St",
+    "city": "South Portland",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 32.495769566340485,
+    "longitude": -97.84142642751974,
+    "phone": "(555) 263-7885",
+    "website": "https://www.corner-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in South Portland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-4",
+    "business_name": "Break Lounge",
+    "slug": "break-lounge-south-portland-maine",
+    "street_address": "1675 Main St",
+    "city": "South Portland",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 40.67807513486409,
+    "longitude": -111.40758623065219,
+    "phone": "(555) 679-5319",
+    "website": "https://www.break-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in South Portland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-5",
+    "business_name": "Nine Ball Billiard Room",
+    "slug": "nine-ball-billiard-room-lewiston-maine",
+    "street_address": "1620 Main St",
+    "city": "Lewiston",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 39.23859324395061,
+    "longitude": -101.70808366629204,
+    "phone": "(555) 231-4240",
+    "website": "https://www.nine-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lewiston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-6",
+    "business_name": "Billiard Lounge",
+    "slug": "billiard-lounge-bangor-maine",
+    "street_address": "391 Main St",
+    "city": "Bangor",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 30.260855675412035,
+    "longitude": -88.72377370125261,
+    "phone": "(555) 132-4353",
+    "website": "https://www.billiard-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bangor.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-7",
+    "business_name": "Break Club",
+    "slug": "break-club-bangor-maine",
+    "street_address": "2230 Main St",
+    "city": "Bangor",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 34.21793079589902,
+    "longitude": -113.76302368925967,
+    "phone": "(555) 922-7851",
+    "website": "https://www.break-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bangor.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-8",
+    "business_name": "Action Lounge",
+    "slug": "action-lounge-portland-maine",
+    "street_address": "4465 Main St",
+    "city": "Portland",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 33.180560393628895,
+    "longitude": -119.66423710938687,
+    "phone": "(555) 186-3960",
+    "website": "https://www.action-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Portland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-9",
+    "business_name": "Nine Ball Pool Hall",
+    "slug": "nine-ball-pool-hall-lewiston-maine",
+    "street_address": "7797 Main St",
+    "city": "Lewiston",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 44.12088836483112,
+    "longitude": -106.80337337026681,
+    "phone": "(555) 209-7573",
+    "website": "https://www.nine-ball-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lewiston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-10",
+    "business_name": "Pocket Billiard Room",
+    "slug": "pocket-billiard-room-bangor-maine",
+    "street_address": "2806 Main St",
+    "city": "Bangor",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 32.10951798590563,
+    "longitude": -110.7196392622425,
+    "phone": "(555) 249-8324",
+    "website": "https://www.pocket-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bangor.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-11",
+    "business_name": "Felt Club",
+    "slug": "felt-club-bangor-maine",
+    "street_address": "8222 Main St",
+    "city": "Bangor",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 36.33215648451309,
+    "longitude": -81.32946915054436,
+    "phone": "(555) 211-5596",
+    "website": "https://www.felt-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bangor.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-12",
+    "business_name": "Nine Ball Pool Hall",
+    "slug": "nine-ball-pool-hall-lewiston-maine",
+    "street_address": "5831 Main St",
+    "city": "Lewiston",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 37.4363773919039,
+    "longitude": -82.3256246478415,
+    "phone": "(555) 947-7720",
+    "website": "https://www.nine-ball-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lewiston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-13",
+    "business_name": "Chalk Sports Bar",
+    "slug": "chalk-sports-bar-lewiston-maine",
+    "street_address": "5574 Main St",
+    "city": "Lewiston",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 32.02092647404159,
+    "longitude": -91.01949112594826,
+    "phone": "(555) 895-7140",
+    "website": "https://www.chalk-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lewiston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-14",
+    "business_name": "Q Club",
+    "slug": "q-club-portland-maine",
+    "street_address": "4251 Main St",
+    "city": "Portland",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 30.488318172552034,
+    "longitude": -83.9829753059378,
+    "phone": "(555) 875-1857",
+    "website": "https://www.q-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Portland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-15",
+    "business_name": "Pocket Pub & Pool",
+    "slug": "pocket-pub-pool-auburn-maine",
+    "street_address": "7656 Main St",
+    "city": "Auburn",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 40.6028395174403,
+    "longitude": -102.02445957497204,
+    "phone": "(555) 550-8845",
+    "website": "https://www.pocket-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Auburn.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-16",
+    "business_name": "Eight Ball Sports Bar",
+    "slug": "eight-ball-sports-bar-south-portland-maine",
+    "street_address": "6559 Main St",
+    "city": "South Portland",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 33.832553832532014,
+    "longitude": -84.58931357645062,
+    "phone": "(555) 736-4871",
+    "website": "https://www.eight-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in South Portland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-17",
+    "business_name": "Cue Lounge",
+    "slug": "cue-lounge-portland-maine",
+    "street_address": "4953 Main St",
+    "city": "Portland",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 41.746957812597955,
+    "longitude": -102.36427069869536,
+    "phone": "(555) 447-2388",
+    "website": "https://www.cue-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Portland.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-18",
+    "business_name": "Nine Ball Sports Bar",
+    "slug": "nine-ball-sports-bar-lewiston-maine",
+    "street_address": "1309 Main St",
+    "city": "Lewiston",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 32.410242003753865,
+    "longitude": -91.13572693959185,
+    "phone": "(555) 620-2813",
+    "website": "https://www.nine-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lewiston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-maine-1777480707852-19",
+    "business_name": "Q Pool Hall",
+    "slug": "q-pool-hall-bangor-maine",
+    "street_address": "4951 Main St",
+    "city": "Bangor",
+    "state": "Maine",
+    "zip": "00000",
+    "latitude": 42.875519673345565,
+    "longitude": -118.27736780905357,
+    "phone": "(555) 647-3849",
+    "website": "https://www.q-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Bangor.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

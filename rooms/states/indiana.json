@@ -313,5 +313,844 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-0",
+    "business_name": "Break Sports Bar",
+    "slug": "break-sports-bar-evansville-indiana",
+    "street_address": "2752 Main St",
+    "city": "Evansville",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 33.29157395304853,
+    "longitude": -85.93684668081141,
+    "phone": "(555) 149-5229",
+    "website": "https://www.break-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Evansville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-1",
+    "business_name": "Break Pool Hall",
+    "slug": "break-pool-hall-carmel-indiana",
+    "street_address": "3475 Main St",
+    "city": "Carmel",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 40.88537309392137,
+    "longitude": -90.61498824130496,
+    "phone": "(555) 385-1848",
+    "website": "https://www.break-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Carmel.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-2",
+    "business_name": "Billiard Lounge",
+    "slug": "billiard-lounge-south-bend-indiana",
+    "street_address": "5635 Main St",
+    "city": "South Bend",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 39.84027508069108,
+    "longitude": -76.47889042281423,
+    "phone": "(555) 715-7029",
+    "website": "https://www.billiard-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in South Bend.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-3",
+    "business_name": "Shooters Club",
+    "slug": "shooters-club-fort-wayne-indiana",
+    "street_address": "6157 Main St",
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 43.35588016428249,
+    "longitude": -118.08059915941297,
+    "phone": "(555) 393-6216",
+    "website": "https://www.shooters-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fort Wayne.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-4",
+    "business_name": "Shooters Sports Bar",
+    "slug": "shooters-sports-bar-indianapolis-indiana",
+    "street_address": "4295 Main St",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 40.24091653400638,
+    "longitude": -75.90436750943877,
+    "phone": "(555) 125-7538",
+    "website": "https://www.shooters-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Indianapolis.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-5",
+    "business_name": "Eight Ball Bar & Billiards",
+    "slug": "eight-ball-bar-billiards-indianapolis-indiana",
+    "street_address": "2791 Main St",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 43.751657591933906,
+    "longitude": -100.58460492527641,
+    "phone": "(555) 393-3174",
+    "website": "https://www.eight-ball-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Indianapolis.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-6",
+    "business_name": "Chalk Pub & Pool",
+    "slug": "chalk-pub-pool-carmel-indiana",
+    "street_address": "1424 Main St",
+    "city": "Carmel",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 30.0171579840259,
+    "longitude": -109.6690729725551,
+    "phone": "(555) 967-6262",
+    "website": "https://www.chalk-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Carmel.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-7",
+    "business_name": "Pocket Pool Hall",
+    "slug": "pocket-pool-hall-fort-wayne-indiana",
+    "street_address": "6366 Main St",
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 42.13213326880211,
+    "longitude": -106.51972845363382,
+    "phone": "(555) 223-9654",
+    "website": "https://www.pocket-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fort Wayne.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-8",
+    "business_name": "Pocket Sports Bar",
+    "slug": "pocket-sports-bar-indianapolis-indiana",
+    "street_address": "1528 Main St",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 39.918295967041324,
+    "longitude": -99.4652748366421,
+    "phone": "(555) 276-6705",
+    "website": "https://www.pocket-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Indianapolis.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-9",
+    "business_name": "Pocket Billiard Room",
+    "slug": "pocket-billiard-room-fort-wayne-indiana",
+    "street_address": "316 Main St",
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 34.115911763001975,
+    "longitude": -110.62983768951554,
+    "phone": "(555) 586-9388",
+    "website": "https://www.pocket-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fort Wayne.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-10",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-fort-wayne-indiana",
+    "street_address": "1482 Main St",
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 40.79680212292979,
+    "longitude": -82.04681720364133,
+    "phone": "(555) 569-9993",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fort Wayne.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-11",
+    "business_name": "Eight Ball Pub & Pool",
+    "slug": "eight-ball-pub-pool-evansville-indiana",
+    "street_address": "5289 Main St",
+    "city": "Evansville",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 44.96356569111142,
+    "longitude": -77.91509294695986,
+    "phone": "(555) 310-7724",
+    "website": "https://www.eight-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Evansville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-12",
+    "business_name": "Billiard Pool Hall",
+    "slug": "billiard-pool-hall-carmel-indiana",
+    "street_address": "2412 Main St",
+    "city": "Carmel",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 43.869431548204986,
+    "longitude": -109.85730171335642,
+    "phone": "(555) 720-8711",
+    "website": "https://www.billiard-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Carmel.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-13",
+    "business_name": "Rack Pub & Pool",
+    "slug": "rack-pub-pool-indianapolis-indiana",
+    "street_address": "4515 Main St",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 42.955067443663,
+    "longitude": -101.19401350623193,
+    "phone": "(555) 339-9131",
+    "website": "https://www.rack-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Indianapolis.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-14",
+    "business_name": "Action Sports Bar",
+    "slug": "action-sports-bar-indianapolis-indiana",
+    "street_address": "795 Main St",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 44.05323735847703,
+    "longitude": -94.86949051662636,
+    "phone": "(555) 406-2998",
+    "website": "https://www.action-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Indianapolis.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-15",
+    "business_name": "Q Pool Hall",
+    "slug": "q-pool-hall-evansville-indiana",
+    "street_address": "7710 Main St",
+    "city": "Evansville",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 33.47725427021142,
+    "longitude": -83.95372400096542,
+    "phone": "(555) 155-5990",
+    "website": "https://www.q-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Evansville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-16",
+    "business_name": "Rack Sports Bar",
+    "slug": "rack-sports-bar-carmel-indiana",
+    "street_address": "499 Main St",
+    "city": "Carmel",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 43.57439581353881,
+    "longitude": -85.30914624165268,
+    "phone": "(555) 831-3826",
+    "website": "https://www.rack-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Carmel.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-17",
+    "business_name": "Action Bar & Billiards",
+    "slug": "action-bar-billiards-fort-wayne-indiana",
+    "street_address": "5044 Main St",
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 30.642978467667554,
+    "longitude": -85.42615047323267,
+    "phone": "(555) 319-3743",
+    "website": "https://www.action-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Fort Wayne.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-18",
+    "business_name": "Shooters Billiard Room",
+    "slug": "shooters-billiard-room-evansville-indiana",
+    "street_address": "2730 Main St",
+    "city": "Evansville",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 42.45260558307569,
+    "longitude": -88.15478802703186,
+    "phone": "(555) 104-7268",
+    "website": "https://www.shooters-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Evansville.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-indiana-1777480707849-19",
+    "business_name": "Rack Pool Hall",
+    "slug": "rack-pool-hall-south-bend-indiana",
+    "street_address": "2779 Main St",
+    "city": "South Bend",
+    "state": "Indiana",
+    "zip": "00000",
+    "latitude": 35.6112478425373,
+    "longitude": -80.64826746561378,
+    "phone": "(555) 655-8951",
+    "website": "https://www.rack-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in South Bend.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

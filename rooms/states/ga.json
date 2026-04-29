@@ -79,5 +79,34 @@
     "photo_gallery": [],
     "primary_hero_image": "/images/hero-table.jpg",
     "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-bar-11500327580",
+    "business_name": "Big Shots Billiards",
+    "slug": "big-shots-billiards-woodstock-ga",
+    "street_address": "101 Emma Lane",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30189",
+    "latitude": 34.087192,
+    "longitude": -84.5478404,
+    "phone": "",
+    "website": "",
+    "table_count": 1,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap_BarBox"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {
+      "bar_tables": 1
+    },
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Local bar or pub mapped with pool tables via OpenStreetMap."
   }
 ]

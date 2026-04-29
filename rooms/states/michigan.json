@@ -207,5 +207,838 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-0",
+    "business_name": "Billiard Pool Hall",
+    "slug": "billiard-pool-hall-ann-arbor-michigan",
+    "street_address": "1810 Main St",
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 35.822560453921,
+    "longitude": -111.13520023873312,
+    "phone": "(555) 999-8395",
+    "website": "https://www.billiard-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Ann Arbor.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-1",
+    "business_name": "Shooters Pool Hall",
+    "slug": "shooters-pool-hall-warren-michigan",
+    "street_address": "4486 Main St",
+    "city": "Warren",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 34.88467420580321,
+    "longitude": -80.00483259734263,
+    "phone": "(555) 607-9660",
+    "website": "https://www.shooters-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Warren.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-2",
+    "business_name": "Break Billiard Room",
+    "slug": "break-billiard-room-ann-arbor-michigan",
+    "street_address": "1363 Main St",
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 36.06098868479914,
+    "longitude": -96.92847353189413,
+    "phone": "(555) 999-6827",
+    "website": "https://www.break-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Ann Arbor.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-3",
+    "business_name": "Chalk Billiards",
+    "slug": "chalk-billiards-sterling-heights-michigan",
+    "street_address": "5026 Main St",
+    "city": "Sterling Heights",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 30.53869515871594,
+    "longitude": -82.45567816882165,
+    "phone": "(555) 633-9381",
+    "website": "https://www.chalk-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sterling Heights.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-4",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-detroit-michigan",
+    "street_address": "6781 Main St",
+    "city": "Detroit",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 38.22581515211684,
+    "longitude": -117.3829155307048,
+    "phone": "(555) 935-7605",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Detroit.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-5",
+    "business_name": "Q Pub & Pool",
+    "slug": "q-pub-pool-warren-michigan",
+    "street_address": "3167 Main St",
+    "city": "Warren",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 40.284626981311796,
+    "longitude": -116.85843607654601,
+    "phone": "(555) 957-7411",
+    "website": "https://www.q-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Warren.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-6",
+    "business_name": "Chalk Lounge",
+    "slug": "chalk-lounge-warren-michigan",
+    "street_address": "2522 Main St",
+    "city": "Warren",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 39.02672974559552,
+    "longitude": -88.42125495571568,
+    "phone": "(555) 595-5925",
+    "website": "https://www.chalk-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Warren.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-7",
+    "business_name": "Shooters Bar & Billiards",
+    "slug": "shooters-bar-billiards-detroit-michigan",
+    "street_address": "1922 Main St",
+    "city": "Detroit",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 44.52082748685968,
+    "longitude": -106.15537168859738,
+    "phone": "(555) 449-6313",
+    "website": "https://www.shooters-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Detroit.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-8",
+    "business_name": "Eight Ball Sports Bar",
+    "slug": "eight-ball-sports-bar-sterling-heights-michigan",
+    "street_address": "9013 Main St",
+    "city": "Sterling Heights",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 43.18325179434716,
+    "longitude": -99.15879376250807,
+    "phone": "(555) 245-5086",
+    "website": "https://www.eight-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Sterling Heights.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-9",
+    "business_name": "Shooters Billiards",
+    "slug": "shooters-billiards-grand-rapids-michigan",
+    "street_address": "8072 Main St",
+    "city": "Grand Rapids",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 41.52709969006219,
+    "longitude": -108.41641048015781,
+    "phone": "(555) 319-5605",
+    "website": "https://www.shooters-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Grand Rapids.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-10",
+    "business_name": "Break Club",
+    "slug": "break-club-detroit-michigan",
+    "street_address": "3293 Main St",
+    "city": "Detroit",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 44.36418500253943,
+    "longitude": -108.48704988140645,
+    "phone": "(555) 807-1733",
+    "website": "https://www.break-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Detroit.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-11",
+    "business_name": "Pocket Billiard Room",
+    "slug": "pocket-billiard-room-warren-michigan",
+    "street_address": "3000 Main St",
+    "city": "Warren",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 43.74275966448356,
+    "longitude": -116.5835829450104,
+    "phone": "(555) 526-4432",
+    "website": "https://www.pocket-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Warren.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-12",
+    "business_name": "Pocket Billiards",
+    "slug": "pocket-billiards-detroit-michigan",
+    "street_address": "6901 Main St",
+    "city": "Detroit",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 39.657087881857905,
+    "longitude": -90.16938838334022,
+    "phone": "(555) 618-1437",
+    "website": "https://www.pocket-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Detroit.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-13",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-detroit-michigan",
+    "street_address": "1163 Main St",
+    "city": "Detroit",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 31.332398281652157,
+    "longitude": -118.47378969303769,
+    "phone": "(555) 127-4839",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Detroit.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-14",
+    "business_name": "Shooters Bar & Billiards",
+    "slug": "shooters-bar-billiards-warren-michigan",
+    "street_address": "5274 Main St",
+    "city": "Warren",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 44.40127594804636,
+    "longitude": -98.8232411532613,
+    "phone": "(555) 426-3896",
+    "website": "https://www.shooters-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Warren.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-15",
+    "business_name": "Corner Billiards",
+    "slug": "corner-billiards-grand-rapids-michigan",
+    "street_address": "3441 Main St",
+    "city": "Grand Rapids",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 44.32121979169898,
+    "longitude": -100.50719860597756,
+    "phone": "(555) 282-5610",
+    "website": "https://www.corner-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Grand Rapids.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-16",
+    "business_name": "Eight Ball Pub & Pool",
+    "slug": "eight-ball-pub-pool-ann-arbor-michigan",
+    "street_address": "8609 Main St",
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 37.03086002019263,
+    "longitude": -100.9925828587389,
+    "phone": "(555) 189-7991",
+    "website": "https://www.eight-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Ann Arbor.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-17",
+    "business_name": "Rack Lounge",
+    "slug": "rack-lounge-ann-arbor-michigan",
+    "street_address": "589 Main St",
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 43.52331194996816,
+    "longitude": -116.34565935970127,
+    "phone": "(555) 177-4688",
+    "website": "https://www.rack-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Ann Arbor.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-18",
+    "business_name": "Corner Pub & Pool",
+    "slug": "corner-pub-pool-grand-rapids-michigan",
+    "street_address": "114 Main St",
+    "city": "Grand Rapids",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 44.12537950599008,
+    "longitude": -111.26210569362739,
+    "phone": "(555) 401-2756",
+    "website": "https://www.corner-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Grand Rapids.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-michigan-1777480707853-19",
+    "business_name": "Chalk Billiard Room",
+    "slug": "chalk-billiard-room-ann-arbor-michigan",
+    "street_address": "8136 Main St",
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "zip": "00000",
+    "latitude": 35.29603919420849,
+    "longitude": -82.86308245493251,
+    "phone": "(555) 886-8194",
+    "website": "https://www.chalk-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Ann Arbor.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

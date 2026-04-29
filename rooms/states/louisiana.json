@@ -152,5 +152,836 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-0",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-shreveport-louisiana",
+    "street_address": "6134 Main St",
+    "city": "Shreveport",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 42.715063664238954,
+    "longitude": -109.79065542955688,
+    "phone": "(555) 248-5561",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Shreveport.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-1",
+    "business_name": "Chalk Bar & Billiards",
+    "slug": "chalk-bar-billiards-baton-rouge-louisiana",
+    "street_address": "851 Main St",
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 36.098181267205575,
+    "longitude": -79.7557177441733,
+    "phone": "(555) 686-7085",
+    "website": "https://www.chalk-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Baton Rouge.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-2",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-shreveport-louisiana",
+    "street_address": "1661 Main St",
+    "city": "Shreveport",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 33.05517563219552,
+    "longitude": -77.90900651445601,
+    "phone": "(555) 622-8136",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Shreveport.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-3",
+    "business_name": "Nine Ball Lounge",
+    "slug": "nine-ball-lounge-baton-rouge-louisiana",
+    "street_address": "6281 Main St",
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 35.411204939614684,
+    "longitude": -88.60137201161308,
+    "phone": "(555) 628-1626",
+    "website": "https://www.nine-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Baton Rouge.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-4",
+    "business_name": "Eight Ball Club",
+    "slug": "eight-ball-club-shreveport-louisiana",
+    "street_address": "1573 Main St",
+    "city": "Shreveport",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 44.82965626909093,
+    "longitude": -111.50918036039788,
+    "phone": "(555) 662-8021",
+    "website": "https://www.eight-ball-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Shreveport.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-5",
+    "business_name": "Rack Pool Hall",
+    "slug": "rack-pool-hall-new-orleans-louisiana",
+    "street_address": "7014 Main St",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 40.83632614464872,
+    "longitude": -75.02119792463174,
+    "phone": "(555) 381-1030",
+    "website": "https://www.rack-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in New Orleans.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-6",
+    "business_name": "Break Club",
+    "slug": "break-club-new-orleans-louisiana",
+    "street_address": "7610 Main St",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 43.34986828788946,
+    "longitude": -106.14358257115575,
+    "phone": "(555) 550-7382",
+    "website": "https://www.break-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in New Orleans.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-7",
+    "business_name": "Nine Ball Billiard Room",
+    "slug": "nine-ball-billiard-room-lafayette-louisiana",
+    "street_address": "8789 Main St",
+    "city": "Lafayette",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 41.59658738742313,
+    "longitude": -100.68108902419205,
+    "phone": "(555) 582-3781",
+    "website": "https://www.nine-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lafayette.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-8",
+    "business_name": "Nine Ball Lounge",
+    "slug": "nine-ball-lounge-shreveport-louisiana",
+    "street_address": "1925 Main St",
+    "city": "Shreveport",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 41.959767411347386,
+    "longitude": -110.84936282825353,
+    "phone": "(555) 517-2292",
+    "website": "https://www.nine-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Shreveport.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-9",
+    "business_name": "Billiard Billiard Room",
+    "slug": "billiard-billiard-room-lake-charles-louisiana",
+    "street_address": "7690 Main St",
+    "city": "Lake Charles",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 32.366073753814135,
+    "longitude": -93.47161731930775,
+    "phone": "(555) 397-8764",
+    "website": "https://www.billiard-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lake Charles.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-10",
+    "business_name": "Action Billiard Room",
+    "slug": "action-billiard-room-lake-charles-louisiana",
+    "street_address": "7686 Main St",
+    "city": "Lake Charles",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 32.93891334046613,
+    "longitude": -113.03054454568016,
+    "phone": "(555) 175-6378",
+    "website": "https://www.action-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Lake Charles.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-11",
+    "business_name": "Billiard Bar & Billiards",
+    "slug": "billiard-bar-billiards-new-orleans-louisiana",
+    "street_address": "8904 Main St",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 36.01331517000306,
+    "longitude": -75.53214551492417,
+    "phone": "(555) 434-1846",
+    "website": "https://www.billiard-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in New Orleans.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-12",
+    "business_name": "Chalk Bar & Billiards",
+    "slug": "chalk-bar-billiards-shreveport-louisiana",
+    "street_address": "2128 Main St",
+    "city": "Shreveport",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 39.00161477901591,
+    "longitude": -99.90081550279614,
+    "phone": "(555) 615-3429",
+    "website": "https://www.chalk-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Shreveport.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-13",
+    "business_name": "Nine Ball Lounge",
+    "slug": "nine-ball-lounge-baton-rouge-louisiana",
+    "street_address": "6698 Main St",
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 42.61375065187956,
+    "longitude": -80.5588531867546,
+    "phone": "(555) 280-3708",
+    "website": "https://www.nine-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Baton Rouge.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-14",
+    "business_name": "Q Pub & Pool",
+    "slug": "q-pub-pool-new-orleans-louisiana",
+    "street_address": "8008 Main St",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 38.27176937955279,
+    "longitude": -119.02114487361152,
+    "phone": "(555) 633-4602",
+    "website": "https://www.q-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in New Orleans.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-15",
+    "business_name": "Diamond Lounge",
+    "slug": "diamond-lounge-baton-rouge-louisiana",
+    "street_address": "2134 Main St",
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 33.47698458239477,
+    "longitude": -99.72693198568835,
+    "phone": "(555) 700-6022",
+    "website": "https://www.diamond-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Baton Rouge.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-16",
+    "business_name": "Cue Pub & Pool",
+    "slug": "cue-pub-pool-new-orleans-louisiana",
+    "street_address": "6281 Main St",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 39.67454259965224,
+    "longitude": -88.15231772487402,
+    "phone": "(555) 940-9253",
+    "website": "https://www.cue-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in New Orleans.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-17",
+    "business_name": "Q Club",
+    "slug": "q-club-new-orleans-louisiana",
+    "street_address": "2455 Main St",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 43.09079410904843,
+    "longitude": -115.20563675047892,
+    "phone": "(555) 558-9258",
+    "website": "https://www.q-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in New Orleans.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-18",
+    "business_name": "Felt Sports Bar",
+    "slug": "felt-sports-bar-baton-rouge-louisiana",
+    "street_address": "5152 Main St",
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 37.956532475069096,
+    "longitude": -75.71767548355317,
+    "phone": "(555) 571-6092",
+    "website": "https://www.felt-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Baton Rouge.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-louisiana-1777480707851-19",
+    "business_name": "Action Pool Hall",
+    "slug": "action-pool-hall-baton-rouge-louisiana",
+    "street_address": "2747 Main St",
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "zip": "00000",
+    "latitude": 37.2656708427376,
+    "longitude": -93.8410174737987,
+    "phone": "(555) 179-6722",
+    "website": "https://www.action-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Baton Rouge.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

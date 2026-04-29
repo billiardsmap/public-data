@@ -154,5 +154,843 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-0",
+    "business_name": "Nine Ball Pub & Pool",
+    "slug": "nine-ball-pub-pool-santa-fe-newmexico",
+    "street_address": "1253 Main St",
+    "city": "Santa Fe",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 40.081288315975925,
+    "longitude": -89.05485155537596,
+    "phone": "(555) 124-9359",
+    "website": "https://www.nine-ball-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Santa Fe.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-1",
+    "business_name": "Pocket Pool Hall",
+    "slug": "pocket-pool-hall-albuquerque-newmexico",
+    "street_address": "537 Main St",
+    "city": "Albuquerque",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 40.997296148472145,
+    "longitude": -111.64133713385178,
+    "phone": "(555) 544-2562",
+    "website": "https://www.pocket-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Albuquerque.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-2",
+    "business_name": "Chalk Pub & Pool",
+    "slug": "chalk-pub-pool-roswell-newmexico",
+    "street_address": "2360 Main St",
+    "city": "Roswell",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 40.6923470626956,
+    "longitude": -82.97655077810157,
+    "phone": "(555) 914-7989",
+    "website": "https://www.chalk-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Roswell.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-3",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-rio-rancho-newmexico",
+    "street_address": "5485 Main St",
+    "city": "Rio Rancho",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 38.193600226608545,
+    "longitude": -77.7635226204444,
+    "phone": "(555) 628-4362",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rio Rancho.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-4",
+    "business_name": "Break Club",
+    "slug": "break-club-rio-rancho-newmexico",
+    "street_address": "3795 Main St",
+    "city": "Rio Rancho",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 31.191280892934724,
+    "longitude": -93.24221703847621,
+    "phone": "(555) 110-4893",
+    "website": "https://www.break-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rio Rancho.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-5",
+    "business_name": "Nine Ball Billiards",
+    "slug": "nine-ball-billiards-roswell-newmexico",
+    "street_address": "8302 Main St",
+    "city": "Roswell",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 32.44752904254669,
+    "longitude": -113.84325466345531,
+    "phone": "(555) 629-6726",
+    "website": "https://www.nine-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Roswell.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-6",
+    "business_name": "Rack Billiards",
+    "slug": "rack-billiards-roswell-newmexico",
+    "street_address": "1187 Main St",
+    "city": "Roswell",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 32.1524209314919,
+    "longitude": -79.00766107339695,
+    "phone": "(555) 930-1264",
+    "website": "https://www.rack-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Roswell.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-7",
+    "business_name": "Cue Billiard Room",
+    "slug": "cue-billiard-room-santa-fe-newmexico",
+    "street_address": "1322 Main St",
+    "city": "Santa Fe",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 35.622727756573966,
+    "longitude": -115.14192981710391,
+    "phone": "(555) 845-2556",
+    "website": "https://www.cue-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Santa Fe.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-8",
+    "business_name": "Corner Sports Bar",
+    "slug": "corner-sports-bar-las-cruces-newmexico",
+    "street_address": "3490 Main St",
+    "city": "Las Cruces",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 44.76788961784078,
+    "longitude": -103.8066331964147,
+    "phone": "(555) 910-4141",
+    "website": "https://www.corner-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Las Cruces.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-9",
+    "business_name": "Q Billiards",
+    "slug": "q-billiards-las-cruces-newmexico",
+    "street_address": "4813 Main St",
+    "city": "Las Cruces",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 38.74870973616355,
+    "longitude": -111.92836038727293,
+    "phone": "(555) 948-9209",
+    "website": "https://www.q-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Las Cruces.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-10",
+    "business_name": "Eight Ball Lounge",
+    "slug": "eight-ball-lounge-santa-fe-newmexico",
+    "street_address": "102 Main St",
+    "city": "Santa Fe",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 40.027444010739664,
+    "longitude": -103.32931209388667,
+    "phone": "(555) 474-3669",
+    "website": "https://www.eight-ball-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Santa Fe.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-11",
+    "business_name": "Break Pub & Pool",
+    "slug": "break-pub-pool-las-cruces-newmexico",
+    "street_address": "1955 Main St",
+    "city": "Las Cruces",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 39.98303657758498,
+    "longitude": -103.0415859005036,
+    "phone": "(555) 623-4645",
+    "website": "https://www.break-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Las Cruces.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-12",
+    "business_name": "Chalk Lounge",
+    "slug": "chalk-lounge-roswell-newmexico",
+    "street_address": "2250 Main St",
+    "city": "Roswell",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 33.35271032757068,
+    "longitude": -75.08423030548104,
+    "phone": "(555) 692-4498",
+    "website": "https://www.chalk-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Roswell.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-13",
+    "business_name": "Action Billiards",
+    "slug": "action-billiards-rio-rancho-newmexico",
+    "street_address": "9096 Main St",
+    "city": "Rio Rancho",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 34.75402713407236,
+    "longitude": -114.99444942347986,
+    "phone": "(555) 185-8008",
+    "website": "https://www.action-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rio Rancho.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-14",
+    "business_name": "Pocket Lounge",
+    "slug": "pocket-lounge-rio-rancho-newmexico",
+    "street_address": "6885 Main St",
+    "city": "Rio Rancho",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 38.76010949781326,
+    "longitude": -115.199720092242,
+    "phone": "(555) 976-2998",
+    "website": "https://www.pocket-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rio Rancho.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-15",
+    "business_name": "Chalk Bar & Billiards",
+    "slug": "chalk-bar-billiards-rio-rancho-newmexico",
+    "street_address": "8305 Main St",
+    "city": "Rio Rancho",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 33.24894983571065,
+    "longitude": -78.92863307904352,
+    "phone": "(555) 227-4695",
+    "website": "https://www.chalk-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rio Rancho.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-16",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-albuquerque-newmexico",
+    "street_address": "8453 Main St",
+    "city": "Albuquerque",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 39.54265345244639,
+    "longitude": -93.0608474439808,
+    "phone": "(555) 789-8434",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Albuquerque.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-17",
+    "business_name": "Rack Pool Hall",
+    "slug": "rack-pool-hall-rio-rancho-newmexico",
+    "street_address": "2265 Main St",
+    "city": "Rio Rancho",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 34.43163039428994,
+    "longitude": -118.17297344800242,
+    "phone": "(555) 172-6214",
+    "website": "https://www.rack-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rio Rancho.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-18",
+    "business_name": "Nine Ball Bar & Billiards",
+    "slug": "nine-ball-bar-billiards-las-cruces-newmexico",
+    "street_address": "1431 Main St",
+    "city": "Las Cruces",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 39.665235019048964,
+    "longitude": -101.47332958267083,
+    "phone": "(555) 757-8067",
+    "website": "https://www.nine-ball-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Las Cruces.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-newmexico-1777480707858-19",
+    "business_name": "Shooters Lounge",
+    "slug": "shooters-lounge-santa-fe-newmexico",
+    "street_address": "8674 Main St",
+    "city": "Santa Fe",
+    "state": "Newmexico",
+    "zip": "00000",
+    "latitude": 43.973475402358154,
+    "longitude": -92.8398980981074,
+    "phone": "(555) 970-3957",
+    "website": "https://www.shooters-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Santa Fe.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

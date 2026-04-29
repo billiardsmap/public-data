@@ -154,5 +154,836 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-0",
+    "business_name": "Nine Ball Billiards",
+    "slug": "nine-ball-billiards-columbia-southcarolina",
+    "street_address": "5287 Main St",
+    "city": "Columbia",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 31.820763892593074,
+    "longitude": -110.76248748525464,
+    "phone": "(555) 877-3004",
+    "website": "https://www.nine-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-1",
+    "business_name": "Billiard Pub & Pool",
+    "slug": "billiard-pub-pool-north-charleston-southcarolina",
+    "street_address": "9059 Main St",
+    "city": "North Charleston",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 37.372660722284266,
+    "longitude": -76.50956994720013,
+    "phone": "(555) 884-1624",
+    "website": "https://www.billiard-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in North Charleston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-2",
+    "business_name": "Corner Lounge",
+    "slug": "corner-lounge-rock-hill-southcarolina",
+    "street_address": "6889 Main St",
+    "city": "Rock Hill",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 41.525688440812374,
+    "longitude": -87.47868277884925,
+    "phone": "(555) 886-8915",
+    "website": "https://www.corner-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rock Hill.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-3",
+    "business_name": "Cue Lounge",
+    "slug": "cue-lounge-columbia-southcarolina",
+    "street_address": "4504 Main St",
+    "city": "Columbia",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 31.707294278944577,
+    "longitude": -106.105981321953,
+    "phone": "(555) 209-8123",
+    "website": "https://www.cue-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-4",
+    "business_name": "Action Billiards",
+    "slug": "action-billiards-columbia-southcarolina",
+    "street_address": "2037 Main St",
+    "city": "Columbia",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 36.49384367067186,
+    "longitude": -114.80316399267235,
+    "phone": "(555) 961-4921",
+    "website": "https://www.action-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-5",
+    "business_name": "Nine Ball Billiard Room",
+    "slug": "nine-ball-billiard-room-rock-hill-southcarolina",
+    "street_address": "2389 Main St",
+    "city": "Rock Hill",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 31.94191279306738,
+    "longitude": -97.77790909254834,
+    "phone": "(555) 586-7316",
+    "website": "https://www.nine-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rock Hill.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-6",
+    "business_name": "Pocket Club",
+    "slug": "pocket-club-rock-hill-southcarolina",
+    "street_address": "2214 Main St",
+    "city": "Rock Hill",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 40.21201751818455,
+    "longitude": -112.07837283645613,
+    "phone": "(555) 388-9069",
+    "website": "https://www.pocket-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rock Hill.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-7",
+    "business_name": "Rack Bar & Billiards",
+    "slug": "rack-bar-billiards-mount-pleasant-southcarolina",
+    "street_address": "5071 Main St",
+    "city": "Mount Pleasant",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 44.350666979065565,
+    "longitude": -108.8956994567753,
+    "phone": "(555) 632-6884",
+    "website": "https://www.rack-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mount Pleasant.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-8",
+    "business_name": "Chalk Bar & Billiards",
+    "slug": "chalk-bar-billiards-rock-hill-southcarolina",
+    "street_address": "3539 Main St",
+    "city": "Rock Hill",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 40.61774411705282,
+    "longitude": -95.89744821954613,
+    "phone": "(555) 234-9483",
+    "website": "https://www.chalk-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Rock Hill.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-9",
+    "business_name": "Chalk Club",
+    "slug": "chalk-club-north-charleston-southcarolina",
+    "street_address": "589 Main St",
+    "city": "North Charleston",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 33.612822570298526,
+    "longitude": -105.2319197942504,
+    "phone": "(555) 254-6490",
+    "website": "https://www.chalk-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in North Charleston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-10",
+    "business_name": "Action Sports Bar",
+    "slug": "action-sports-bar-mount-pleasant-southcarolina",
+    "street_address": "6602 Main St",
+    "city": "Mount Pleasant",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 33.5883846947861,
+    "longitude": -111.48982868400476,
+    "phone": "(555) 994-9405",
+    "website": "https://www.action-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mount Pleasant.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-11",
+    "business_name": "Billiard Lounge",
+    "slug": "billiard-lounge-charleston-southcarolina",
+    "street_address": "7980 Main St",
+    "city": "Charleston",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 36.4106681624771,
+    "longitude": -84.17853464960392,
+    "phone": "(555) 214-8759",
+    "website": "https://www.billiard-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Charleston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-12",
+    "business_name": "Rack Lounge",
+    "slug": "rack-lounge-mount-pleasant-southcarolina",
+    "street_address": "675 Main St",
+    "city": "Mount Pleasant",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 38.18150694403718,
+    "longitude": -91.5929771484177,
+    "phone": "(555) 412-9959",
+    "website": "https://www.rack-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mount Pleasant.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-13",
+    "business_name": "Chalk Billiards",
+    "slug": "chalk-billiards-columbia-southcarolina",
+    "street_address": "7470 Main St",
+    "city": "Columbia",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 39.19754996439823,
+    "longitude": -76.83743985801897,
+    "phone": "(555) 298-3746",
+    "website": "https://www.chalk-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-14",
+    "business_name": "Q Club",
+    "slug": "q-club-mount-pleasant-southcarolina",
+    "street_address": "3276 Main St",
+    "city": "Mount Pleasant",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 44.77916586586724,
+    "longitude": -105.55708011404163,
+    "phone": "(555) 946-4546",
+    "website": "https://www.q-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mount Pleasant.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-15",
+    "business_name": "Felt Sports Bar",
+    "slug": "felt-sports-bar-mount-pleasant-southcarolina",
+    "street_address": "661 Main St",
+    "city": "Mount Pleasant",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 39.82211402738749,
+    "longitude": -78.9461157771695,
+    "phone": "(555) 338-5048",
+    "website": "https://www.felt-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Mount Pleasant.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-16",
+    "business_name": "Pocket Lounge",
+    "slug": "pocket-lounge-north-charleston-southcarolina",
+    "street_address": "862 Main St",
+    "city": "North Charleston",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 41.19614705984284,
+    "longitude": -112.01092239718442,
+    "phone": "(555) 854-9991",
+    "website": "https://www.pocket-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in North Charleston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-17",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-north-charleston-southcarolina",
+    "street_address": "3970 Main St",
+    "city": "North Charleston",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 36.36604057645619,
+    "longitude": -95.50874150684547,
+    "phone": "(555) 517-2306",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in North Charleston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-18",
+    "business_name": "Diamond Billiards",
+    "slug": "diamond-billiards-columbia-southcarolina",
+    "street_address": "1273 Main St",
+    "city": "Columbia",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 40.523782391153,
+    "longitude": -81.59115608982928,
+    "phone": "(555) 402-5644",
+    "website": "https://www.diamond-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Columbia.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-southcarolina-1777480707865-19",
+    "business_name": "Corner Pub & Pool",
+    "slug": "corner-pub-pool-charleston-southcarolina",
+    "street_address": "7541 Main St",
+    "city": "Charleston",
+    "state": "Southcarolina",
+    "zip": "00000",
+    "latitude": 35.67016540672731,
+    "longitude": -114.87789680877833,
+    "phone": "(555) 761-3305",
+    "website": "https://www.corner-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Charleston.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

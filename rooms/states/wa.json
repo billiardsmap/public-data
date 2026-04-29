@@ -133,5 +133,34 @@
     "photo_gallery": [],
     "primary_hero_image": "/images/hero-table.jpg",
     "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-bar-13323577005",
+    "business_name": "Earl's on the Ave",
+    "slug": "earl-s-on-the-ave-seattle-wa",
+    "street_address": "4333 University Way Northeast",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98105",
+    "latitude": 47.6608156,
+    "longitude": -122.31331,
+    "phone": "",
+    "website": "",
+    "table_count": 1,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap_BarBox"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {
+      "bar_tables": 1
+    },
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Local bar or pub mapped with pool tables via OpenStreetMap."
   }
 ]

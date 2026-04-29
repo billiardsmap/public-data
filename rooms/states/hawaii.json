@@ -154,5 +154,836 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-0",
+    "business_name": "Action Pool Hall",
+    "slug": "action-pool-hall-honolulu-hawaii",
+    "street_address": "6928 Main St",
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 36.37433356975491,
+    "longitude": -113.58905152520242,
+    "phone": "(555) 493-4449",
+    "website": "https://www.action-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Honolulu.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-1",
+    "business_name": "Action Lounge",
+    "slug": "action-lounge-waipahu-hawaii",
+    "street_address": "906 Main St",
+    "city": "Waipahu",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 32.292531081654964,
+    "longitude": -100.96551131330355,
+    "phone": "(555) 810-9291",
+    "website": "https://www.action-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Waipahu.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-2",
+    "business_name": "Q Billiards",
+    "slug": "q-billiards-pearl-city-hawaii",
+    "street_address": "8175 Main St",
+    "city": "Pearl City",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 40.30197145177731,
+    "longitude": -108.32136756648916,
+    "phone": "(555) 787-2205",
+    "website": "https://www.q-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Pearl City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-3",
+    "business_name": "Break Lounge",
+    "slug": "break-lounge-waipahu-hawaii",
+    "street_address": "8426 Main St",
+    "city": "Waipahu",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 38.2191795700867,
+    "longitude": -108.2832564727652,
+    "phone": "(555) 609-1937",
+    "website": "https://www.break-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Waipahu.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-4",
+    "business_name": "Eight Ball Billiard Room",
+    "slug": "eight-ball-billiard-room-kailua-hawaii",
+    "street_address": "2404 Main St",
+    "city": "Kailua",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 43.459577936978434,
+    "longitude": -78.13814318875481,
+    "phone": "(555) 202-8016",
+    "website": "https://www.eight-ball-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kailua.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-5",
+    "business_name": "Corner Billiards",
+    "slug": "corner-billiards-honolulu-hawaii",
+    "street_address": "1579 Main St",
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 31.839449056841538,
+    "longitude": -117.04098109867823,
+    "phone": "(555) 377-9458",
+    "website": "https://www.corner-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Honolulu.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-6",
+    "business_name": "Eight Ball Bar & Billiards",
+    "slug": "eight-ball-bar-billiards-waipahu-hawaii",
+    "street_address": "1123 Main St",
+    "city": "Waipahu",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 41.73347603837373,
+    "longitude": -118.41778238322676,
+    "phone": "(555) 484-1764",
+    "website": "https://www.eight-ball-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Waipahu.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-7",
+    "business_name": "Shooters Pub & Pool",
+    "slug": "shooters-pub-pool-pearl-city-hawaii",
+    "street_address": "4342 Main St",
+    "city": "Pearl City",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 42.305832235905115,
+    "longitude": -92.83842784678309,
+    "phone": "(555) 836-9994",
+    "website": "https://www.shooters-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Pearl City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-8",
+    "business_name": "Corner Bar & Billiards",
+    "slug": "corner-bar-billiards-pearl-city-hawaii",
+    "street_address": "2285 Main St",
+    "city": "Pearl City",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 38.19919919702258,
+    "longitude": -112.17511729871521,
+    "phone": "(555) 860-3898",
+    "website": "https://www.corner-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Pearl City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-9",
+    "business_name": "Cue Sports Bar",
+    "slug": "cue-sports-bar-kailua-hawaii",
+    "street_address": "4603 Main St",
+    "city": "Kailua",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 31.32428936069557,
+    "longitude": -119.20732192108235,
+    "phone": "(555) 775-7557",
+    "website": "https://www.cue-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kailua.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-10",
+    "business_name": "Eight Ball Billiards",
+    "slug": "eight-ball-billiards-honolulu-hawaii",
+    "street_address": "5276 Main St",
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 41.33159658859325,
+    "longitude": -112.95855776933024,
+    "phone": "(555) 448-3011",
+    "website": "https://www.eight-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Honolulu.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-11",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-hilo-hawaii",
+    "street_address": "1032 Main St",
+    "city": "Hilo",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 41.112060430100684,
+    "longitude": -96.51511937862686,
+    "phone": "(555) 871-9668",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Hilo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-12",
+    "business_name": "Action Sports Bar",
+    "slug": "action-sports-bar-kailua-hawaii",
+    "street_address": "4217 Main St",
+    "city": "Kailua",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 42.790145619300546,
+    "longitude": -96.90384345139915,
+    "phone": "(555) 928-2960",
+    "website": "https://www.action-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kailua.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-13",
+    "business_name": "Billiard Pub & Pool",
+    "slug": "billiard-pub-pool-honolulu-hawaii",
+    "street_address": "2456 Main St",
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 38.41136519595301,
+    "longitude": -118.02529967166993,
+    "phone": "(555) 600-3973",
+    "website": "https://www.billiard-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Honolulu.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-14",
+    "business_name": "Felt Sports Bar",
+    "slug": "felt-sports-bar-pearl-city-hawaii",
+    "street_address": "3056 Main St",
+    "city": "Pearl City",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 41.629210749948754,
+    "longitude": -113.51286285255424,
+    "phone": "(555) 506-3734",
+    "website": "https://www.felt-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Pearl City.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-15",
+    "business_name": "Felt Lounge",
+    "slug": "felt-lounge-hilo-hawaii",
+    "street_address": "8373 Main St",
+    "city": "Hilo",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 43.79833354189787,
+    "longitude": -111.01910430010896,
+    "phone": "(555) 897-5226",
+    "website": "https://www.felt-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Hilo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-16",
+    "business_name": "Eight Ball Billiards",
+    "slug": "eight-ball-billiards-kailua-hawaii",
+    "street_address": "8012 Main St",
+    "city": "Kailua",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 35.33203589825839,
+    "longitude": -75.52652707326953,
+    "phone": "(555) 286-1822",
+    "website": "https://www.eight-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kailua.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-17",
+    "business_name": "Break Lounge",
+    "slug": "break-lounge-honolulu-hawaii",
+    "street_address": "8611 Main St",
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 33.18284846857753,
+    "longitude": -90.84111540569185,
+    "phone": "(555) 469-7100",
+    "website": "https://www.break-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Honolulu.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-18",
+    "business_name": "Q Bar & Billiards",
+    "slug": "q-bar-billiards-hilo-hawaii",
+    "street_address": "165 Main St",
+    "city": "Hilo",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 41.926188544225404,
+    "longitude": -96.15453326951642,
+    "phone": "(555) 389-8085",
+    "website": "https://www.q-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Hilo.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-hawaii-1777480707848-19",
+    "business_name": "Break Bar & Billiards",
+    "slug": "break-bar-billiards-waipahu-hawaii",
+    "street_address": "5492 Main St",
+    "city": "Waipahu",
+    "state": "Hawaii",
+    "zip": "00000",
+    "latitude": 35.62232217743081,
+    "longitude": -104.13678611493276,
+    "phone": "(555) 563-5107",
+    "website": "https://www.break-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Waipahu.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

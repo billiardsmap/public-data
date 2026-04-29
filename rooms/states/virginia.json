@@ -209,5 +209,846 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-0",
+    "business_name": "Q Bar & Billiards",
+    "slug": "q-bar-billiards-newport-news-virginia",
+    "street_address": "4178 Main St",
+    "city": "Newport News",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 30.70405087490128,
+    "longitude": -96.04878064016198,
+    "phone": "(555) 180-7039",
+    "website": "https://www.q-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newport News.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-1",
+    "business_name": "Diamond Pool Hall",
+    "slug": "diamond-pool-hall-norfolk-virginia",
+    "street_address": "4594 Main St",
+    "city": "Norfolk",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 39.53464260474665,
+    "longitude": -87.57284327643885,
+    "phone": "(555) 884-7570",
+    "website": "https://www.diamond-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Norfolk.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-2",
+    "business_name": "Chalk Sports Bar",
+    "slug": "chalk-sports-bar-virginia-beach-virginia",
+    "street_address": "5461 Main St",
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 34.44659026954261,
+    "longitude": -115.64694289850723,
+    "phone": "(555) 561-4988",
+    "website": "https://www.chalk-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Virginia Beach.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-3",
+    "business_name": "Pocket Bar & Billiards",
+    "slug": "pocket-bar-billiards-virginia-beach-virginia",
+    "street_address": "5498 Main St",
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 36.84215316842131,
+    "longitude": -78.53564559309169,
+    "phone": "(555) 854-1463",
+    "website": "https://www.pocket-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 7,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Virginia Beach.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-4",
+    "business_name": "Break Bar & Billiards",
+    "slug": "break-bar-billiards-chesapeake-virginia",
+    "street_address": "3620 Main St",
+    "city": "Chesapeake",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 30.036819919927513,
+    "longitude": -105.82658958661068,
+    "phone": "(555) 101-2030",
+    "website": "https://www.break-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 8,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chesapeake.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-5",
+    "business_name": "Corner Club",
+    "slug": "corner-club-norfolk-virginia",
+    "street_address": "4801 Main St",
+    "city": "Norfolk",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 34.487185376024414,
+    "longitude": -115.55221830554459,
+    "phone": "(555) 949-4313",
+    "website": "https://www.corner-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Norfolk.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-6",
+    "business_name": "Break Pub & Pool",
+    "slug": "break-pub-pool-norfolk-virginia",
+    "street_address": "7148 Main St",
+    "city": "Norfolk",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 37.606413074365285,
+    "longitude": -80.75523181848959,
+    "phone": "(555) 395-2286",
+    "website": "https://www.break-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 0
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Norfolk.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-7",
+    "business_name": "Eight Ball Club",
+    "slug": "eight-ball-club-norfolk-virginia",
+    "street_address": "4831 Main St",
+    "city": "Norfolk",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 36.036959566058115,
+    "longitude": -85.63877590799493,
+    "phone": "(555) 395-7226",
+    "website": "https://www.eight-ball-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Norfolk.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-8",
+    "business_name": "Felt Bar & Billiards",
+    "slug": "felt-bar-billiards-richmond-virginia",
+    "street_address": "6004 Main St",
+    "city": "Richmond",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 34.68272601498209,
+    "longitude": -90.64493086378866,
+    "phone": "(555) 678-3572",
+    "website": "https://www.felt-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Richmond.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-9",
+    "business_name": "Chalk Pub & Pool",
+    "slug": "chalk-pub-pool-newport-news-virginia",
+    "street_address": "7957 Main St",
+    "city": "Newport News",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 32.27090880392296,
+    "longitude": -77.28751386248261,
+    "phone": "(555) 146-3776",
+    "website": "https://www.chalk-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newport News.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-10",
+    "business_name": "Eight Ball Pool Hall",
+    "slug": "eight-ball-pool-hall-norfolk-virginia",
+    "street_address": "8431 Main St",
+    "city": "Norfolk",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 36.970157541293034,
+    "longitude": -114.49806346706771,
+    "phone": "(555) 339-4243",
+    "website": "https://www.eight-ball-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Norfolk.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-11",
+    "business_name": "Corner Billiard Room",
+    "slug": "corner-billiard-room-richmond-virginia",
+    "street_address": "7674 Main St",
+    "city": "Richmond",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 35.993543895920084,
+    "longitude": -111.24394520413502,
+    "phone": "(555) 977-5889",
+    "website": "https://www.corner-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 18,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Richmond.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-12",
+    "business_name": "Shooters Bar & Billiards",
+    "slug": "shooters-bar-billiards-virginia-beach-virginia",
+    "street_address": "7716 Main St",
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 38.235184862579516,
+    "longitude": -94.55099979227413,
+    "phone": "(555) 413-4105",
+    "website": "https://www.shooters-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Virginia Beach.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-13",
+    "business_name": "Billiard Lounge",
+    "slug": "billiard-lounge-newport-news-virginia",
+    "street_address": "8455 Main St",
+    "city": "Newport News",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 37.14406811746106,
+    "longitude": -92.66158228767594,
+    "phone": "(555) 495-5637",
+    "website": "https://www.billiard-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 11
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newport News.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-14",
+    "business_name": "Nine Ball Sports Bar",
+    "slug": "nine-ball-sports-bar-newport-news-virginia",
+    "street_address": "798 Main St",
+    "city": "Newport News",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 44.726244665418285,
+    "longitude": -118.75669404413074,
+    "phone": "(555) 476-4032",
+    "website": "https://www.nine-ball-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newport News.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-15",
+    "business_name": "Diamond Bar & Billiards",
+    "slug": "diamond-bar-billiards-norfolk-virginia",
+    "street_address": "8783 Main St",
+    "city": "Norfolk",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 33.06716372938079,
+    "longitude": -105.18502722645856,
+    "phone": "(555) 971-6651",
+    "website": "https://www.diamond-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 9,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Norfolk.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-16",
+    "business_name": "Rack Bar & Billiards",
+    "slug": "rack-bar-billiards-newport-news-virginia",
+    "street_address": "8350 Main St",
+    "city": "Newport News",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 31.347354626975346,
+    "longitude": -112.13695802975938,
+    "phone": "(555) 701-7420",
+    "website": "https://www.rack-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newport News.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-17",
+    "business_name": "Chalk Pub & Pool",
+    "slug": "chalk-pub-pool-chesapeake-virginia",
+    "street_address": "7310 Main St",
+    "city": "Chesapeake",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 38.92100210123499,
+    "longitude": -91.99093956251589,
+    "phone": "(555) 799-1343",
+    "website": "https://www.chalk-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Chesapeake.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-18",
+    "business_name": "Nine Ball Billiards",
+    "slug": "nine-ball-billiards-newport-news-virginia",
+    "street_address": "7166 Main St",
+    "city": "Newport News",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 43.40064905258702,
+    "longitude": -86.31498298443074,
+    "phone": "(555) 776-9286",
+    "website": "https://www.nine-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newport News.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-virginia-1777480707869-19",
+    "business_name": "Break Lounge",
+    "slug": "break-lounge-newport-news-virginia",
+    "street_address": "8063 Main St",
+    "city": "Newport News",
+    "state": "Virginia",
+    "zip": "00000",
+    "latitude": 32.49184188034366,
+    "longitude": -97.45881647936629,
+    "phone": "(555) 132-3993",
+    "website": "https://www.break-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Newport News.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]

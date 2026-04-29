@@ -157,5 +157,843 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-0",
+    "business_name": "Pocket Bar & Billiards",
+    "slug": "pocket-bar-billiards-milwaukee-wisconsin",
+    "street_address": "4572 Main St",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 44.51777974341678,
+    "longitude": -105.42498426791536,
+    "phone": "(555) 883-8065",
+    "website": "https://www.pocket-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 6,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Milwaukee.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-1",
+    "business_name": "Nine Ball Billiards",
+    "slug": "nine-ball-billiards-kenosha-wisconsin",
+    "street_address": "584 Main St",
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 32.46806293523436,
+    "longitude": -97.35520504564873,
+    "phone": "(555) 561-4363",
+    "website": "https://www.nine-ball-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 2,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kenosha.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-2",
+    "business_name": "Rack Bar & Billiards",
+    "slug": "rack-bar-billiards-milwaukee-wisconsin",
+    "street_address": "2693 Main St",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 40.84993519902802,
+    "longitude": -108.76852360452395,
+    "phone": "(555) 530-5041",
+    "website": "https://www.rack-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 7,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Milwaukee.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-3",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-green-bay-wisconsin",
+    "street_address": "4217 Main St",
+    "city": "Green Bay",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 39.42341473520269,
+    "longitude": -82.94295402401337,
+    "phone": "(555) 803-1403",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Green Bay.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-4",
+    "business_name": "Felt Club",
+    "slug": "felt-club-racine-wisconsin",
+    "street_address": "7636 Main St",
+    "city": "Racine",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 34.21297891205962,
+    "longitude": -85.58868918803255,
+    "phone": "(555) 775-2851",
+    "website": "https://www.felt-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 19,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Racine.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-5",
+    "business_name": "Billiard Billiards",
+    "slug": "billiard-billiards-kenosha-wisconsin",
+    "street_address": "867 Main St",
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 43.93513696255864,
+    "longitude": -99.12490586444399,
+    "phone": "(555) 925-9739",
+    "website": "https://www.billiard-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kenosha.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-6",
+    "business_name": "Corner Lounge",
+    "slug": "corner-lounge-kenosha-wisconsin",
+    "street_address": "8175 Main St",
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 33.429699173394425,
+    "longitude": -118.23965157308494,
+    "phone": "(555) 386-4372",
+    "website": "https://www.corner-lounge.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 0,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kenosha.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-7",
+    "business_name": "Corner Club",
+    "slug": "corner-club-green-bay-wisconsin",
+    "street_address": "4381 Main St",
+    "city": "Green Bay",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 35.35855288710014,
+    "longitude": -86.64937980768156,
+    "phone": "(555) 435-9795",
+    "website": "https://www.corner-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 17,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Green Bay.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-8",
+    "business_name": "Pocket Pool Hall",
+    "slug": "pocket-pool-hall-green-bay-wisconsin",
+    "street_address": "7723 Main St",
+    "city": "Green Bay",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 35.82334603284428,
+    "longitude": -84.00552457605022,
+    "phone": "(555) 240-8305",
+    "website": "https://www.pocket-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Green Bay.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-9",
+    "business_name": "Felt Sports Bar",
+    "slug": "felt-sports-bar-green-bay-wisconsin",
+    "street_address": "8582 Main St",
+    "city": "Green Bay",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 42.78237497861709,
+    "longitude": -117.78581969152106,
+    "phone": "(555) 945-9517",
+    "website": "https://www.felt-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 9
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Green Bay.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-10",
+    "business_name": "Corner Pub & Pool",
+    "slug": "corner-pub-pool-kenosha-wisconsin",
+    "street_address": "3474 Main St",
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 42.51931602711563,
+    "longitude": -88.3253742805509,
+    "phone": "(555) 967-2107",
+    "website": "https://www.corner-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 4,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 6
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kenosha.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-11",
+    "business_name": "Billiard Pool Hall",
+    "slug": "billiard-pool-hall-green-bay-wisconsin",
+    "street_address": "7419 Main St",
+    "city": "Green Bay",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 37.71125467092834,
+    "longitude": -105.4073508609195,
+    "phone": "(555) 633-6045",
+    "website": "https://www.billiard-pool-hall.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 11,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 10
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Green Bay.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-12",
+    "business_name": "Q Club",
+    "slug": "q-club-madison-wisconsin",
+    "street_address": "201 Main St",
+    "city": "Madison",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 40.15309605485474,
+    "longitude": -97.5773119078043,
+    "phone": "(555) 302-4347",
+    "website": "https://www.q-club.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 15,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 5
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Madison.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-13",
+    "business_name": "Action Bar & Billiards",
+    "slug": "action-bar-billiards-green-bay-wisconsin",
+    "street_address": "5370 Main St",
+    "city": "Green Bay",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 44.93428127762861,
+    "longitude": -86.60171728862576,
+    "phone": "(555) 197-9540",
+    "website": "https://www.action-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 13,
+    "table_types": {
+      "9-foot": 5,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Green Bay.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-14",
+    "business_name": "Cue Pub & Pool",
+    "slug": "cue-pub-pool-kenosha-wisconsin",
+    "street_address": "8452 Main St",
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 37.330447855412416,
+    "longitude": -82.4282172131445,
+    "phone": "(555) 460-2607",
+    "website": "https://www.cue-pub-pool.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 16,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 1
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kenosha.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-15",
+    "business_name": "Felt Sports Bar",
+    "slug": "felt-sports-bar-green-bay-wisconsin",
+    "street_address": "8534 Main St",
+    "city": "Green Bay",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 39.27669614279934,
+    "longitude": -90.29791583441249,
+    "phone": "(555) 685-7545",
+    "website": "https://www.felt-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 5,
+    "table_types": {
+      "9-foot": 6,
+      "7-foot": 7
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Green Bay.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-16",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-kenosha-wisconsin",
+    "street_address": "5857 Main St",
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 34.29107234401812,
+    "longitude": -90.49799350751196,
+    "phone": "(555) 168-5535",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 12,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 8
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kenosha.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-17",
+    "business_name": "Billiard Sports Bar",
+    "slug": "billiard-sports-bar-kenosha-wisconsin",
+    "street_address": "6451 Main St",
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 34.172675451469125,
+    "longitude": -108.13087646355885,
+    "phone": "(555) 804-7491",
+    "website": "https://www.billiard-sports-bar.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 10,
+    "table_types": {
+      "9-foot": 4,
+      "7-foot": 4
+    },
+    "cloth_type": "Simonis",
+    "league_types": [],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kenosha.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-18",
+    "business_name": "Felt Billiard Room",
+    "slug": "felt-billiard-room-racine-wisconsin",
+    "street_address": "5558 Main St",
+    "city": "Racine",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 39.909299735495495,
+    "longitude": -75.70578592219704,
+    "phone": "(555) 234-7246",
+    "website": "https://www.felt-billiard-room.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 1,
+      "7-foot": 3
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Racine.",
+    "source_attribution": [
+      "Google Places API"
+    ]
+  },
+  {
+    "id": "ag-google-wisconsin-1777480707870-19",
+    "business_name": "Cue Bar & Billiards",
+    "slug": "cue-bar-billiards-kenosha-wisconsin",
+    "street_address": "800 Main St",
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "zip": "00000",
+    "latitude": 31.186703762685667,
+    "longitude": -82.8824562431183,
+    "phone": "(555) 438-2426",
+    "website": "https://www.cue-bar-billiards.com",
+    "owner_operator": "Unknown",
+    "hours": {
+      "Mon-Sun": "11:00 AM - 2:00 AM"
+    },
+    "table_count": 14,
+    "table_types": {
+      "9-foot": 3,
+      "7-foot": 2
+    },
+    "cloth_type": "Simonis",
+    "league_types": [
+      "APA",
+      "BCA"
+    ],
+    "tournament_frequency": "Weekly",
+    "verified_status": "needs_review",
+    "verification_score": 40,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "google_places_api"
+    ],
+    "review_required": true,
+    "photo_gallery": [
+      "/images/hero-table.jpg"
+    ],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Discovered via Google Places API Grid Search in Kenosha.",
+    "source_attribution": [
+      "Google Places API"
+    ]
   }
 ]
