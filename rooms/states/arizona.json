@@ -32,7 +32,7 @@
     "tournament_frequency": "Weekly",
     "weekly_tournament_schedule": "Multiple Days",
     "verified_status": "verified",
-    "verification_score": 98,
+    "verification_score": 100,
     "last_verified": "2026-04-28",
     "verification_sources": [
       "google_maps",
@@ -87,7 +87,7 @@
     "tournament_frequency": "Weekly",
     "weekly_tournament_schedule": "Thursdays & Saturdays",
     "verified_status": "verified",
-    "verification_score": 90,
+    "verification_score": 100,
     "last_verified": "2026-04-28",
     "verification_sources": [
       "google_maps",
@@ -140,7 +140,7 @@
     "tournament_frequency": "Weekly",
     "weekly_tournament_schedule": "Sundays",
     "verified_status": "partial_verified",
-    "verification_score": 80,
+    "verification_score": 85,
     "last_verified": "2026-04-28",
     "verification_sources": [
       "google_maps"
@@ -192,7 +192,7 @@
     "tournament_frequency": "Weekly",
     "weekly_tournament_schedule": "Mondays",
     "verified_status": "partial_verified",
-    "verification_score": 80,
+    "verification_score": 85,
     "last_verified": "2026-04-28",
     "verification_sources": [
       "google_maps"
@@ -241,7 +241,7 @@
     "photo_gallery": [],
     "primary_hero_image": "/images/hero-table.jpg",
     "room_description": "Mapped billiard location via OpenStreetMap.",
-    "verification_score": 35,
+    "verification_score": 65,
     "review_required": true,
     "parking_info": "Lot parking",
     "alcohol_food_availability": "Unknown",

@@ -33,7 +33,7 @@
     "tournament_frequency": "Weekly",
     "weekly_tournament_schedule": "Multiple Days",
     "verified_status": "verified",
-    "verification_score": 99,
+    "verification_score": 100,
     "last_verified": "2026-04-28",
     "verification_sources": [
       "google_maps",
@@ -87,7 +87,7 @@
     "tournament_frequency": "Weekly",
     "weekly_tournament_schedule": "Saturdays",
     "verified_status": "verified",
-    "verification_score": 98,
+    "verification_score": 85,
     "last_verified": "2026-04-28",
     "verification_sources": [
       "google_maps"
@@ -139,7 +139,7 @@
     "tournament_frequency": "Occasional",
     "weekly_tournament_schedule": "",
     "verified_status": "verified",
-    "verification_score": 95,
+    "verification_score": 100,
     "last_verified": "2026-04-28",
     "verification_sources": [
       "google_maps",

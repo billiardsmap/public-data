@@ -1,5 +1,10 @@
 # BILLIARDSMAP NATIONAL DATA REGISTRY - SOURCE OF TRUTH
 
+> [!CAUTION]
+> **PUBLIC REPOSITORY WARNING**
+> This repository (`billiardsmap-public-data`) is **100% PUBLIC**.
+> Do **NOT** commit any internal roadmaps, monetization models, pricing JSONs, agent prompts, or private business strategies here. All internal docs must be saved to the workspace root (`/roadmap`, `/docs`, `/reports`). Reference `/docs/SECURITY-PROTOCOLS.md` at the workspace root for full boundaries.
+
 This document controls the entire data ingestion and moderation system.
 
 ## 1. What is Truth
