@@ -1,0 +1,56 @@
+[
+  {
+    "id": "osm-12428743021",
+    "business_name": "The Rack Billiard Club",
+    "slug": "the-rack-billiard-club-clive-ia",
+    "street_address": "8803 University Avenue",
+    "city": "Clive",
+    "state": "IA",
+    "zip": "50325",
+    "latitude": 41.6027347,
+    "longitude": -93.7400347,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-1364440492",
+    "business_name": "Bud's Pub",
+    "slug": "bud-s-pub-granger-ia",
+    "street_address": "1912 Main Street",
+    "city": "Granger",
+    "state": "IA",
+    "zip": "50109",
+    "latitude": 41.7607078,
+    "longitude": -93.8205363,
+    "phone": "+1-515-999-2066",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

@@ -263,5 +263,40 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-league-1777480311310-385",
+    "business_name": "Cue Bar",
+    "slug": "cue-bar-bayside",
+    "street_address": "789 Bell Blvd",
+    "city": "Bayside",
+    "state": "New York",
+    "zip": "11361",
+    "latitude": 40.7634,
+    "longitude": -73.7716,
+    "phone": "(555) 555-5678",
+    "website": "",
+    "owner_operator": "League Host",
+    "hours": {},
+    "table_count": 15,
+    "table_types": {},
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Official Host Location for the APA league.",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "league_directory"
+    ],
+    "review_required": false,
+    "source_attribution": [
+      "League Directory Scraper"
+    ]
   }
 ]

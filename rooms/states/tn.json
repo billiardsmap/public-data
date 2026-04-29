@@ -1,0 +1,56 @@
+[
+  {
+    "id": "osm-3938832359",
+    "business_name": "Southeast Cues",
+    "slug": "southeast-cues-clarksville-tn",
+    "street_address": "404 North 2nd Street",
+    "city": "Clarksville",
+    "state": "TN",
+    "zip": "37040",
+    "latitude": 36.5316273,
+    "longitude": -87.360425,
+    "phone": "+1 931-553-6844",
+    "website": "http://www.southeastcues.com/",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-390738519",
+    "business_name": "Night Deposit",
+    "slug": "night-deposit-clarksville-tn",
+    "street_address": "404 North 2nd Street",
+    "city": "Clarksville",
+    "state": "TN",
+    "zip": "37040",
+    "latitude": 36.5316172,
+    "longitude": -87.3605958,
+    "phone": "+1 931-553-8222",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "osm-69312301",
+    "business_name": "Bill's Recreation Center",
+    "slug": "bill-s-recreation-center-detroit-mi",
+    "street_address": "3525 3rd Street",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48201",
+    "latitude": 42.3445031,
+    "longitude": -83.0656369,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

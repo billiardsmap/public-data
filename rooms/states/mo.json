@@ -1,0 +1,29 @@
+[
+  {
+    "id": "osm-1220642943",
+    "business_name": "McDingerz Sports Bar & Grill",
+    "slug": "mcdingerz-sports-bar-grill-eolia-mo",
+    "street_address": "131 West Outer Road",
+    "city": "Eolia",
+    "state": "MO",
+    "zip": "63344",
+    "latitude": 39.2334187,
+    "longitude": -91.0173495,
+    "phone": "+1-573-485-2030",
+    "website": "https://www.facebook.com/people/McDingerz-Sports-Bar-Grill/100087266270140/",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

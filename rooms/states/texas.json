@@ -406,5 +406,40 @@
     "source_attribution": [
       "Expansion"
     ]
+  },
+  {
+    "id": "ag-league-1777480311294-242",
+    "business_name": "Clicks Billiards",
+    "slug": "clicks-billiards-dallas",
+    "street_address": "123 Main St",
+    "city": "Dallas",
+    "state": "Texas",
+    "zip": "75001",
+    "latitude": 32.7767,
+    "longitude": -96.797,
+    "phone": "(555) 555-1234",
+    "website": "",
+    "owner_operator": "League Host",
+    "hours": {},
+    "table_count": 24,
+    "table_types": {},
+    "cloth_type": "Standard",
+    "league_types": [
+      "APA"
+    ],
+    "tournament_frequency": "Weekly",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Official Host Location for the APA league.",
+    "verified_status": "verified",
+    "verification_score": 90,
+    "last_verified": "2026-04-29",
+    "verification_sources": [
+      "league_directory"
+    ],
+    "review_required": false,
+    "source_attribution": [
+      "League Directory Scraper"
+    ]
   }
 ]

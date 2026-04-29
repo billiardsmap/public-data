@@ -1,0 +1,56 @@
+[
+  {
+    "id": "osm-2460658472",
+    "business_name": "Trinity Brewhouse",
+    "slug": "trinity-brewhouse-providence-ri",
+    "street_address": "186 Fountain Street",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02903",
+    "latitude": 41.8223638,
+    "longitude": -71.4168238,
+    "phone": "+1-401-453-2337",
+    "website": "https://www.trinitybrewhouse.com/",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-768239097",
+    "business_name": "The Scurvy Dog",
+    "slug": "the-scurvy-dog-providence-ri",
+    "street_address": "1718 Westminster Street",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02909",
+    "latitude": 41.8156487,
+    "longitude": -71.4383446,
+    "phone": "",
+    "website": "http://www.scurvydogbar.com/",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

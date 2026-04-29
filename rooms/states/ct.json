@@ -1,0 +1,56 @@
+[
+  {
+    "id": "osm-3705954939",
+    "business_name": "Cappy & Son And Daughter Pool Tables",
+    "slug": "cappy-son-and-daughter-pool-tables-bridgeport-ct",
+    "street_address": "3295 Fairfield Avenue",
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06605",
+    "latitude": 41.1550628,
+    "longitude": -73.2340602,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-6060564886",
+    "business_name": "Bulleye's Billards and Bar",
+    "slug": "bulleye-s-billards-and-bar-east-haven-ct",
+    "street_address": "655 Main Street, #3",
+    "city": "East Haven",
+    "state": "CT",
+    "zip": "06512",
+    "latitude": 41.2870141,
+    "longitude": -72.8859087,
+    "phone": "+1 203-466-7665",
+    "website": "http://bulleyesbillardsandbar.com",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "osm-3636084372",
+    "business_name": "Pool Tables Utah",
+    "slug": "pool-tables-utah-midvale-ut",
+    "street_address": "6835 South State Street",
+    "city": "Midvale",
+    "state": "UT",
+    "zip": "",
+    "latitude": 40.6270828,
+    "longitude": -111.889607,
+    "phone": "+1 801-568-7050",
+    "website": "http://valleyspasandbilliards.com/",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-3826014926",
+    "business_name": "Brewvies Cinema Pub",
+    "slug": "brewvies-cinema-pub-salt-lake-city-ut",
+    "street_address": "677 South 200 West",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "",
+    "latitude": 40.7544684,
+    "longitude": -111.896094,
+    "phone": "+1-801-355-5500; +1-801-322-3891",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Cinema and pub restaurant; beer and pizza; cocktails; fare; pool tables"
+  }
+]

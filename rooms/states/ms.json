@@ -1,0 +1,29 @@
+[
+  {
+    "id": "osm-893558324",
+    "business_name": "The Rack Room",
+    "slug": "the-rack-room-hattiesburg-ms",
+    "street_address": "3602 MS 42",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39402",
+    "latitude": 31.4206942,
+    "longitude": -89.4136988,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

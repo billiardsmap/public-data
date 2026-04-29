@@ -1,0 +1,56 @@
+[
+  {
+    "id": "osm-3441763197",
+    "business_name": "Smiley's Pocket",
+    "slug": "smiley-s-pocket-louisville-ky",
+    "street_address": "2124 South Preston Street",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40217",
+    "latitude": 38.2166324,
+    "longitude": -85.7451883,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-1051066702",
+    "business_name": "S and B Tanning and Billiards",
+    "slug": "s-and-b-tanning-and-billiards-mckee-ky",
+    "street_address": "571 North Main Street",
+    "city": "McKee",
+    "state": "KY",
+    "zip": "40447",
+    "latitude": 37.4293637,
+    "longitude": -84.0076555,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "osm-10205274326",
+    "business_name": "Metropolitan Billiard Parlor",
+    "slug": "metropolitan-billiard-parlor-morgantown-wv",
+    "street_address": "371 High Street",
+    "city": "Morgantown",
+    "state": "WV",
+    "zip": "26505",
+    "latitude": 39.6306638,
+    "longitude": -79.9553492,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

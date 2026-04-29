@@ -1,0 +1,56 @@
+[
+  {
+    "id": "osm-4586446356",
+    "business_name": "Michiana Darts & Billiards",
+    "slug": "michiana-darts-billiards-south-bend-in",
+    "street_address": "50510 Indiana State Route 933",
+    "city": "South Bend",
+    "state": "IN",
+    "zip": "46637",
+    "latitude": 41.7599976,
+    "longitude": -86.2505031,
+    "phone": "+1 574 272 1617",
+    "website": "http://Michianadarts.com",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-9933751052",
+    "business_name": "Monty's Pool Hall",
+    "slug": "monty-s-pool-hall-la-porte-in",
+    "street_address": "1004 Lincolnway",
+    "city": "La Porte",
+    "state": "IN",
+    "zip": "46350",
+    "latitude": 41.6099201,
+    "longitude": -86.7234214,
+    "phone": "",
+    "website": "https://www.facebook.com/MontysPoolHall/",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

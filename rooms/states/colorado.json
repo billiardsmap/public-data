@@ -131,12 +131,13 @@
     "cloth_type": "Standard",
     "league_types": [
       "APA",
-      "BCA"
+      "BCA",
+      "NAPA"
     ],
     "tournament_frequency": "Weekly",
     "weekly_tournament_schedule": "Thursdays & Sundays",
     "verified_status": "verified",
-    "verification_score": 100,
+    "verification_score": 90,
     "last_verified": "2026-04-28",
     "verification_sources": [
       "google_maps",

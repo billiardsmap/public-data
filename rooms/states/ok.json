@@ -1,0 +1,83 @@
+[
+  {
+    "id": "osm-209317745",
+    "business_name": "Shots",
+    "slug": "shots-stillwater-ok",
+    "street_address": "421 South Washington Street",
+    "city": "Stillwater",
+    "state": "OK",
+    "zip": "74074",
+    "latitude": 36.1169219,
+    "longitude": -97.0690301,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-1315802667",
+    "business_name": "Torchy's Pool Shooters",
+    "slug": "torchy-s-pool-shooters-glenpool-ok",
+    "street_address": "13833 South Casper Street West",
+    "city": "Glenpool",
+    "state": "OK",
+    "zip": "74033",
+    "latitude": 35.9621651,
+    "longitude": -96.0110389,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-1408179318",
+    "business_name": "Torchy's Side Pocket",
+    "slug": "torchy-s-side-pocket-tulsa-ok",
+    "street_address": "6151 East 31st Street South",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74135",
+    "latitude": 36.1193918,
+    "longitude": -95.906804,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

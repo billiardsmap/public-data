@@ -1,0 +1,56 @@
+[
+  {
+    "id": "osm-6371072934",
+    "business_name": "Gate City Billiards Club",
+    "slug": "gate-city-billiards-club-nc",
+    "street_address": "6004 Landmark Center Boulevard",
+    "city": "",
+    "state": "NC",
+    "zip": "27407",
+    "latitude": 36.0520982,
+    "longitude": -79.8915187,
+    "phone": "+1-336-856-8800",
+    "website": "https://www.gatecitybilliards.com/",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-836884744",
+    "business_name": "Pool Tables Plus",
+    "slug": "pool-tables-plus-charlotte-nc",
+    "street_address": "4445 East Independence Boulevard",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28205",
+    "latitude": 35.1962479,
+    "longitude": -80.7669958,
+    "phone": "+1 704 5358002",
+    "website": "https://www.carolinapooltablesplus.com/",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

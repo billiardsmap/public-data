@@ -1,0 +1,29 @@
+[
+  {
+    "id": "osm-810094645",
+    "business_name": "Prestige Billards",
+    "slug": "prestige-billards-mesa-az",
+    "street_address": "1455 South Stapley Drive",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85204",
+    "latitude": 33.388962,
+    "longitude": -111.8046222,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

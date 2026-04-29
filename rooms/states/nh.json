@@ -1,0 +1,56 @@
+[
+  {
+    "id": "osm-9721902841",
+    "business_name": "603 Bar & Grill",
+    "slug": "603-bar-grill-manchester-nh",
+    "street_address": "1087 Elm Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03101",
+    "latitude": 42.9934774,
+    "longitude": -71.4628653,
+    "phone": "+1-603-932-2868",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-9721942028",
+    "business_name": "Breezeway Pub",
+    "slug": "breezeway-pub-manchester-nh",
+    "street_address": "14 Pearl Street",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03101",
+    "latitude": 42.9957511,
+    "longitude": -71.4632677,
+    "phone": "+16036219111",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

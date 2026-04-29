@@ -1,0 +1,83 @@
+[
+  {
+    "id": "osm-11891881893",
+    "business_name": "KB's Grill & Pub",
+    "slug": "kb-s-grill-pub-kennesaw-ga",
+    "street_address": "3600 Cherokee Street Northwest",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30144",
+    "latitude": 34.0420457,
+    "longitude": -84.6017352,
+    "phone": "+1 770-514-9900",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-248143218",
+    "business_name": "Billiards on Broad",
+    "slug": "billiards-on-broad-columbus-ga",
+    "street_address": "1111 Broadway Avenue",
+    "city": "Columbus",
+    "state": "GA",
+    "zip": "31901",
+    "latitude": 32.4670602,
+    "longitude": -84.9937385,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-497036062",
+    "business_name": "Dawsonville Pool Room",
+    "slug": "dawsonville-pool-room-dawsonville-ga",
+    "street_address": "9 Bill Elliott Street South",
+    "city": "Dawsonville",
+    "state": "GA",
+    "zip": "30534",
+    "latitude": 34.4209435,
+    "longitude": -84.1180403,
+    "phone": "+1-706-265-2792",
+    "website": "http://www.dawsonvillepoolroom.com",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

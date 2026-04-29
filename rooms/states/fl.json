@@ -1,0 +1,56 @@
+[
+  {
+    "id": "osm-6035708876",
+    "business_name": "Hots Shots",
+    "slug": "hots-shots-cutler-bay-fl",
+    "street_address": "19331 South Dixie Highway",
+    "city": "Cutler Bay",
+    "state": "FL",
+    "zip": "33157",
+    "latitude": 25.5881656,
+    "longitude": -80.3595526,
+    "phone": "+1-786-581-9281",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-11984663054",
+    "business_name": "Boss Ladies Gastrobar & Billiards",
+    "slug": "boss-ladies-gastrobar-billiards-spring-hill-fl",
+    "street_address": "4670 Commercial Way",
+    "city": "Spring Hill",
+    "state": "FL",
+    "zip": "34606",
+    "latitude": 28.4954585,
+    "longitude": -82.5934711,
+    "phone": "+1-352-340-4159",
+    "website": "https://bossladiesgastrobar.com/",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

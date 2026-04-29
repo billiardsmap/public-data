@@ -1,0 +1,56 @@
+[
+  {
+    "id": "osm-5623364827",
+    "business_name": "Shooters Family Billiard",
+    "slug": "shooters-family-billiard-wayne-nj",
+    "street_address": "2230 Paterson-Hamburg Turnpike",
+    "city": "Wayne",
+    "state": "NJ",
+    "zip": "07470",
+    "latitude": 40.9842061,
+    "longitude": -74.2756128,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-928736943",
+    "business_name": "Aloft Secaucus Meadowlands",
+    "slug": "aloft-secaucus-meadowlands-secaucus-nj",
+    "street_address": "460 Harmon Meadow Boulevard",
+    "city": "Secaucus",
+    "state": "NJ",
+    "zip": "07094",
+    "latitude": 40.7905495,
+    "longitude": -74.0457806,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

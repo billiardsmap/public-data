@@ -1,0 +1,83 @@
+[
+  {
+    "id": "osm-1125020024",
+    "business_name": "Tables & Ale",
+    "slug": "tables-ale-fayetteville-ar",
+    "street_address": "102 North Block Avenue",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701",
+    "latitude": 36.0637853,
+    "longitude": -94.1602909,
+    "phone": "+1 479 521 3033",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-474255709",
+    "business_name": "Old School Billiards",
+    "slug": "old-school-billiards-fayetteville-ar",
+    "street_address": "45 West Colt Square Drive",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72703",
+    "latitude": 36.0921812,
+    "longitude": -94.1580378,
+    "phone": "+1 479 442 1706",
+    "website": "https://www.facebook.com/oldschoolnwa/",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-762738639",
+    "business_name": "Beezer's Fine Billiards",
+    "slug": "beezer-s-fine-billiards-russellville-ar",
+    "street_address": "224 Shamrock Boulevard",
+    "city": "Russellville",
+    "state": "AR",
+    "zip": "72801",
+    "latitude": 35.2790805,
+    "longitude": -93.090625,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

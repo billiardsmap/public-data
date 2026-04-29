@@ -1,0 +1,29 @@
+[
+  {
+    "id": "osm-11392722263",
+    "business_name": "Suzi-Cue Pool Hall",
+    "slug": "suzi-cue-pool-hall-columbus-oh",
+    "street_address": "1950 North 4th Street",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43201",
+    "latitude": 40.0030454,
+    "longitude": -82.9982047,
+    "phone": "",
+    "website": "https://suzicuepoolhall.com/",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

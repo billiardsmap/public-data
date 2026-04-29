@@ -1,0 +1,56 @@
+[
+  {
+    "id": "osm-2491848736",
+    "business_name": "Old Milwaukee Club & Saloon",
+    "slug": "old-milwaukee-club-saloon-pequot-lakes-mn",
+    "street_address": "35002 County Road 39",
+    "city": "Pequot Lakes",
+    "state": "MN",
+    "zip": "56472",
+    "latitude": 46.6606672,
+    "longitude": -94.1980611,
+    "phone": "+1 218 543 4117",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-825699043",
+    "business_name": "Carr’s Bar N’ Grill",
+    "slug": "carr-s-bar-n-grill-racine-mn",
+    "street_address": "10 East St",
+    "city": "Racine",
+    "state": "MN",
+    "zip": "",
+    "latitude": 43.7755621,
+    "longitude": -92.4843862,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]

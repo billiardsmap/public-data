@@ -1,0 +1,83 @@
+[
+  {
+    "id": "osm-1043409620",
+    "business_name": "Scaffidi’s Hideout",
+    "slug": "scaffidi-s-hideout-milwaukee-wi",
+    "street_address": "1837 North Humboldt Avenue",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53202",
+    "latitude": 43.0552663,
+    "longitude": -87.8982237,
+    "phone": "+1 414 273 1665",
+    "website": "http://scaffidishideout.com",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-664198442",
+    "business_name": "Romine's High Pockets",
+    "slug": "romine-s-high-pockets-greenfield-wi",
+    "street_address": "6125 South 27th Street",
+    "city": "Greenfield",
+    "state": "WI",
+    "zip": "53221",
+    "latitude": 42.9334841,
+    "longitude": -87.9513995,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  },
+  {
+    "id": "osm-1460646057",
+    "business_name": "Racks and Rods",
+    "slug": "racks-and-rods-starks-wi",
+    "street_address": "2479 County Road C",
+    "city": "Starks",
+    "state": "WI",
+    "zip": "54501",
+    "latitude": 45.6625465,
+    "longitude": -89.21936,
+    "phone": "",
+    "website": "",
+    "table_count": null,
+    "verified_status": "partial_verified",
+    "source_attribution": [
+      "OpenStreetMap"
+    ],
+    "owner_operator": "",
+    "hours": {},
+    "table_types": {},
+    "cloth_type": "",
+    "league_types": [],
+    "tournament_frequency": "",
+    "photo_gallery": [],
+    "primary_hero_image": "/images/hero-table.jpg",
+    "room_description": "Mapped billiard location via OpenStreetMap."
+  }
+]
