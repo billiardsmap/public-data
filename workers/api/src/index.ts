@@ -117,6 +117,13 @@ app.post('/api/claim-room', async (c) => {
   return c.json(result, 201);
 });
 
+app.post('/api/contribute', async (c) => {
+  const payload = await c.req.json();
+  // Submits Chalk Scout intelligence reports to the moderation queue
+  const result = await submitToModerationQueue(c.env, payload, 'chalk_scout_report');
+  return c.json(result, 201);
+});
+
 app.post('/api/submit-tournament', async (c) => {
   const payload = await c.req.json();
   const result = await submitToModerationQueue(c.env, payload, 'tournament_submission');
@@ -127,6 +134,25 @@ app.post('/api/report-issue', async (c) => {
   const payload = await c.req.json();
   const result = await submitToModerationQueue(c.env, payload, 'issue_report');
   return c.json(result, 201);
+});
+
+// ============================================================================
+// STRIPE INTEGRATION - Vector 5
+// ============================================================================
+app.post('/api/create-checkout-session', async (c) => {
+  // Mocked Stripe Checkout logic for the SaaS Director Engine
+  const { plan_id } = await c.req.json();
+  
+  console.log(`[STRIPE] Initiating Checkout Session for plan: ${plan_id}`);
+  
+  // In production:
+  // const session = await stripe.checkout.sessions.create({ ... })
+  // return c.json({ url: session.url });
+  
+  return c.json({ 
+    url: "https://checkout.stripe.com/pay/cs_test_mock_123456789",
+    status: "success"
+  }, 200);
 });
 
 export default app;
