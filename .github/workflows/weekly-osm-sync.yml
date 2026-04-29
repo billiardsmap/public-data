@@ -19,8 +19,14 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run OpenStreetMap Scraper
+      - name: Run OpenStreetMap Scraper (Primary)
         run: node scripts/scraper-osm.js
+
+      - name: Run OpenStreetMap Scraper (Bar Boxes)
+        run: node scripts/scraper-osm-bars.js
+
+      - name: Run League Operator Directory Scraper
+        run: node scripts/scrape-leagues.js
 
       - name: Check for changes
         id: git-check
